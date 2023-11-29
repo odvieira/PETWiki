@@ -1,8 +1,8 @@
 ---
-title: PET Produ��o
+title: PET Produção
 description: grupo da Universidade Federal de S�o Carlos
 published: true
-date: 2023-11-29T06:13:03.312Z
+date: 2023-11-29T06:13:57.704Z
 tags: engenharias, nan
 editor: markdown
 dateCreated: 2023-11-29T04:34:20.350Z
