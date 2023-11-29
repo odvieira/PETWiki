@@ -2,10 +2,10 @@
 title: PET Comunicacao Social - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-29T03:33:44.746883
+date: 2023-11-29T03:37:02.789469
 tags: Ciencias Sociais Aplicadas, Ensino, Pesquisa e Extensao
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.746883
+dateCreated: 2023-11-29T03:37:02.789469
 ---
 
 # PET Comunicacao Social
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.746883
 | Email                                       | petcomunicacaosocial@ufsm.br             |
 | Site                                        | www.ufsm.br/pet/comunicacao-social/              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Temática                                    | Ensino, Pesquisa e Extensao          |
-| Ano de criação                              | 1992        |
+| Tematica                                    | Ensino, Pesquisa e Extensao          |
+| Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petcomufsm         |
 | Facebook                                    | https://www.facebook.com/petcomufsm          |
 | Twitter                                     | nan           |

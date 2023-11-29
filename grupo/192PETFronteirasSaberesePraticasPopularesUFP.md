@@ -2,10 +2,10 @@
 title: PET Fronteiras: Saberes e Praticas Populares - UFP
 description: grupo da Universidade Federal de Pelotas
 published: true
-date: 2023-11-29T03:33:44.741883
+date: 2023-11-29T03:37:02.783471
 tags: Interdisciplinar, Saberes e Praticas Populares
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.741883
+dateCreated: 2023-11-29T03:37:02.783471
 ---
 
 # PET Fronteiras: Saberes e Praticas Populares
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.741883
 | Email                                       | petfronteirasufpel@gmail.com             |
 | Site                                        | pet-saberes-e-praticas-populares1.webnode.com/              |
 | Eixo                                        | Interdisciplinar              |
-| Temática                                    | Saberes e Praticas Populares          |
-| Ano de criação                              | 2012        |
+| Tematica                                    | Saberes e Praticas Populares          |
+| Ano de criacao                              | 2012        |
 | Instagram                                   | https://instagram.com/pet_fronteiras         |
 | Facebook                                    | https://facebook.com/petfronteirassaberesepraticaspopulares/          |
 | Twitter                                     | nan           |

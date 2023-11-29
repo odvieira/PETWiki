@@ -2,10 +2,10 @@
 title: PET Engenharia Civil - UFRG
 description: grupo da Universidade Federal do Rio Grande
 published: true
-date: 2023-11-29T03:33:44.743882
+date: 2023-11-29T03:37:02.785468
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.743882
+dateCreated: 2023-11-29T03:37:02.785468
 ---
 
 # PET Engenharia Civil
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.743882
 | Email                                       | petcivil.furg@gmail.com             |
 | Site                                        | petcivil.furg.br/              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1994        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1994        |
 | Instagram                                   | https://instagram.com/petcivilfurg         |
 | Facebook                                    | https://www.facebook.com/petcivilfurg/          |
 | Twitter                                     | nan           |

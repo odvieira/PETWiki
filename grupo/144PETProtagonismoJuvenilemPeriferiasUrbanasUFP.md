@@ -2,10 +2,10 @@
 title: PET Protagonismo Juvenil em Periferias Urbanas - UFP
 description: grupo da Universidade Federal da Paraiba
 published: true
-date: 2023-11-29T03:33:44.737882
+date: 2023-11-29T03:37:02.778469
 tags: Ciencias Humanas, Educacao
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.737882
+dateCreated: 2023-11-29T03:37:02.778469
 ---
 
 # PET Protagonismo Juvenil em Periferias Urbanas
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.737882
 | Email                                       | protagonismojuvenilpet@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Humanas              |
-| Temática                                    | Educacao          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | Educacao          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/pet.protagonismojuvenil         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

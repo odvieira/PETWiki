@@ -2,10 +2,10 @@
 title: PET Mais Saude - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-29T03:33:44.739882
+date: 2023-11-29T03:37:02.780470
 tags: Interdisciplinar, Conexoes do Saberes: Populacoes do Campo
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.739882
+dateCreated: 2023-11-29T03:37:02.780470
 ---
 
 # PET Mais Saude
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.739882
 | Email                                       | petmsaude@gmail.com             |
 | Site                                        | petmsaude.wixsite.com/petmsaude              |
 | Eixo                                        | Interdisciplinar              |
-| Temática                                    | Conexoes do Saberes: Populacoes do Campo          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | Conexoes do Saberes: Populacoes do Campo          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petmaissaude         |
 | Facebook                                    | https://www.facebook.com/petmais.saude          |
 | Twitter                                     | nan           |

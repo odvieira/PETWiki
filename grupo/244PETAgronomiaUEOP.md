@@ -2,10 +2,10 @@
 title: PET Agronomia - UEOP
 description: grupo da Universidade Estadual do Oeste do Parana
 published: true
-date: 2023-11-29T03:33:44.745884
+date: 2023-11-29T03:37:02.787469
 tags: Ciencias Agrarias, Desenvolvimento rural sustentavel
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.745884
+dateCreated: 2023-11-29T03:37:02.787469
 ---
 
 # PET Agronomia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.745884
 | Email                                       | petagronomiaunioeste2017@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Temática                                    | Desenvolvimento rural sustentavel          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | Desenvolvimento rural sustentavel          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petagronomiaunioeste         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

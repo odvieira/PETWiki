@@ -2,10 +2,10 @@
 title: PET GAPE - UFP
 description: grupo da Universidade Federal de Pelotas
 published: true
-date: 2023-11-29T03:33:44.740882
+date: 2023-11-29T03:37:02.782469
 tags: Interdisciplinar, Educacao Popular
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.740882
+dateCreated: 2023-11-29T03:37:02.782469
 ---
 
 # PET GAPE
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.740882
 | Email                                       | gapeclpd@gmail.com             |
 | Site                                        | petgape.wordpress.com              |
 | Eixo                                        | Interdisciplinar              |
-| Temática                                    | Educacao Popular          |
-| Ano de criação                              | 2008        |
+| Tematica                                    | Educacao Popular          |
+| Ano de criacao                              | 2008        |
 | Instagram                                   | https://instagram.com/petgape         |
 | Facebook                                    | https://www.facebook.com/petgapeufpel/          |
 | Twitter                                     | nan           |

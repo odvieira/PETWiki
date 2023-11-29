@@ -2,10 +2,10 @@
 title: PET Ciencia da Computacao - UFMGS
 description: grupo da Universidade Federal de Mato Grosso do Sul
 published: true
-date: 2023-11-29T03:33:44.741883
+date: 2023-11-29T03:37:02.783471
 tags: Ciencias Exatas e da Terra, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.741883
+dateCreated: 2023-11-29T03:37:02.783471
 ---
 
 # PET Ciencia da Computacao
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.741883
 | Email                                       | petcomputacao@facom.ufms.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2009        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2009        |
 | Instagram                                   | https://instagram.com/petcomputacaoufms         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

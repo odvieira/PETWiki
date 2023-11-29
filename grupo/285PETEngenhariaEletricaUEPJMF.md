@@ -2,10 +2,10 @@
 title: PET Engenharia Eletrica - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-29T03:33:44.748882
+date: 2023-11-29T03:37:02.790470
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.748882
+dateCreated: 2023-11-29T03:37:02.790470
 ---
 
 # PET Engenharia Eletrica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.748882
 | Email                                       | peteletricailh@gmail.com             |
 | Site                                        | pet-ee.wixsite.com/peteletrica              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2012        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2012        |
 | Instagram                                   | https://instagram.com/peteletricailha         |
 | Facebook                                    | https://www.facebook.com/peteletricailha          |
 | Twitter                                     | nan           |

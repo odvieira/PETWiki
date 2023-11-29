@@ -2,10 +2,10 @@
 title: PET Ciencia e Tecnologia - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-29T03:33:44.725884
+date: 2023-11-29T03:37:02.767469
 tags: Interdisciplinar, Programa de Apoio aos Estudantes das Escolas Publicas do Estado
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.725884
+dateCreated: 2023-11-29T03:37:02.767469
 ---
 
 # PET Ciencia e Tecnologia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.725884
 | Email                                       | petct.ufal@gmail.com             |
 | Site                                        | www.google.com/url?sa=t&source=web&rct=j&url=http://pet.ufal.br/cet/&ved=2ahUKEwi7xPPtsdPsAhXHGbkGHWPADroQFjAAegQIAhAB&usg=AOvVaw3C0xFUwTxke425Qmjh9mLM              |
 | Eixo                                        | Interdisciplinar              |
-| Temática                                    | Programa de Apoio aos Estudantes das Escolas Publicas do Estado          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | Programa de Apoio aos Estudantes das Escolas Publicas do Estado          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petct.ufal         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

@@ -2,10 +2,10 @@
 title: PET Geografia - UFMGS
 description: grupo da Universidade Federal de Mato Grosso do Sul
 published: true
-date: 2023-11-29T03:33:44.736883
+date: 2023-11-29T03:37:02.777470
 tags: Ciencias Humanas, Geografia
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.736883
+dateCreated: 2023-11-29T03:37:02.777470
 ---
 
 # PET Geografia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.736883
 | Email                                       | pet-geo.cptl@ufms.br             |
 | Site                                        | petgeoufmscptl.blogspot.com/              |
 | Eixo                                        | Ciencias Humanas              |
-| Temática                                    | Geografia          |
-| Ano de criação                              | 1988        |
+| Tematica                                    | Geografia          |
+| Ano de criacao                              | 1988        |
 | Instagram                                   | https://instagram.com/petgeo_cptl         |
 | Facebook                                    | https://facebook.com/petgeografiaufmscptl/          |
 | Twitter                                     | nan           |

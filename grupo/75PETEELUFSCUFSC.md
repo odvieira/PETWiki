@@ -2,10 +2,10 @@
 title: PET EEL UFSC - UFSC
 description: grupo da Universidade Federal de Santa Catarina
 published: true
-date: 2023-11-29T03:33:44.731884
+date: 2023-11-29T03:37:02.772468
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.731884
+dateCreated: 2023-11-29T03:37:02.772468
 ---
 
 # PET EEL UFSC
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.731884
 | Email                                       | peteel@gmail.com             |
 | Site                                        | www.peteel.ufsc.br/              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1991        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1991        |
 | Instagram                                   | https://instagram.com/peteelufsc         |
 | Facebook                                    | https://www.facebook.com/peteelufsc/          |
 | Twitter                                     | nan           |

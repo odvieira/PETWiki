@@ -2,10 +2,10 @@
 title: PET Odontologia - UFA
 description: grupo da Universidade Federal de Alfenas
 published: true
-date: 2023-11-29T03:33:44.736883
+date: 2023-11-29T03:37:02.777470
 tags: Ciencias da Saude, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.736883
+dateCreated: 2023-11-29T03:37:02.777470
 ---
 
 # PET Odontologia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.736883
 | Email                                       | pet.odontologia@unifal-mg.edu.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias da Saude              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1991        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1991        |
 | Instagram                                   | https://instagram.com/petodontounifal         |
 | Facebook                                    | https://www.facebook.com/petodontounifalmg          |
 | Twitter                                     | nan           |

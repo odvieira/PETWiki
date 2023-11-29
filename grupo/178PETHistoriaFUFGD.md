@@ -2,10 +2,10 @@
 title: PET Historia - FUFGD
 description: grupo da Fundacao Universidade Federal da Grande Dourados
 published: true
-date: 2023-11-29T03:33:44.740882
+date: 2023-11-29T03:37:02.781470
 tags: Ciencias Humanas, Humanidades
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.740882
+dateCreated: 2023-11-29T03:37:02.781470
 ---
 
 # PET Historia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.740882
 | Email                                       | pethistoriafch@ufgd.edu.br             |
 | Site                                        | petfch.blogspot.com              |
 | Eixo                                        | Ciencias Humanas              |
-| Temática                                    | Humanidades          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | Humanidades          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/pethistoriaufgd         |
 | Facebook                                    | https://www.facebook.com/pethistufgd          |
 | Twitter                                     | nan           |

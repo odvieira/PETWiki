@@ -2,10 +2,10 @@
 title: PET Matematica - UB
 description: grupo da Universidade de Brasilia
 published: true
-date: 2023-11-29T03:33:44.745884
+date: 2023-11-29T03:37:02.787469
 tags: Ciencias Exatas e da Terra, Matematica
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.745884
+dateCreated: 2023-11-29T03:37:02.787469
 ---
 
 # PET Matematica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.745884
 | Email                                       | p3tmatunb@gmail.com             |
 | Site                                        | pet.mat.unb.br/              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | Matematica          |
-| Ano de criação                              | 1995        |
+| Tematica                                    | Matematica          |
+| Ano de criacao                              | 1995        |
 | Instagram                                   | https://instagram.com/petmatunb         |
 | Facebook                                    | https://www.facebook.com/PETMATUNB/          |
 | Twitter                                     | nan           |

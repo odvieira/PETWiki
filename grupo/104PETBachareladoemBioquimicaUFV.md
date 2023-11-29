@@ -2,10 +2,10 @@
 title: PET Bacharelado em Bioquimica - UFV
 description: grupo da Universidade Federal de Vicosa
 published: true
-date: 2023-11-29T03:33:44.735883
+date: 2023-11-29T03:37:02.775469
 tags: Ciencias Biologicas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.735883
+dateCreated: 2023-11-29T03:37:02.775469
 ---
 
 # PET Bacharelado em Bioquimica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.735883
 | Email                                       | petbioquimicaufv@gmail.com             |
 | Site                                        | petbqiufv.wixsite.com/petbqi              |
 | Eixo                                        | Ciencias Biologicas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petbioquimica         |
 | Facebook                                    | https://www.facebook.com/petbqiufv          |
 | Twitter                                     | nan           |

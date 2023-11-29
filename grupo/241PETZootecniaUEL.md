@@ -2,10 +2,10 @@
 title: PET Zootecnia - UEL
 description: grupo da Universidade Estadual de Londrina
 published: true
-date: 2023-11-29T03:33:44.745884
+date: 2023-11-29T03:37:02.787469
 tags: Ciencias Agrarias, Pet Zootecnia
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.745884
+dateCreated: 2023-11-29T03:37:02.787469
 ---
 
 # PET Zootecnia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.745884
 | Email                                       | petuelzootecnia@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Temática                                    | Pet Zootecnia          |
-| Ano de criação                              | 2011        |
+| Tematica                                    | Pet Zootecnia          |
+| Ano de criacao                              | 2011        |
 | Instagram                                   | https://instagram.com/petzootecniauel         |
 | Facebook                                    | https://www.facebook.com/PET-Zootecnia-UEL-341431985896246/          |
 | Twitter                                     | nan           |

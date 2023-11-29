@@ -2,10 +2,10 @@
 title: PET Agronomia - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-29T03:33:44.728887
+date: 2023-11-29T03:37:02.770467
 tags: Ciencias Agrarias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.728887
+dateCreated: 2023-11-29T03:37:02.770467
 ---
 
 # PET Agronomia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.728887
 | Email                                       | petagronomia@ufc.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1992        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petagronomiaufc/         |
 | Facebook                                    | https://www.facebook.com/petagronomiaufc/          |
 | Twitter                                     | nan           |

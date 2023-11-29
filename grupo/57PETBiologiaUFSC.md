@@ -2,10 +2,10 @@
 title: PET Biologia - UFSC
 description: grupo da Universidade Federal de Sao Carlos
 published: true
-date: 2023-11-29T03:33:44.729886
+date: 2023-11-29T03:37:02.771468
 tags: Ciencias Biologicas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.729886
+dateCreated: 2023-11-29T03:37:02.771468
 ---
 
 # PET Biologia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.729886
 | Email                                       | pet.bio.ufscar@ufscar.br             |
 | Site                                        | www.petbioufscar.com/              |
 | Eixo                                        | Ciencias Biologicas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1968        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1968        |
 | Instagram                                   | https://instagram.com/petbiologia.ufscar         |
 | Facebook                                    | https://www.facebook.com/petbioufscar          |
 | Twitter                                     | nan           |

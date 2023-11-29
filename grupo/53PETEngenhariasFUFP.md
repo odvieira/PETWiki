@@ -2,10 +2,10 @@
 title: PET Engenharias - FUFP
 description: grupo da Fundacao Universidade Federal do Pampa
 published: true
-date: 2023-11-29T03:33:44.728887
+date: 2023-11-29T03:37:02.771468
 tags: Engenharias, Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.728887
+dateCreated: 2023-11-29T03:37:02.771468
 ---
 
 # PET Engenharias
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.728887
 | Email                                       | petengenharias.unipampa@gmail.com             |
 | Site                                        | sites.unipampa.edu.br/petengenharias/              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | Interdisciplinar          |
-| Ano de criação                              | 2012        |
+| Tematica                                    | Interdisciplinar          |
+| Ano de criacao                              | 2012        |
 | Instagram                                   | https://instagram.com/petengenharias.unipampa         |
 | Facebook                                    | https://www.facebook.com/PETEngenhariasBG/          |
 | Twitter                                     | nan           |

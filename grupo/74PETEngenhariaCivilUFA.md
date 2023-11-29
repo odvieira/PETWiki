@@ -2,10 +2,10 @@
 title: PET Engenharia Civil - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-29T03:33:44.731884
+date: 2023-11-29T03:37:02.772468
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.731884
+dateCreated: 2023-11-29T03:37:02.772468
 ---
 
 # PET Engenharia Civil
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.731884
 | Email                                       | petengcv@gmail.com             |
 | Site                                        | www.petcivilufal.com/              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1988        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1988        |
 | Instagram                                   | https://instagram.com/petcivilufal         |
 | Facebook                                    | https://www.facebook.com/petcvufal          |
 | Twitter                                     | nan           |

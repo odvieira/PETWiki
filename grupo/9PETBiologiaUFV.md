@@ -2,10 +2,10 @@
 title: PET Biologia - UFV
 description: grupo da Universidade Federal de Vicosa
 published: true
-date: 2023-11-29T03:33:44.724885
+date: 2023-11-29T03:37:02.767469
 tags: Ciencias Biologicas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.724885
+dateCreated: 2023-11-29T03:37:02.767469
 ---
 
 # PET Biologia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.724885
 | Email                                       | petbio@ufv.br             |
 | Site                                        | petbioufv.blogspot.com/              |
 | Eixo                                        | Ciencias Biologicas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1985        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1985        |
 | Instagram                                   | https://instagram.com/petbiologiaufv         |
 | Facebook                                    | https://pt-br.facebook.com/PET-Biologia-UFV-325757977459425/          |
 | Twitter                                     | nan           |

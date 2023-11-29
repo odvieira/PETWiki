@@ -2,10 +2,10 @@
 title: PET Educacao Fisica - UFMG
 description: grupo da Universidade Federal de Mato Grosso
 published: true
-date: 2023-11-29T03:33:44.745884
+date: 2023-11-29T03:37:02.787469
 tags: Ciencias da Saude, Desenvolvimento de programas de exercicios fisicos para saude
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.745884
+dateCreated: 2023-11-29T03:37:02.787469
 ---
 
 # PET Educacao Fisica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.745884
 | Email                                       | petufmtfef@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias da Saude              |
-| Temática                                    | Desenvolvimento de programas de exercicios fisicos para saude          |
-| Ano de criação                              | 2006        |
+| Tematica                                    | Desenvolvimento de programas de exercicios fisicos para saude          |
+| Ano de criacao                              | 2006        |
 | Instagram                                   | https://instagram.com/pet_educacao_fisica         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

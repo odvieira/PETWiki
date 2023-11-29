@@ -2,10 +2,10 @@
 title: PET Geografia - UFRRJ
 description: grupo da Universidade Federal Rural do Rio de Janeiro
 published: true
-date: 2023-11-29T03:33:44.738882
+date: 2023-11-29T03:37:02.780470
 tags: Ciencias Humanas, Cultura e Cidadania: dialogo de saberes no ensino de geografia
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.738882
+dateCreated: 2023-11-29T03:37:02.780470
 ---
 
 # PET Geografia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.738882
 | Email                                       | petgeoufrrjim@gmail.com             |
 | Site                                        | geo-pet.blogspot.com/              |
 | Eixo                                        | Ciencias Humanas              |
-| Temática                                    | Cultura e Cidadania: dialogo de saberes no ensino de geografia          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | Cultura e Cidadania: dialogo de saberes no ensino de geografia          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petgeoufrrj_im         |
 | Facebook                                    | https://www.facebook.com/pet.geo.im.ufrrj/          |
 | Twitter                                     | nan           |

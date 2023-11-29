@@ -2,10 +2,10 @@
 title: PET Engenharia Textil - UEM
 description: grupo da Universidade Estadual de Maringa
 published: true
-date: 2023-11-29T03:33:44.737882
+date: 2023-11-29T03:37:02.779468
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.737882
+dateCreated: 2023-11-29T03:37:02.779468
 ---
 
 # PET Engenharia Textil
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.737882
 | Email                                       | pettextil@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2012        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2012        |
 | Instagram                                   | https://instagram.com/pet.engtextil         |
 | Facebook                                    | https://www.facebook.com/PETtextil/          |
 | Twitter                                     | nan           |

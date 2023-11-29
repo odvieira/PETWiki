@@ -2,10 +2,10 @@
 title: PET Musica - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-29T03:33:44.743882
+date: 2023-11-29T03:37:02.785468
 tags: Linguistica, Letras e Arte, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.743882
+dateCreated: 2023-11-29T03:37:02.785468
 ---
 
 # PET Musica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.743882
 | Email                                       | petmusica.ia@unesp.br             |
 | Site                                        | petmusica.wordpress.com              |
 | Eixo                                        | Linguistica, Letras e Arte              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1996        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1996        |
 | Instagram                                   | https://instagram.com/petmusicaunesp         |
 | Facebook                                    | https://www.facebook.com/petmusica          |
 | Twitter                                     | nan           |

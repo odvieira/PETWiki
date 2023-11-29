@@ -2,10 +2,10 @@
 title: PET Engenharia Eletrica - UFCG
 description: grupo da Universidade Federal de Campina Grande
 published: true
-date: 2023-11-29T03:33:44.736883
+date: 2023-11-29T03:37:02.777470
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.736883
+dateCreated: 2023-11-29T03:37:02.777470
 ---
 
 # PET Engenharia Eletrica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.736883
 | Email                                       | pet@ee.ufcg.edu.br             |
 | Site                                        | sites.google.com/ee.ufcg.edu.br/peteletrica              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2012        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2012        |
 | Instagram                                   | https://instagram.com/peteletricaufcg         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

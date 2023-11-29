@@ -2,10 +2,10 @@
 title: PET Biologia - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-29T03:33:44.727883
+date: 2023-11-29T03:37:02.770467
 tags: Ciencias Biologicas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.727883
+dateCreated: 2023-11-29T03:37:02.770467
 ---
 
 # PET Biologia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.727883
 | Email                                       | petbiologiaufc@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Biologicas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1992        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petbiologiaufc         |
 | Facebook                                    | https://www.facebook.com/petbiologiaufc/          |
 | Twitter                                     | nan           |

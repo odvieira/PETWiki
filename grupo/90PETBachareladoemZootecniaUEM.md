@@ -2,10 +2,10 @@
 title: PET Bacharelado em Zootecnia - UEM
 description: grupo da Universidade Estadual de Maringa
 published: true
-date: 2023-11-29T03:33:44.733884
+date: 2023-11-29T03:37:02.773467
 tags: Ciencias Agrarias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.733884
+dateCreated: 2023-11-29T03:37:02.773467
 ---
 
 # PET Bacharelado em Zootecnia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.733884
 | Email                                       | grupo-pet-zoo@googlegroups.com             |
 | Site                                        | www.instagram.com/petzootecniauem/?hl=pt              |
 | Eixo                                        | Ciencias Agrarias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1996        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1996        |
 | Instagram                                   | https://instagram.com/petzootecniauem         |
 | Facebook                                    | https://www.facebook.com/petzoouem          |
 | Twitter                                     | nan           |

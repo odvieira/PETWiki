@@ -2,10 +2,10 @@
 title: PET Biologia - URB
 description: grupo da Universidade Regional de Blumenau
 published: true
-date: 2023-11-29T03:33:44.729886
+date: 2023-11-29T03:37:02.771468
 tags: Ciencias Biologicas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.729886
+dateCreated: 2023-11-29T03:37:02.771468
 ---
 
 # PET Biologia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.729886
 | Email                                       | petbiofurb@gmail.com             |
 | Site                                        | petbiofurb.blogspot.com/              |
 | Eixo                                        | Ciencias Biologicas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1996        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1996        |
 | Instagram                                   | https://instagram.com/petbiofurb         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

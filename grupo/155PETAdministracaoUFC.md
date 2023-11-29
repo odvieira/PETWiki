@@ -2,10 +2,10 @@
 title: PET Administracao - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-29T03:33:44.738882
+date: 2023-11-29T03:37:02.779468
 tags: Ciencias Sociais Aplicadas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.738882
+dateCreated: 2023-11-29T03:37:02.779468
 ---
 
 # PET Administracao
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.738882
 | Email                                       | petadmufc@ufc.br             |
 | Site                                        | www.petadm.ufc.br/              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2011        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2011        |
 | Instagram                                   | https://instagram.com/petadmufc         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

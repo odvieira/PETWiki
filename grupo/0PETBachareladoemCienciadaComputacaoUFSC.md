@@ -2,10 +2,10 @@
 title: PET Bacharelado em Ciencia da Computacao - UFSC
 description: grupo da Universidade Federal de Sao Carlos
 published: true
-date: 2023-11-29T03:33:44.723885
+date: 2023-11-29T03:37:02.766470
 tags: Ciencias Exatas e da Terra, Desenvolvimento de Software
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.723885
+dateCreated: 2023-11-29T03:37:02.766470
 ---
 
 # PET Bacharelado em Ciencia da Computacao
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.723885
 | Email                                       | petbcc@ufscar.br             |
 | Site                                        | petbcc.ufscar.br              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | Desenvolvimento de Software          |
-| Ano de criação                              | 2009        |
+| Tematica                                    | Desenvolvimento de Software          |
+| Ano de criacao                              | 2009        |
 | Instagram                                   | https://instagram.com/petbcc.ufscar         |
 | Facebook                                    | https://fb.com/petbcc          |
 | Twitter                                     | https://twitter.com/petbcc           |

@@ -2,10 +2,10 @@
 title: PET Servico Social - UFSC
 description: grupo da Universidade Federal de Santa Catarina
 published: true
-date: 2023-11-29T03:33:44.733884
+date: 2023-11-29T03:37:02.773467
 tags: Ciencias Sociais Aplicadas, Servico Social
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.733884
+dateCreated: 2023-11-29T03:37:02.773467
 ---
 
 # PET Servico Social
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.733884
 | Email                                       | pet.servicosocial@contato.ufsc.br             |
 | Site                                        | petservicosocial.ufsc.br/pet/              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Temática                                    | Servico Social          |
-| Ano de criação                              | 1992        |
+| Tematica                                    | Servico Social          |
+| Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/https://www.instagram.com/petssoufsc/         |
 | Facebook                                    | https://www.facebook.com/petservicosocialufsc          |
 | Twitter                                     | nan           |

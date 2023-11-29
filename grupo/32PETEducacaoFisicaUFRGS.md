@@ -2,10 +2,10 @@
 title: PET Educacao Fisica - UFRGS
 description: grupo da Universidade Federal do Rio Grande do Sul
 published: true
-date: 2023-11-29T03:33:44.726883
+date: 2023-11-29T03:37:02.769468
 tags: Ciencias da Saude, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.726883
+dateCreated: 2023-11-29T03:37:02.769468
 ---
 
 # PET Educacao Fisica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.726883
 | Email                                       | petefi.ufrgs@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias da Saude              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1989        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1989        |
 | Instagram                                   | https://instagram.com/petefiufrgs         |
 | Facebook                                    | https://cenapet.org/grupos/35/facebook.com/PETEFIUFRGS          |
 | Twitter                                     | nan           |

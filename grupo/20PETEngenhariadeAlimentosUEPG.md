@@ -2,10 +2,10 @@
 title: PET Engenharia de Alimentos - UEPG
 description: grupo da Universidade Estadual de Ponta Grossa
 published: true
-date: 2023-11-29T03:33:44.725884
+date: 2023-11-29T03:37:02.768468
 tags: Ciencias Agrarias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.725884
+dateCreated: 2023-11-29T03:37:02.768468
 ---
 
 # PET Engenharia de Alimentos
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.725884
 | Email                                       | engalimentos.pet@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petengalimentos         |
 | Facebook                                    | https://www.facebook.com/petengalimuepg          |
 | Twitter                                     | nan           |

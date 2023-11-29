@@ -2,10 +2,10 @@
 title: GET Engenharia Ambiental e Sanitaria - UFJF
 description: grupo da Universidade Federal de Juiz de Fora
 published: true
-date: 2023-11-29T03:33:44.724885
+date: 2023-11-29T03:37:02.767469
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.724885
+dateCreated: 2023-11-29T03:37:02.767469
 ---
 
 # GET Engenharia Ambiental e Sanitaria
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.724885
 | Email                                       | get.esa@engenharia.ufjf.br             |
 | Site                                        | nan              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2011        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2011        |
 | Instagram                                   | https://instagram.com/get_esa         |
 | Facebook                                    | https://www.facebook.com/getesaufjf          |
 | Twitter                                     | nan           |

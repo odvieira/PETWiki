@@ -2,10 +2,10 @@
 title: PET Biologia - UFDVJM
 description: grupo da Universidade Federal Dos Vales do Jequitinhonha e Mucuri
 published: true
-date: 2023-11-29T03:33:44.748882
+date: 2023-11-29T03:37:02.790470
 tags: Ciencias Biologicas, Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.748882
+dateCreated: 2023-11-29T03:37:02.790470
 ---
 
 # PET Biologia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.748882
 | Email                                       | ricbarata@hotmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Biologicas              |
-| Temática                                    | Ciencias Biologicas          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | Ciencias Biologicas          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | nan         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

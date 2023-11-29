@@ -2,10 +2,10 @@
 title: PET Educacao Fisica - UEL
 description: grupo da Universidade Estadual de Londrina
 published: true
-date: 2023-11-29T03:33:44.726883
+date: 2023-11-29T03:37:02.769468
 tags: Ciencias da Saude, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.726883
+dateCreated: 2023-11-29T03:37:02.769468
 ---
 
 # PET Educacao Fisica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.726883
 | Email                                       | petedfuel@gmail.com             |
 | Site                                        | petef.webs.com/apresentao.htm              |
 | Eixo                                        | Ciencias da Saude              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petef.uel         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

@@ -2,10 +2,10 @@
 title: PET Engenharia Ambiental - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-29T03:33:44.748882
+date: 2023-11-29T03:37:02.790470
 tags: Engenharias, Ambiental
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.748882
+dateCreated: 2023-11-29T03:37:02.790470
 ---
 
 # PET Engenharia Ambiental
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.748882
 | Email                                       | petambiental@ufc.br             |
 | Site                                        | petengambufc.wordpress.com/              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | Ambiental          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | Ambiental          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petambientalufc_         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

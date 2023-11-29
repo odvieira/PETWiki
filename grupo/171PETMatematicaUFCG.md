@@ -2,10 +2,10 @@
 title: PET Matematica - UFCG
 description: grupo da Universidade Federal de Campina Grande
 published: true
-date: 2023-11-29T03:33:44.739882
+date: 2023-11-29T03:37:02.781470
 tags: Ciencias Exatas e da Terra, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.739882
+dateCreated: 2023-11-29T03:37:02.781470
 ---
 
 # PET Matematica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.739882
 | Email                                       | ufcgpetmatematica@gmail.com             |
 | Site                                        | www.dme.ufcg.edu.br/pet              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2009        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2009        |
 | Instagram                                   | https://instagram.com/petmatufcg         |
 | Facebook                                    | https://cenapet.org/grupos/177/www.facebook.com/petmatufcg          |
 | Twitter                                     | nan           |

@@ -2,10 +2,10 @@
 title: PET Humanidades e Letras - UIILA
 description: grupo da Universidade da Integracao Internacional da Lusofonia Afro-brasileira
 published: true
-date: 2023-11-29T03:33:44.728887
+date: 2023-11-29T03:37:02.770467
 tags: Interdisciplinar, Praticas interdisciplinares focadas na triade ensino-pesquisa-extensao.
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.728887
+dateCreated: 2023-11-29T03:37:02.770467
 ---
 
 # PET Humanidades e Letras
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.728887
 | Email                                       | pethl@unilab.edu.br             |
 | Site                                        | www.pethl.unilab.edu.br/              |
 | Eixo                                        | Interdisciplinar              |
-| Temática                                    | Praticas interdisciplinares focadas na triade ensino-pesquisa-extensao.          |
-| Ano de criação                              | 2013        |
+| Tematica                                    | Praticas interdisciplinares focadas na triade ensino-pesquisa-extensao.          |
+| Ano de criacao                              | 2013        |
 | Instagram                                   | https://instagram.com/pethldaunilab         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

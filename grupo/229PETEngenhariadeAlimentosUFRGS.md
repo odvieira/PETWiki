@@ -2,10 +2,10 @@
 title: PET Engenharia de Alimentos - UFRGS
 description: grupo da Universidade Federal do Rio Grande do Sul
 published: true
-date: 2023-11-29T03:33:44.744883
+date: 2023-11-29T03:37:02.786468
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.744883
+dateCreated: 2023-11-29T03:37:02.786468
 ---
 
 # PET Engenharia de Alimentos
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.744883
 | Email                                       | petengenhariadealimentosufrgs@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petufrgsalimentos         |
 | Facebook                                    | https://www.facebook.com/petealimentos          |
 | Twitter                                     | nan           |

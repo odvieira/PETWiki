@@ -2,10 +2,10 @@
 title: PET Ciencias Agrarias - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-29T03:33:44.746883
+date: 2023-11-29T03:37:02.788469
 tags: Ciencias Agrarias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.746883
+dateCreated: 2023-11-29T03:37:02.788469
 ---
 
 # PET Ciencias Agrarias
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.746883
 | Email                                       | petagronomiafw@ufsm.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petcienciasagrarias         |
 | Facebook                                    | https://www.facebook.com/AgronomiaPET/          |
 | Twitter                                     | nan           |

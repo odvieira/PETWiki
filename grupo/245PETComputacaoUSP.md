@@ -2,10 +2,10 @@
 title: PET Computacao - USP
 description: grupo da Universidade de Sao Paulo
 published: true
-date: 2023-11-29T03:33:44.745884
+date: 2023-11-29T03:37:02.787469
 tags: Ciencias Exatas e da Terra, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.745884
+dateCreated: 2023-11-29T03:37:02.787469
 ---
 
 # PET Computacao
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.745884
 | Email                                       | petcomp@icmc.usp.br             |
 | Site                                        | pet.icmc.usp.br/              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1995        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1995        |
 | Instagram                                   | https://instagram.com/petcomputacaousp         |
 | Facebook                                    | https://www.facebook.com/petcompusp          |
 | Twitter                                     | https://twitter.com/PETComp_USP           |

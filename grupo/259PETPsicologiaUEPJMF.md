@@ -2,10 +2,10 @@
 title: PET Psicologia - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-29T03:33:44.746883
+date: 2023-11-29T03:37:02.788469
 tags: Ciencias Humanas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.746883
+dateCreated: 2023-11-29T03:37:02.788469
 ---
 
 # PET Psicologia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.746883
 | Email                                       | petpsicologia.assis@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Humanas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2012        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2012        |
 | Instagram                                   | https://instagram.com/petpsicologia_         |
 | Facebook                                    | https://www.facebook.com/PET.Psicologia          |
 | Twitter                                     | nan           |

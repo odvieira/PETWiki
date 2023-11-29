@@ -2,10 +2,10 @@
 title: PET Matematica (Licenciatura) - UFG
 description: grupo da Universidade Federal de Goias
 published: true
-date: 2023-11-29T03:33:44.748882
+date: 2023-11-29T03:37:02.791469
 tags: Ciencias Exatas e da Terra, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.748882
+dateCreated: 2023-11-29T03:37:02.791469
 ---
 
 # PET Matematica (Licenciatura)
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.748882
 | Email                                       | petmat.ufg@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2007        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2007        |
 | Instagram                                   | https://instagram.com/petmatufg         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

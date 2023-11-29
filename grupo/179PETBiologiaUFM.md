@@ -2,10 +2,10 @@
 title: PET Biologia - UFM
 description: grupo da Universidade Federal do Maranhao
 published: true
-date: 2023-11-29T03:33:44.740882
+date: 2023-11-29T03:37:02.782469
 tags: Ciencias Biologicas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.740882
+dateCreated: 2023-11-29T03:37:02.782469
 ---
 
 # PET Biologia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.740882
 | Email                                       | petbioufma@gmail.com             |
 | Site                                        | petbioufma.wordpress.com/inicio-2/              |
 | Eixo                                        | Ciencias Biologicas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1988        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1988        |
 | Instagram                                   | https://instagram.com/petbioufma         |
 | Facebook                                    | https://www.facebook.com/petbiologiaufma/          |
 | Twitter                                     | nan           |

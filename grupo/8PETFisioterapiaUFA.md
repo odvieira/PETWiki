@@ -2,10 +2,10 @@
 title: PET Fisioterapia - UFA
 description: grupo da Universidade Federal de Alfenas
 published: true
-date: 2023-11-29T03:33:44.724885
+date: 2023-11-29T03:37:02.767469
 tags: Ciencias da Saude, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.724885
+dateCreated: 2023-11-29T03:37:02.767469
 ---
 
 # PET Fisioterapia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.724885
 | Email                                       | petfisiounifal@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias da Saude              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petfisiounifal         |
 | Facebook                                    | https://www.facebook.com/PetFisioterapiaUnifal/          |
 | Twitter                                     | nan           |

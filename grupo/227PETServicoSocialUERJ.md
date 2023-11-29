@@ -2,10 +2,10 @@
 title: PET Servico Social - UERJ
 description: grupo da Universidade do Estado do Rio de Janeiro
 published: true
-date: 2023-11-29T03:33:44.744883
+date: 2023-11-29T03:37:02.786468
 tags: Ciencias Sociais Aplicadas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.744883
+dateCreated: 2023-11-29T03:37:02.786468
 ---
 
 # PET Servico Social
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.744883
 | Email                                       | petservicosocial.uerj@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2006        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2006        |
 | Instagram                                   | https://instagram.com/petservicosocial.uerj         |
 | Facebook                                    | https://www.facebook.com/petservicosocialuerj/          |
 | Twitter                                     | nan           |

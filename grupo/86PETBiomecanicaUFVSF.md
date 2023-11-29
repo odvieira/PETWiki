@@ -2,10 +2,10 @@
 title: PET Biomecanica - UFVSF
 description: grupo da Universidade Federal do Vale do Sao Francisco
 published: true
-date: 2023-11-29T03:33:44.733884
+date: 2023-11-29T03:37:02.773467
 tags: Ciencias da Saude, Biomecanica e Pratica Baseada em Evidencias
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.733884
+dateCreated: 2023-11-29T03:37:02.773467
 ---
 
 # PET Biomecanica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.733884
 | Email                                       | rodrigo.carvalho@univasf.edu.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias da Saude              |
-| Temática                                    | Biomecanica e Pratica Baseada em Evidencias          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | Biomecanica e Pratica Baseada em Evidencias          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/pbe.univasf         |
 | Facebook                                    | https://www.facebook.com/PetBiomecanica          |
 | Twitter                                     | nan           |

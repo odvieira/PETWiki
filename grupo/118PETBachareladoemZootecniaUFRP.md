@@ -2,10 +2,10 @@
 title: PET Bacharelado em Zootecnia - UFRP
 description: grupo da Universidade Federal Rural de Pernambuco
 published: true
-date: 2023-11-29T03:33:44.735883
+date: 2023-11-29T03:37:02.776471
 tags: Ciencias Agrarias, Extensao, pesquisa e ensino em zootecnia
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.736883
+dateCreated: 2023-11-29T03:37:02.776471
 ---
 
 # PET Bacharelado em Zootecnia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.736883
 | Email                                       | petzootecniaufrpe1@gmail.com             |
 | Site                                        | www.petzootecnia.com.br              |
 | Eixo                                        | Ciencias Agrarias              |
-| Temática                                    | Extensao, pesquisa e ensino em zootecnia          |
-| Ano de criação                              | 1992        |
+| Tematica                                    | Extensao, pesquisa e ensino em zootecnia          |
+| Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petzootecniaufrpe         |
 | Facebook                                    | https://www.facebook.com/petzootec/          |
 | Twitter                                     | nan           |

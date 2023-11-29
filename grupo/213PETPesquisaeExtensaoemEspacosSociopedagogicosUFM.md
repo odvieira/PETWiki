@@ -2,10 +2,10 @@
 title: PET Pesquisa e Extensao em Espacos Sociopedagogicos - UFM
 description: grupo da Universidade Federal do Maranhao
 published: true
-date: 2023-11-29T03:33:44.742882
+date: 2023-11-29T03:37:02.785468
 tags: Interdisciplinar, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.742882
+dateCreated: 2023-11-29T03:37:02.785468
 ---
 
 # PET Pesquisa e Extensao em Espacos Sociopedagogicos
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.742882
 | Email                                       | e.petconexoes@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Interdisciplinar              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petespufma         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

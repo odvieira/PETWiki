@@ -2,10 +2,10 @@
 title: PET Quimica - IFECTG
 description: grupo da Instituto Federal de Educacao, Ciencia e Tecnologia de Goias
 published: true
-date: 2023-11-29T03:33:44.740882
+date: 2023-11-29T03:37:02.782469
 tags: Ciencias Exatas e da Terra, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.740882
+dateCreated: 2023-11-29T03:37:02.782469
 ---
 
 # PET Quimica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.740882
 | Email                                       | petnetquimica@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2013        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2013        |
 | Instagram                                   | https://instagram.com/petquimicaifg         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

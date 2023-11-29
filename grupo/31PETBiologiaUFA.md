@@ -2,10 +2,10 @@
 title: PET Biologia - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-29T03:33:44.726883
+date: 2023-11-29T03:37:02.769468
 tags: Ciencias Biologicas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.726883
+dateCreated: 2023-11-29T03:37:02.769468
 ---
 
 # PET Biologia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.726883
 | Email                                       | petbiologiaufam@ufam.edu.br             |
 | Site                                        | pet-biologiaufam.wixsite.com/home              |
 | Eixo                                        | Ciencias Biologicas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1992        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petbiologiaufam         |
 | Facebook                                    | https://web.facebook.com/petbiologiaufam/?view_public_for=237110539786459          |
 | Twitter                                     | nan           |

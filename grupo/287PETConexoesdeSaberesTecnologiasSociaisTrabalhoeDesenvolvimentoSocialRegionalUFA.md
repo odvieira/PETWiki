@@ -2,10 +2,10 @@
 title: PET Conexoes de Saberes Tecnologias Sociais, Trabalho e Desenvolvimento Social Regional - UFA
 description: grupo da Universidade Federal de Alfenas
 published: true
-date: 2023-11-29T03:33:44.748882
+date: 2023-11-29T03:37:02.791469
 tags: Interdisciplinar, Tecnologias Sociais
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.748882
+dateCreated: 2023-11-29T03:37:02.791469
 ---
 
 # PET Conexoes de Saberes Tecnologias Sociais, Trabalho e Desenvolvimento Social Regional
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.748882
 | Email                                       | petsaberespcaldas@unifal-mg.edu.br             |
 | Site                                        | petconexoespcaldas.wixsite.com/conexoesdesaberes              |
 | Eixo                                        | Interdisciplinar              |
-| Temática                                    | Tecnologias Sociais          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | Tecnologias Sociais          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petsaberes         |
 | Facebook                                    | https://www.facebook.com/pet.conexoes.unifal/          |
 | Twitter                                     | nan           |

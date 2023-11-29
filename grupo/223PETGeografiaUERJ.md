@@ -2,10 +2,10 @@
 title: PET Geografia - UERJ
 description: grupo da Universidade do Estado do Rio de Janeiro
 published: true
-date: 2023-11-29T03:33:44.743882
+date: 2023-11-29T03:37:02.785468
 tags: Ciencias Humanas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.743882
+dateCreated: 2023-11-29T03:37:02.785468
 ---
 
 # PET Geografia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.743882
 | Email                                       | petuerjgeografia@gmail.com             |
 | Site                                        | petgeografiauerj.wixsite.com/petgeografiauerj              |
 | Eixo                                        | Ciencias Humanas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1991        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1991        |
 | Instagram                                   | https://instagram.com/petgeouerj         |
 | Facebook                                    | https://www.facebook.com/watch/PetGeoUerj/          |
 | Twitter                                     | nan           |

@@ -2,10 +2,10 @@
 title: PET Comunicacao Social - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-29T03:33:44.730885
+date: 2023-11-29T03:37:02.772468
 tags: Ciencias Sociais Aplicadas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.730885
+dateCreated: 2023-11-29T03:37:02.772468
 ---
 
 # PET Comunicacao Social
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.730885
 | Email                                       | petcomufam@hotmail.com             |
 | Site                                        | medium.com/petcomufam/about              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1988        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1988        |
 | Instagram                                   | https://instagram.com/petcomufam         |
 | Facebook                                    | https://www.facebook.com/petcomufam          |
 | Twitter                                     | https://twitter.com/petcomufam           |

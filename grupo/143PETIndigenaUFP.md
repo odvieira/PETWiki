@@ -2,10 +2,10 @@
 title: PET Indigena - UFP
 description: grupo da Universidade Federal da Paraiba
 published: true
-date: 2023-11-29T03:33:44.737882
+date: 2023-11-29T03:37:02.778469
 tags: Interdisciplinar, O acesso e a permanencia do universitario indigena na academia
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.737882
+dateCreated: 2023-11-29T03:37:02.778469
 ---
 
 # PET Indigena
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.737882
 | Email                                       | petindigena.ufpb@gmail.com             |
 | Site                                        | petindigena.ccae.ufpb.br/              |
 | Eixo                                        | Interdisciplinar              |
-| Temática                                    | O acesso e a permanencia do universitario indigena na academia          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | O acesso e a permanencia do universitario indigena na academia          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petindigenapotiguara         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

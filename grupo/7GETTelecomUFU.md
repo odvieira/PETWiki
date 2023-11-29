@@ -2,10 +2,10 @@
 title: GET Telecom - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-29T03:33:44.724885
+date: 2023-11-29T03:37:02.767469
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.724885
+dateCreated: 2023-11-29T03:37:02.767469
 ---
 
 # GET Telecom
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.724885
 | Email                                       | petelecomufu@gmail.com             |
 | Site                                        | petelecom.github.io/petelecom/              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2020        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2020        |
 | Instagram                                   | https://instagram.com/petelecom_ufu         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

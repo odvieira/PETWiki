@@ -2,10 +2,10 @@
 title: PET Medicina Veterinaria - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-29T03:33:44.738882
+date: 2023-11-29T03:37:02.779468
 tags: Ciencias Agrarias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.738882
+dateCreated: 2023-11-29T03:37:02.779468
 ---
 
 # PET Medicina Veterinaria
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.738882
 | Email                                       | petmedvetufu@gmail.com             |
 | Site                                        | www.pet.famev.ufu.br/              |
 | Eixo                                        | Ciencias Agrarias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2006        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2006        |
 | Instagram                                   | https://instagram.com/petmedvet.ufu         |
 | Facebook                                    | https://www.facebook.com/petmedvetufu          |
 | Twitter                                     | nan           |

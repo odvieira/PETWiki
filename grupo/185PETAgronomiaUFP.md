@@ -2,10 +2,10 @@
 title: PET Agronomia - UFP
 description: grupo da Universidade Federal de Pelotas
 published: true
-date: 2023-11-29T03:33:44.740882
+date: 2023-11-29T03:37:02.782469
 tags: Ciencias Agrarias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.740882
+dateCreated: 2023-11-29T03:37:02.782469
 ---
 
 # PET Agronomia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.740882
 | Email                                       | petufpelagronomia@gmail.com             |
 | Site                                        | petufpelagronomia.wixsite.com/petagro              |
 | Eixo                                        | Ciencias Agrarias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1964        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1964        |
 | Instagram                                   | https://instagram.com/petagroufpel         |
 | Facebook                                    | https://www.facebook.com/petagronomia.ufpel          |
 | Twitter                                     | nan           |

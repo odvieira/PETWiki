@@ -2,10 +2,10 @@
 title: PET Bacharelado em Ciencias Biologicas - UFRP
 description: grupo da Universidade Federal Rural de Pernambuco
 published: true
-date: 2023-11-29T03:33:44.736883
+date: 2023-11-29T03:37:02.776471
 tags: Ciencias Biologicas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.736883
+dateCreated: 2023-11-29T03:37:02.776471
 ---
 
 # PET Bacharelado em Ciencias Biologicas
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.736883
 | Email                                       | petbio@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Biologicas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1991        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1991        |
 | Instagram                                   | https://instagram.com/petbioufrpe         |
 | Facebook                                    | https://www.facebook.com/PETbiologiaUFRPE/          |
 | Twitter                                     | nan           |

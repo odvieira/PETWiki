@@ -2,10 +2,10 @@
 title: PET Matematica - UFES
 description: grupo da Universidade Federal do Espirito Santo
 published: true
-date: 2023-11-29T03:33:44.732884
+date: 2023-11-29T03:37:02.773467
 tags: Ciencias Exatas e da Terra, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.732884
+dateCreated: 2023-11-29T03:37:02.773467
 ---
 
 # PET Matematica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.732884
 | Email                                       | petmatufes1@gmail.com             |
 | Site                                        | petmatematica.ufes.br/              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1991        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1991        |
 | Instagram                                   | https://instagram.com/petmat.ufes         |
 | Facebook                                    | https://pt-br.facebook.com/PetMatUFES          |
 | Twitter                                     | nan           |

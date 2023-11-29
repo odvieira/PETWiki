@@ -2,10 +2,10 @@
 title: PET Engenharias da Mobilidade - UFSC
 description: grupo da Universidade Federal de Santa Catarina
 published: true
-date: 2023-11-29T03:33:44.731884
+date: 2023-11-29T03:37:02.772468
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.731884
+dateCreated: 2023-11-29T03:37:02.772468
 ---
 
 # PET Engenharias da Mobilidade
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.731884
 | Email                                       | petemb.ufsc@gmail.com             |
 | Site                                        | petemb.ufsc.br/              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petembufsc         |
 | Facebook                                    | https://www.facebook.com/petembufsc          |
 | Twitter                                     | nan           |

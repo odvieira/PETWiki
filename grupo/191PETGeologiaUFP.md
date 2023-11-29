@@ -2,10 +2,10 @@
 title: PET Geologia - UFP
 description: grupo da Universidade Federal do Parana
 published: true
-date: 2023-11-29T03:33:44.741883
+date: 2023-11-29T03:37:02.783471
 tags: Ciencias Exatas e da Terra, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.741883
+dateCreated: 2023-11-29T03:37:02.783471
 ---
 
 # PET Geologia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.741883
 | Email                                       | petgeo.ufpr@gmail.com             |
 | Site                                        | petgeoufpr.wixsite.com/petgeologia              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1992        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petgeologiaufpr         |
 | Facebook                                    | https://www.facebook.com/PETGeologiaUFPR          |
 | Twitter                                     | nan           |

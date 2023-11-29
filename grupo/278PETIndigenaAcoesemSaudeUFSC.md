@@ -2,10 +2,10 @@
 title: PET Indigena - Acoes em Saude - UFSC
 description: grupo da Universidade Federal de Sao Carlos
 published: true
-date: 2023-11-29T03:33:44.747882
+date: 2023-11-29T03:37:02.790470
 tags: Ciencias da Saude, Saude Indigena
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.747882
+dateCreated: 2023-11-29T03:37:02.790470
 ---
 
 # PET Indigena - Acoes em Saude
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.747882
 | Email                                       | petindsaude@ufscar.br             |
 | Site                                        | petindiufscar.wixsite.com/petindigenaufscar              |
 | Eixo                                        | Ciencias da Saude              |
-| Temática                                    | Saude Indigena          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | Saude Indigena          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petsaudeindigenaufscar         |
 | Facebook                                    | https://cenapet.org/grupos/290/facebook.com/petsaudeindigenaufscar/          |
 | Twitter                                     | nan           |

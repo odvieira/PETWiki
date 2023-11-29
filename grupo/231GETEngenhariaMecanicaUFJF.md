@@ -2,10 +2,10 @@
 title: GET Engenharia Mecanica - UFJF
 description: grupo da Universidade Federal de Juiz de Fora
 published: true
-date: 2023-11-29T03:33:44.744883
+date: 2023-11-29T03:37:02.786468
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.744883
+dateCreated: 2023-11-29T03:37:02.786468
 ---
 
 # GET Engenharia Mecanica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.744883
 | Email                                       | get.mecanica@engenharia.ufjf.br             |
 | Site                                        | nan              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2018        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2018        |
 | Instagram                                   | https://instagram.com/getmecufjf         |
 | Facebook                                    | https://facebook.com/GETMecUFJF/          |
 | Twitter                                     | nan           |

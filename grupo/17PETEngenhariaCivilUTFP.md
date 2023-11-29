@@ -2,10 +2,10 @@
 title: PET Engenharia Civil - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-29T03:33:44.725884
+date: 2023-11-29T03:37:02.768468
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.725884
+dateCreated: 2023-11-29T03:37:02.768468
 ---
 
 # PET Engenharia Civil
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.725884
 | Email                                       | pet.civil.cm@gmail.com             |
 | Site                                        | www.petcivil.com.br/              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petcivilutfpr         |
 | Facebook                                    | https://www.facebook.com/petcivilutfprcm          |
 | Twitter                                     | nan           |

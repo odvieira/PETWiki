@@ -2,10 +2,10 @@
 title: PET Farmacia - UFP
 description: grupo da Universidade Federal da Paraiba
 published: true
-date: 2023-11-29T03:33:44.739882
+date: 2023-11-29T03:37:02.780470
 tags: Ciencias da Saude, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.739882
+dateCreated: 2023-11-29T03:37:02.780470
 ---
 
 # PET Farmacia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.739882
 | Email                                       | pet-farmacia@ccs.ufpb.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias da Saude              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1992        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petfarmaciaufpb         |
 | Facebook                                    | https://www.facebook.com/petfarmacia.ufpb          |
 | Twitter                                     | nan           |

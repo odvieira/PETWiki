@@ -2,10 +2,10 @@
 title: PET Medicina Veterinaria - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-29T03:33:44.727883
+date: 2023-11-29T03:37:02.770467
 tags: Ciencias Agrarias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.727883
+dateCreated: 2023-11-29T03:37:02.770467
 ---
 
 # PET Medicina Veterinaria
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.727883
 | Email                                       | grupopet.fmvz@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1995        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1995        |
 | Instagram                                   | https://instagram.com/petveterinaria_btu         |
 | Facebook                                    | https://www.facebook.com/petfmvzbotucatu/          |
 | Twitter                                     | nan           |

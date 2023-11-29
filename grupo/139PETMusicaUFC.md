@@ -2,10 +2,10 @@
 title: PET Musica - UFC
 description: grupo da Universidade Federal do Cariri
 published: true
-date: 2023-11-29T03:33:44.737882
+date: 2023-11-29T03:37:02.778469
 tags: Linguistica, Letras e Arte, Ensino, pesquisa e extensao no campo musical.
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.737882
+dateCreated: 2023-11-29T03:37:02.778469
 ---
 
 # PET Musica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.737882
 | Email                                       | petmusica.iisca@ufca.edu.br             |
 | Site                                        | petmusica.ufca.edu.br/              |
 | Eixo                                        | Linguistica, Letras e Arte              |
-| Temática                                    | Ensino, pesquisa e extensao no campo musical.          |
-| Ano de criação                              | 2012        |
+| Tematica                                    | Ensino, pesquisa e extensao no campo musical.          |
+| Ano de criacao                              | 2012        |
 | Instagram                                   | https://instagram.com/petmusufca         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

@@ -2,10 +2,10 @@
 title: PET Computacao - UFRGS
 description: grupo da Universidade Federal do Rio Grande do Sul
 published: true
-date: 2023-11-29T03:33:44.742882
+date: 2023-11-29T03:37:02.784469
 tags: Ciencias Exatas e da Terra, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.742882
+dateCreated: 2023-11-29T03:37:02.784469
 ---
 
 # PET Computacao
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.742882
 | Email                                       | pet@inf.ufrgs.br             |
 | Site                                        | www.inf.ufrgs.br/pet/projetos/              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1988        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1988        |
 | Instagram                                   | https://instagram.com/petcompufrgs         |
 | Facebook                                    | https://www.facebook.com/PETCompUFRGS          |
 | Twitter                                     | https://twitter.com/PetCompUfrgs           |

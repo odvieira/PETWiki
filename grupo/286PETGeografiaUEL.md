@@ -2,10 +2,10 @@
 title: PET Geografia - UEL
 description: grupo da Universidade Estadual de Londrina
 published: true
-date: 2023-11-29T03:33:44.748882
+date: 2023-11-29T03:37:02.791469
 tags: Ciencias Humanas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.748882
+dateCreated: 2023-11-29T03:37:02.791469
 ---
 
 # PET Geografia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.748882
 | Email                                       | geografia.petuel@gmail.com             |
 | Site                                        | geografiapetuel.wixsite.com/website              |
 | Eixo                                        | Ciencias Humanas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1994        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1994        |
 | Instagram                                   | https://instagram.com/petgeouel         |
 | Facebook                                    | https://www.facebook.com/petgeouel/          |
 | Twitter                                     | nan           |

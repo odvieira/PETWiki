@@ -2,10 +2,10 @@
 title: PET Agronomia - UFMG
 description: grupo da Universidade Federal de Minas Gerais
 published: true
-date: 2023-11-29T03:33:44.742882
+date: 2023-11-29T03:37:02.784469
 tags: Ciencias Agrarias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.742882
+dateCreated: 2023-11-29T03:37:02.784469
 ---
 
 # PET Agronomia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.742882
 | Email                                       | agropetufmg@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2001        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2001        |
 | Instagram                                   | https://instagram.com/petagronomiaufmg         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

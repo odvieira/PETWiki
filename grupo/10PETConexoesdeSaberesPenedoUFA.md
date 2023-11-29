@@ -2,10 +2,10 @@
 title: PET Conexoes de Saberes - Penedo - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-29T03:33:44.724885
+date: 2023-11-29T03:37:02.767469
 tags: Interdisciplinar, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.724885
+dateCreated: 2023-11-29T03:37:02.767469
 ---
 
 # PET Conexoes de Saberes - Penedo
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.724885
 | Email                                       | petcspenedo@gmail.com             |
 | Site                                        | petcspenedo.wixsite.com/petcspenedoufal              |
 | Eixo                                        | Interdisciplinar              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petcspenedoufal         |
 | Facebook                                    | https://www.facebook.com/petcspenedoufal          |
 | Twitter                                     | https://twitter.com/petcspenedoufal           |

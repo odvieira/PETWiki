@@ -2,10 +2,10 @@
 title: PET Zootecnia "Joao Dimas Graciano" - FUFGD
 description: grupo da Fundacao Universidade Federal da Grande Dourados
 published: true
-date: 2023-11-29T03:33:44.734884
+date: 2023-11-29T03:37:02.774469
 tags: Ciencias Agrarias, Zootecnia
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.734884
+dateCreated: 2023-11-29T03:37:02.774469
 ---
 
 # PET Zootecnia "Joao Dimas Graciano"
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.734884
 | Email                                       | rodrigogarcia@ufgd.edu.br             |
 | Site                                        | petzooufgd.blogspot.com/              |
 | Eixo                                        | Ciencias Agrarias              |
-| Temática                                    | Zootecnia          |
-| Ano de criação                              | 2007        |
+| Tematica                                    | Zootecnia          |
+| Ano de criacao                              | 2007        |
 | Instagram                                   | https://instagram.com/petzootec_ufgd         |
 | Facebook                                    | https://www.facebook.com/pg/PETZootecniaUFGD/          |
 | Twitter                                     | nan           |

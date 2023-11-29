@@ -2,10 +2,10 @@
 title: PET Historia - UFP
 description: grupo da Universidade Federal do Parana
 published: true
-date: 2023-11-29T03:33:44.729886
+date: 2023-11-29T03:37:02.771468
 tags: Ciencias Humanas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.729886
+dateCreated: 2023-11-29T03:37:02.771468
 ---
 
 # PET Historia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.729886
 | Email                                       | memoria.pet.historia@gmail.com             |
 | Site                                        | pethistoriaufpr.wordpress.com/              |
 | Eixo                                        | Ciencias Humanas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1992        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/pethistoria.ufpr         |
 | Facebook                                    | https://www.facebook.com/PetHistoriaUfpr          |
 | Twitter                                     | nan           |

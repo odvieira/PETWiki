@@ -2,10 +2,10 @@
 title: PET Saude da Crianca - UFSP
 description: grupo da Universidade Federal de Sao Paulo
 published: true
-date: 2023-11-29T03:33:44.744883
+date: 2023-11-29T03:37:02.786468
 tags: Ciencias da Saude, Saude da Crianca
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.744883
+dateCreated: 2023-11-29T03:37:02.786468
 ---
 
 # PET Saude da Crianca
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.744883
 | Email                                       | petsaudedacrianca2011@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias da Saude              |
-| Temática                                    | Saude da Crianca          |
-| Ano de criação                              | 2011        |
+| Tematica                                    | Saude da Crianca          |
+| Ano de criacao                              | 2011        |
 | Instagram                                   | https://instagram.com/petsaudecrianca         |
 | Facebook                                    | https://www.facebook.com/petsaudedacrianca/          |
 | Twitter                                     | nan           |

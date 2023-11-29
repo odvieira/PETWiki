@@ -2,10 +2,10 @@
 title: PET Solos: agregando saberes - UESC
 description: grupo da Universidade Estadual de Santa Cruz
 published: true
-date: 2023-11-29T03:33:44.747882
+date: 2023-11-29T03:37:02.790470
 tags: Ciencias Exatas e da Terra, Solos
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.747882
+dateCreated: 2023-11-29T03:37:02.790470
 ---
 
 # PET Solos: agregando saberes
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.747882
 | Email                                       | petsolos@uesc.br             |
 | Site                                        | www.petsolosuesc.com/              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | Solos          |
-| Ano de criação                              | 2009        |
+| Tematica                                    | Solos          |
+| Ano de criacao                              | 2009        |
 | Instagram                                   | https://instagram.com/petsolos.uesc         |
 | Facebook                                    | https://cenapet.org/grupos/286/facebook.com/petsolosuesc/          |
 | Twitter                                     | nan           |

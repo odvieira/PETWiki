@@ -2,10 +2,10 @@
 title: PET Letras - UFR
 description: grupo da Universidade Federal de Roraima
 published: true
-date: 2023-11-29T03:33:44.739882
+date: 2023-11-29T03:37:02.781470
 tags: Linguistica, Letras e Arte, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.739882
+dateCreated: 2023-11-29T03:37:02.781470
 ---
 
 # PET Letras
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.739882
 | Email                                       | pet.letras@ufrr.br             |
 | Site                                        | nan              |
 | Eixo                                        | Linguistica, Letras e Arte              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2006        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2006        |
 | Instagram                                   | https://instagram.com/pet.letras_ufrr         |
 | Facebook                                    | https://facebook.com/PETLetrasUFRR/          |
 | Twitter                                     | nan           |

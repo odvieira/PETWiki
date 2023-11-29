@@ -2,10 +2,10 @@
 title: PET Engenharia Eletrica - FUESC
 description: grupo da Fundacao Universidade do Estado de Santa Catarina
 published: true
-date: 2023-11-29T03:33:44.733884
+date: 2023-11-29T03:37:02.773467
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.733884
+dateCreated: 2023-11-29T03:37:02.773467
 ---
 
 # PET Engenharia Eletrica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.733884
 | Email                                       | pet.udesc@gmail.com             |
 | Site                                        | www.udesc.br/cct/peteletrica              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1994        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1994        |
 | Instagram                                   | https://instagram.com/peteel.udesc         |
 | Facebook                                    | https://www.facebook.com/peteel.udesc          |
 | Twitter                                     | nan           |

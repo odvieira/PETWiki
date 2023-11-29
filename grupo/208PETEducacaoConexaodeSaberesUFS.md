@@ -2,10 +2,10 @@
 title: PET Educacao - Conexao de Saberes - UFS
 description: grupo da Universidade Federal de Sergipe
 published: true
-date: 2023-11-29T03:33:44.742882
+date: 2023-11-29T03:37:02.784469
 tags: Ciencias Humanas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.742882
+dateCreated: 2023-11-29T03:37:02.784469
 ---
 
 # PET Educacao - Conexao de Saberes
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.742882
 | Email                                       | pet_educacao@academico.ufs.br             |
 | Site                                        | peteduca.com.br/              |
 | Eixo                                        | Ciencias Humanas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2009        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2009        |
 | Instagram                                   | https://instagram.com/pet.educacao         |
 | Facebook                                    | https://www.facebook.com/petconexaosaberes          |
 | Twitter                                     | nan           |

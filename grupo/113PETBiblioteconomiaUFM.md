@@ -2,10 +2,10 @@
 title: PET Biblioteconomia - UFM
 description: grupo da Universidade Federal do Maranhao
 published: true
-date: 2023-11-29T03:33:44.735883
+date: 2023-11-29T03:37:02.776471
 tags: Ciencias Sociais Aplicadas, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.735883
+dateCreated: 2023-11-29T03:37:02.776471
 ---
 
 # PET Biblioteconomia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.735883
 | Email                                       | petbiblioteconomiaufma@gmail.com             |
 | Site                                        | petbiblioteconomiaufma.wordpress.com/              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1988        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1988        |
 | Instagram                                   | https://instagram.com/petbiblioufma         |
 | Facebook                                    | https://www.facebook.com/pg/petbiblioteconomiaufma/          |
 | Twitter                                     | nan           |

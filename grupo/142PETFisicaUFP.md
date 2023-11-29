@@ -2,10 +2,10 @@
 title: PET Fisica - UFP
 description: grupo da Universidade Federal da Paraiba
 published: true
-date: 2023-11-29T03:33:44.737882
+date: 2023-11-29T03:37:02.778469
 tags: Ciencias Exatas e da Terra, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.737882
+dateCreated: 2023-11-29T03:37:02.778469
 ---
 
 # PET Fisica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.737882
 | Email                                       | petfisica@fisica.ufpb.br             |
 | Site                                        | petfisicaufpb.wixsite.com/petfisicaufpb              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2009        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2009        |
 | Instagram                                   | https://instagram.com/petfisicaufpb         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

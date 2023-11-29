@@ -2,10 +2,10 @@
 title: PET Engenharia Quimica - UFCG
 description: grupo da Universidade Federal de Campina Grande
 published: true
-date: 2023-11-29T03:33:44.737882
+date: 2023-11-29T03:37:02.778469
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.737882
+dateCreated: 2023-11-29T03:37:02.778469
 ---
 
 # PET Engenharia Quimica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.737882
 | Email                                       | pet.eq@eq.ufcg.edu.br             |
 | Site                                        | nan              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petequfcg         |
 | Facebook                                    | https://www.facebook.com/petequfcg          |
 | Twitter                                     | https://twitter.com/petequfcg           |

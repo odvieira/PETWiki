@@ -2,10 +2,10 @@
 title: PET Estrategias para Diminuir a Retencao e a Evasao - UFDVJM
 description: grupo da Universidade Federal Dos Vales do Jequitinhonha e Mucuri
 published: true
-date: 2023-11-29T03:33:44.741883
+date: 2023-11-29T03:37:02.783471
 tags: Interdisciplinar, Retencao e Evasao
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.741883
+dateCreated: 2023-11-29T03:37:02.783471
 ---
 
 # PET Estrategias para Diminuir a Retencao e a Evasao
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.741883
 | Email                                       | flaviana.tavares@ict.ufvjm.edu.br             |
 | Site                                        | site.ufvjm.edu.br/petestrategias/              |
 | Eixo                                        | Interdisciplinar              |
-| Temática                                    | Retencao e Evasao          |
-| Ano de criação                              | 2009        |
+| Tematica                                    | Retencao e Evasao          |
+| Ano de criacao                              | 2009        |
 | Instagram                                   | https://instagram.com/petestrategias.ufvjm         |
 | Facebook                                    | https://www.facebook.com/petestrategias          |
 | Twitter                                     | nan           |

@@ -2,10 +2,10 @@
 title: PET Producao Leiteira - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-29T03:33:44.726883
+date: 2023-11-29T03:37:02.768468
 tags: Ciencias Agrarias, Bovinocultura de Leite
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.726883
+dateCreated: 2023-11-29T03:37:02.768468
 ---
 
 # PET Producao Leiteira
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.726883
 | Email                                       | petleite-dv@utfpr.edu.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Temática                                    | Bovinocultura de Leite          |
-| Ano de criação                              | 2011        |
+| Tematica                                    | Bovinocultura de Leite          |
+| Ano de criacao                              | 2011        |
 | Instagram                                   | https://instagram.com/@petproducaoleiteira         |
 | Facebook                                    | https://www.facebook.com/utfpr.petproducaoleiteira          |
 | Twitter                                     | nan           |

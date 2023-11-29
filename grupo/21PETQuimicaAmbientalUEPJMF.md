@@ -2,10 +2,10 @@
 title: PET Quimica Ambiental - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-29T03:33:44.725884
+date: 2023-11-29T03:37:02.768468
 tags: Ciencias Exatas e da Terra, Pesquisa, ensino e extensao dentro da area de Quimica e Ciencias Ambientais
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.725884
+dateCreated: 2023-11-29T03:37:02.768468
 ---
 
 # PET Quimica Ambiental
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.725884
 | Email                                       | petqaibilce@gmail.com             |
 | Site                                        | petqaibilce.wixsite.com/home              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | Pesquisa, ensino e extensao dentro da area de Quimica e Ciencias Ambientais          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | Pesquisa, ensino e extensao dentro da area de Quimica e Ciencias Ambientais          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petqaibilce         |
 | Facebook                                    | https://www.facebook.com/petqaibilce          |
 | Twitter                                     | nan           |

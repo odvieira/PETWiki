@@ -2,10 +2,10 @@
 title: PET Fisica - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-29T03:33:44.742882
+date: 2023-11-29T03:37:02.784469
 tags: Ciencias Exatas e da Terra, Fisica
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.742882
+dateCreated: 2023-11-29T03:37:02.784469
 ---
 
 # PET Fisica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.742882
 | Email                                       | petfisica@ufam.edu.br             |
 | Site                                        | pet-fisica-ufam.blogspot.com/              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | Fisica          |
-| Ano de criação                              | 1991        |
+| Tematica                                    | Fisica          |
+| Ano de criacao                              | 1991        |
 | Instagram                                   | https://instagram.com/petfisicaufam         |
 | Facebook                                    | https://www.facebook.com/PETFisicaUFAM/          |
 | Twitter                                     | nan           |

@@ -2,10 +2,10 @@
 title: PET Pedagogia - UFCG
 description: grupo da Universidade Federal de Campina Grande
 published: true
-date: 2023-11-29T03:33:44.736883
+date: 2023-11-29T03:37:02.777470
 tags: Interdisciplinar, Ensino, Pesquisa e Extensao
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.736883
+dateCreated: 2023-11-29T03:37:02.777470
 ---
 
 # PET Pedagogia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.736883
 | Email                                       | ufcgpetpedagogiapet@gmail.com             |
 | Site                                        | pedagogiaufcg.blogspot.com/              |
 | Eixo                                        | Interdisciplinar              |
-| Temática                                    | Ensino, Pesquisa e Extensao          |
-| Ano de criação                              | 2006        |
+| Tematica                                    | Ensino, Pesquisa e Extensao          |
+| Ano de criacao                              | 2006        |
 | Instagram                                   | https://instagram.com/petpedagogia         |
 | Facebook                                    | https://www.facebook.com/PET-Pedagogia-UFCG-1638600306368983          |
 | Twitter                                     | nan           |

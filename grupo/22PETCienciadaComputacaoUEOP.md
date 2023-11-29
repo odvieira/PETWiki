@@ -2,10 +2,10 @@
 title: PET Ciencia da Computacao - UEOP
 description: grupo da Universidade Estadual do Oeste do Parana
 published: true
-date: 2023-11-29T03:33:44.725884
+date: 2023-11-29T03:37:02.768468
 tags: Ciencias Exatas e da Terra, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.725884
+dateCreated: 2023-11-29T03:37:02.768468
 ---
 
 # PET Ciencia da Computacao
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.725884
 | Email                                       | petcomp.cascavel@gmail.com             |
 | Site                                        | www.inf.unioeste.br/petcomp/              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petcomp_unioeste         |
 | Facebook                                    | https://www.facebook.com/petcomp          |
 | Twitter                                     | nan           |

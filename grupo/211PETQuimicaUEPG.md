@@ -2,10 +2,10 @@
 title: PET Quimica - UEPG
 description: grupo da Universidade Estadual de Ponta Grossa
 published: true
-date: 2023-11-29T03:33:44.742882
+date: 2023-11-29T03:37:02.784469
 tags: Ciencias Exatas e da Terra, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.742882
+dateCreated: 2023-11-29T03:37:02.784469
 ---
 
 # PET Quimica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.742882
 | Email                                       | petquimica@uepg.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2007        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2007        |
 | Instagram                                   | https://instagram.com/petquimicauepg         |
 | Facebook                                    | https://facebook.com/PETQuimicaUEPG/          |
 | Twitter                                     | nan           |

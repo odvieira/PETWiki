@@ -2,10 +2,10 @@
 title: PROPET Fonoaudiologia - UFF
 description: grupo da Universidade Federal Fluminense
 published: true
-date: 2023-11-29T03:33:44.735883
+date: 2023-11-29T03:37:02.776471
 tags: Ciencias da Saude, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.735883
+dateCreated: 2023-11-29T03:37:02.776471
 ---
 
 # PROPET Fonoaudiologia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.735883
 | Email                                       | petfono1@gmail.com             |
 | Site                                        | sites.google.com/view/propetfono/home              |
 | Eixo                                        | Ciencias da Saude              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2013        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2013        |
 | Instagram                                   | https://instagram.com/pro_pet_fono         |
 | Facebook                                    | https://www.facebook.com/pet.fono.5/          |
 | Twitter                                     | nan           |

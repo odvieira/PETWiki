@@ -2,10 +2,10 @@
 title: PET Fisica - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-29T03:33:44.746883
+date: 2023-11-29T03:37:02.789469
 tags: Ciencias Exatas e da Terra, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.746883
+dateCreated: 2023-11-29T03:37:02.789469
 ---
 
 # PET Fisica
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.746883
 | Email                                       | petfisica@ufsm.br             |
 | Site                                        | www.ufsm.br/pet/fisica/              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | nan          |
-| Ano de criação                              | 1992        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petfisicaufsm         |
 | Facebook                                    | https://cenapet.org/grupos/273/facebook.com/petfisicaufsm          |
 | Twitter                                     | https://twitter.com/petfisicaufsm           |

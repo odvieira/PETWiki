@@ -2,10 +2,10 @@
 title: PET Ciencia, Tecnologia & Cidadania - FUFP
 description: grupo da Fundacao Universidade Federal do Pampa
 published: true
-date: 2023-11-29T03:33:44.745884
+date: 2023-11-29T03:37:02.786468
 tags: Engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.745884
+dateCreated: 2023-11-29T03:37:02.786468
 ---
 
 # PET Ciencia, Tecnologia & Cidadania
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.745884
 | Email                                       | petctcunipampa@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Engenharias              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2013        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2013        |
 | Instagram                                   | https://instagram.com/petctcengenharias         |
 | Facebook                                    | https://www.facebook.com/PET-CTC-Engenharias-Unipampa-Alegrete-454543104640193/          |
 | Twitter                                     | nan           |

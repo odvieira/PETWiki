@@ -2,10 +2,10 @@
 title: PET Pedagogia - FUFT
 description: grupo da Fundacao Universidade Federal do Tocantins
 published: true
-date: 2023-11-29T03:33:44.740882
+date: 2023-11-29T03:37:02.781470
 tags: Ciencias Humanas, Educacao Infantil e Ensino Fundamental (anos iniciais): docencia, gestao, politica e legislacao
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.740882
+dateCreated: 2023-11-29T03:37:02.781470
 ---
 
 # PET Pedagogia
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.740882
 | Email                                       | petpedagogia1@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Humanas              |
-| Temática                                    | Educacao Infantil e Ensino Fundamental (anos iniciais): docencia, gestao, politica e legislacao          |
-| Ano de criação                              | 2007        |
+| Tematica                                    | Educacao Infantil e Ensino Fundamental (anos iniciais): docencia, gestao, politica e legislacao          |
+| Ano de criacao                              | 2007        |
 | Instagram                                   | https://instagram.com/petpedpalmas         |
 | Facebook                                    | https://www.facebook.com/PETPedPalmas          |
 | Twitter                                     | nan           |

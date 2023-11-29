@@ -2,10 +2,10 @@
 title: PET-Letras - UFTM
 description: grupo da Universidade Federal do Triangulo Mineiro
 published: true
-date: 2023-11-29T03:33:44.748882
+date: 2023-11-29T03:37:02.790470
 tags: Linguistica, Letras e Arte, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.748882
+dateCreated: 2023-11-29T03:37:02.790470
 ---
 
 # PET-Letras
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.748882
 | Email                                       | petletrasuftm.uberaba@gmail.com             |
 | Site                                        | www.petletrasuftm.com.br/              |
 | Eixo                                        | Linguistica, Letras e Arte              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2007        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2007        |
 | Instagram                                   | https://instagram.com/petletrasuftm         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |

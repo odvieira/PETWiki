@@ -2,10 +2,10 @@
 title: PET Biomedicina - EBMSP
 description: grupo da Escola Bahiana de Medicina e Saude Publica
 published: true
-date: 2023-11-29T03:33:44.727883
+date: 2023-11-29T03:37:02.770467
 tags: Ciencias da Saude, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.727883
+dateCreated: 2023-11-29T03:37:02.770467
 ---
 
 # PET Biomedicina
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.727883
 | Email                                       | pet-biomedicina@googlegroups.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias da Saude              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2010        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petbiomed         |
 | Facebook                                    | https://www.facebook.com/petbiomedicinaebmsp          |
 | Twitter                                     | nan           |

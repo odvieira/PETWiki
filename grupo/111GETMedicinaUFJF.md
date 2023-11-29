@@ -2,10 +2,10 @@
 title: GET Medicina - UFJF
 description: grupo da Universidade Federal de Juiz de Fora
 published: true
-date: 2023-11-29T03:33:44.735883
+date: 2023-11-29T03:37:02.775469
 tags: Ciencias da Saude, Medicina
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.735883
+dateCreated: 2023-11-29T03:37:02.775469
 ---
 
 # GET Medicina
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.735883
 | Email                                       | get.medicina@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias da Saude              |
-| Temática                                    | Medicina          |
-| Ano de criação                              | 2009        |
+| Tematica                                    | Medicina          |
+| Ano de criacao                              | 2009        |
 | Instagram                                   | https://instagram.com/get.medicina.ufjf         |
 | Facebook                                    | https://www.facebook.com/profile.php?id=100010984934399          |
 | Twitter                                     | nan           |

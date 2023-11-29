@@ -2,10 +2,10 @@
 title: PET Pedagogia UFSC - UFSC
 description: grupo da Universidade Federal de Santa Catarina
 published: true
-date: 2023-11-29T03:33:44.734884
+date: 2023-11-29T03:37:02.773467
 tags: Ciencias Humanas, Processos Educativos, Relacoes Raciais (ERER), Praticas Educativas, EJA, Literatura Infantil e Juvenil
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.734884
+dateCreated: 2023-11-29T03:37:02.773467
 ---
 
 # PET Pedagogia UFSC
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.734884
 | Email                                       | petpedagogia07@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Humanas              |
-| Temática                                    | Processos Educativos, Relacoes Raciais (ERER), Praticas Educativas, EJA, Literatura Infantil e Juvenil          |
-| Ano de criação                              | 2007        |
+| Tematica                                    | Processos Educativos, Relacoes Raciais (ERER), Praticas Educativas, EJA, Literatura Infantil e Juvenil          |
+| Ano de criacao                              | 2007        |
 | Instagram                                   | https://instagram.com/petpedagogia07         |
 | Facebook                                    | https://www.facebook.com/PETPedagogiaUFSC/          |
 | Twitter                                     | nan           |

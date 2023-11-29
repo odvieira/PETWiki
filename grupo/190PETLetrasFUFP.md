@@ -2,10 +2,10 @@
 title: PET Letras - FUFP
 description: grupo da Fundacao Universidade Federal do Pampa
 published: true
-date: 2023-11-29T03:33:44.741883
+date: 2023-11-29T03:37:02.783471
 tags: Linguistica, Letras e Arte, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.741883
+dateCreated: 2023-11-29T03:37:02.783471
 ---
 
 # PET Letras
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.741883
 | Email                                       | petletrasjaguarao@gmail.com             |
 | Site                                        | petletrasjaguarao.wordpress.com              |
 | Eixo                                        | Linguistica, Letras e Arte              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2013        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2013        |
 | Instagram                                   | https://instagram.com/letraspet         |
 | Facebook                                    | https://www.facebook.com/petletrasjaguarao          |
 | Twitter                                     | nan           |

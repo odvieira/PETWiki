@@ -2,10 +2,10 @@
 title: PET Geologia UFC - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-29T03:33:44.735883
+date: 2023-11-29T03:37:02.775469
 tags: Ciencias Exatas e da Terra, nan
 editor: markdown
-dateCreated: 2023-11-29T03:33:44.735883
+dateCreated: 2023-11-29T03:37:02.775469
 ---
 
 # PET Geologia UFC
@@ -19,8 +19,8 @@ dateCreated: 2023-11-29T03:33:44.735883
 | Email                                       | petgeologiaufc@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Temática                                    | nan          |
-| Ano de criação                              | 2016        |
+| Tematica                                    | nan          |
+| Ano de criacao                              | 2016        |
 | Instagram                                   | https://instagram.com/protopetgeologia         |
 | Facebook                                    | https://www.facebook.com/protopetgeologiaUFC          |
 | Twitter                                     | nan           |
