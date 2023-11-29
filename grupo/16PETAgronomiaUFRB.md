@@ -1,0 +1,30 @@
+---
+title: PET Agronomia - UFRB
+description: grupo da Universidade Federal do Reconcavo da Bahia
+published: true
+date: 2023-11-29T03:33:44.725884
+tags: Ciencias Agrarias, nan
+editor: markdown
+dateCreated: 2023-11-29T03:33:44.725884
+---
+
+# PET Agronomia
+
+
+| ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRB         |
+| ------------------------------------------- | ------------------------------------------------- |
+| Universidade                                | Universidade Federal do Reconcavo da Bahia      |
+| Campus                                      | Campus Cruz das Almas            |
+| Cidade                                      | Cruz das Almas             |
+| Email                                       | petagronomiaufrb@gmail.com             |
+| Site                                        | www2.ufrb.edu.br/petagronomia/              |
+| Eixo                                        | Ciencias Agrarias              |
+| Temática                                    | nan          |
+| Ano de criação                              | 1988        |
+| Instagram                                   | https://instagram.com/petagronomiaufrb_oficial         |
+| Facebook                                    | nan          |
+| Twitter                                     | nan           |
+| YouTube                                     | nan           |
+| Contato                                     | http://linktr.ee/petagronomiaufrb_oficial         |
+| Estado                                      |  BA            |
+| Site                                        | www2.ufrb.edu.br/pet/o-pet |

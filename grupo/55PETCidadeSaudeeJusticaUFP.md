@@ -1,0 +1,30 @@
+---
+title: PET Cidade Saude e Justica - UFP
+description: grupo da Universidade Federal do Piaui
+published: true
+date: 2023-11-29T03:33:44.729886
+tags: Interdisciplinar, nan
+editor: markdown
+dateCreated: 2023-11-29T03:33:44.729886
+---
+
+# PET Cidade Saude e Justica
+
+
+| ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
+| ------------------------------------------- | ------------------------------------------------- |
+| Universidade                                | Universidade Federal do Piaui      |
+| Campus                                      | Campus Picos            |
+| Cidade                                      | Picos             |
+| Email                                       | petcsj@gmail.com             |
+| Site                                        | nan              |
+| Eixo                                        | Interdisciplinar              |
+| Temática                                    | nan          |
+| Ano de criação                              | 2010        |
+| Instagram                                   | https://instagram.com/pet.ufpipicos         |
+| Facebook                                    | nan          |
+| Twitter                                     | nan           |
+| YouTube                                     | https://www.youtube.com/channel/UCvGP4hAMyOB_3qKFbvxOlbQ?view_as=subscriber           |
+| Contato                                     | nan         |
+| Estado                                      |  PI            |
+| Site                                        | www.ufpi.br/pet |

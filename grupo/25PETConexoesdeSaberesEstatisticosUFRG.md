@@ -1,0 +1,30 @@
+---
+title: PET Conexoes de Saberes Estatisticos - UFRG
+description: grupo da Universidade Federal do Rio Grande
+published: true
+date: 2023-11-29T03:33:44.726883
+tags: Interdisciplinar, Educacao Estatistica
+editor: markdown
+dateCreated: 2023-11-29T03:33:44.726883
+---
+
+# PET Conexoes de Saberes Estatisticos
+
+
+| ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRG         |
+| ------------------------------------------- | ------------------------------------------------- |
+| Universidade                                | Universidade Federal do Rio Grande      |
+| Campus                                      | Campus Carreiros            |
+| Cidade                                      | Carreiros             |
+| Email                                       | petsabest@gmail.com             |
+| Site                                        | petsabest.furg.br              |
+| Eixo                                        | Interdisciplinar              |
+| Temática                                    | Educacao Estatistica          |
+| Ano de criação                              | 2010        |
+| Instagram                                   | https://instagram.com/@petsabest         |
+| Facebook                                    | https://www.facebook.com/PETSabEst.FURG          |
+| Twitter                                     | nan           |
+| YouTube                                     | nan           |
+| Contato                                     | nan         |
+| Estado                                      |  RS            |
+| Site                                        | nan |
