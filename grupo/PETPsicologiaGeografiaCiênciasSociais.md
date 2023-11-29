@@ -1,26 +1,26 @@
 ---
-title: PET Psicologia Geografia/Ciências Sociais
-description: grupo da Fundação Universidade Federal da Grande Dourados
+title: PET Psicologia Geografia/Ciï¿½ncias Sociais
+description: grupo da Fundaï¿½ï¿½o Universidade Federal da Grande Dourados
 published: true
-date: 2023-11-29T01:21:59.874580
-tags: Ciências Humanas, nan
+date: 2023-11-29T04:45:46.413Z
+tags: nan, ciï¿½ncias humanas
 editor: markdown
-dateCreated: 2023-11-29T01:21:59.874580
+dateCreated: 2023-11-29T04:34:32.646Z
 ---
 
-# PET Psicologia Geografia/Ciências Sociais
+# PET Psicologia Geografia/CiÃªncias Sociais
 
 
-| ![placeholder.png](/placeholder.png) | FçãUFGD         |
+| ![placeholder.png](/placeholder.png) | FUFGD         |
 | ------------------------------------ | --------------------------------- |
-| Universidade                         | Fundação Universidade Federal da Grande Dourados      |
+| Universidade                         | FundaÃ§Ã£o Universidade Federal da Grande Dourados      |
 | Campus                               | Campus Unidade II            |
 | Cidade                               | Dourados             |
 | Email                                | petpsicologiaufgd@gmail.com             |
 | Site                                 | www.petpsicologiaufgd.com/              |
-| Eixo                                 | Ciências Humanas              |
-| Temática                             | nan          |
-| Ano de criação                       | 2010        |
+| Eixo                                 | CiÃªncias Humanas              |
+| Temï¿½tica                             | nan          |
+| Ano de criaï¿½ï¿½o                       | 2010        |
 | Instagram                            | https://instagram.com/petpsicologiaufgd         |
 | Facebook                             | https://www.facebook.com/PETPSICOLOGIAUFGD          |
 | Twitter                              | nan           |
