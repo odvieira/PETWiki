@@ -1,26 +1,26 @@
 ---
-title: PET Produção
-description: grupo da Universidade Federal de São Carlos
+title: PET Produï¿½ï¿½o
+description: grupo da Universidade Federal de Sï¿½o Carlos
 published: true
-date: 2023-11-29T01:21:59.874580
-tags: Engenharias, nan
+date: 2023-11-29T06:12:50.515Z
+tags: engenharias, nan
 editor: markdown
-dateCreated: 2023-11-29T01:21:59.874580
+dateCreated: 2023-11-29T04:34:20.350Z
 ---
 
-# PET Produção
+# PET ProduÃ§Ã£o
 
 
-| ![placeholder.png](/placeholder.png) | UFSãC         |
+| ![placeholder.png](/placeholder.png) | UFSCar         |
 | ------------------------------------ | --------------------------------- |
-| Universidade                         | Universidade Federal de São Carlos      |
-| Campus                               | Campus São Carlos            |
-| Cidade                               | São Carlos             |
+| Universidade                         | Universidade Federal de Sï¿½o Carlos      |
+| Campus                               | Campus Sï¿½o Carlos            |
+| Cidade                               | Sï¿½o Carlos             |
 | Email                                | pet@dep.ufscar.br             |
 | Site                                 | www.pet.dep.ufscar.br/              |
 | Eixo                                 | Engenharias              |
-| Temática                             | nan          |
-| Ano de criação                       | 1991        |
+| Temï¿½tica                             | nan          |
+| Ano de criaï¿½ï¿½o                       | 1991        |
 | Instagram                            | https://instagram.com/petproducao         |
 | Facebook                             | https://www.facebook.com/petproducao/          |
 | Twitter                              | nan           |
