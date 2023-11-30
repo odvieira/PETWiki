@@ -2,15 +2,15 @@
 title: PET Pedagogia - UEM
 description: grupo da Universidade Estadual de Maringa
 published: true
-date: 2023-11-30T15:05:17.603832
+date: 2023-11-30T15:09:28.514194
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.603832
+dateCreated: 2023-11-30T15:09:28.514194
 ---
 
 # PET Pedagogia
 
-[Publicacoes de PET Pedagogia - UEM](/atividade/193PETPedagogiaUEM/feed)
+[Publicacoes de PET Pedagogia - UEM](/atividade/193PETPedagogiaUEM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEM         |
 | ------------------------------------------- | ------------------------------------------------- |

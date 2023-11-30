@@ -2,15 +2,15 @@
 title: PET Fisica - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-30T15:05:17.608869
+date: 2023-11-30T15:09:28.521195
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.608869
+dateCreated: 2023-11-30T15:09:28.521195
 ---
 
 # PET Fisica
 
-[Publicacoes de PET Fisica - UFSM](/atividade/262PETFisicaUFSM/feed)
+[Publicacoes de PET Fisica - UFSM](/atividade/262PETFisicaUFSM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSM         |
 | ------------------------------------------- | ------------------------------------------------- |

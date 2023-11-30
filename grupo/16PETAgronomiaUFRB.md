@@ -2,15 +2,15 @@
 title: PET Agronomia - UFRB
 description: grupo da Universidade Federal do Reconcavo da Bahia
 published: true
-date: 2023-11-30T15:05:17.589782
+date: 2023-11-30T15:09:28.495195
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.589782
+dateCreated: 2023-11-30T15:09:28.495195
 ---
 
 # PET Agronomia
 
-[Publicacoes de PET Agronomia - UFRB](/atividade/16PETAgronomiaUFRB/feed)
+[Publicacoes de PET Agronomia - UFRB](/atividade/16PETAgronomiaUFRB/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRB         |
 | ------------------------------------------- | ------------------------------------------------- |

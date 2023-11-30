@@ -2,15 +2,15 @@
 title: PET Engenharia Quimica - UFCG
 description: grupo da Universidade Federal de Campina Grande
 published: true
-date: 2023-11-30T15:05:17.599782
+date: 2023-11-30T15:09:28.509194
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.599782
+dateCreated: 2023-11-30T15:09:28.509194
 ---
 
 # PET Engenharia Quimica
 
-[Publicacoes de PET Engenharia Quimica - UFCG](/atividade/137PETEngenhariaQuimicaUFCG/feed)
+[Publicacoes de PET Engenharia Quimica - UFCG](/atividade/137PETEngenhariaQuimicaUFCG/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFCG         |
 | ------------------------------------------- | ------------------------------------------------- |

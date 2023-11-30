@@ -2,15 +2,15 @@
 title: PET Enfermagem - UFTM
 description: grupo da Universidade Federal do Triangulo Mineiro
 published: true
-date: 2023-11-30T15:05:17.608869
+date: 2023-11-30T15:09:28.523234
 tags: Ciencias da Saude, Politicas Publicas de Saude
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.608869
+dateCreated: 2023-11-30T15:09:28.523234
 ---
 
 # PET Enfermagem
 
-[Publicacoes de PET Enfermagem - UFTM](/atividade/275PETEnfermagemUFTM/feed)
+[Publicacoes de PET Enfermagem - UFTM](/atividade/275PETEnfermagemUFTM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFTM         |
 | ------------------------------------------- | ------------------------------------------------- |

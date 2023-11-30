@@ -2,15 +2,15 @@
 title: PET Matematica - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-30T15:05:17.603832
+date: 2023-11-30T15:09:28.515198
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.603832
+dateCreated: 2023-11-30T15:09:28.515198
 ---
 
 # PET Matematica
 
-[Publicacoes de PET Matematica - UFA](/atividade/197PETMatematicaUFA/feed)
+[Publicacoes de PET Matematica - UFA](/atividade/197PETMatematicaUFA/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |

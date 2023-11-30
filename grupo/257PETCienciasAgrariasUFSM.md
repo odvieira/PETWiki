@@ -2,15 +2,15 @@
 title: PET Ciencias Agrarias - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-30T15:05:17.608869
+date: 2023-11-30T15:09:28.521195
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.608869
+dateCreated: 2023-11-30T15:09:28.521195
 ---
 
 # PET Ciencias Agrarias
 
-[Publicacoes de PET Ciencias Agrarias - UFSM](/atividade/257PETCienciasAgrariasUFSM/feed)
+[Publicacoes de PET Ciencias Agrarias - UFSM](/atividade/257PETCienciasAgrariasUFSM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSM         |
 | ------------------------------------------- | ------------------------------------------------- |

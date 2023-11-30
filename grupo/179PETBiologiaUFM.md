@@ -2,15 +2,15 @@
 title: PET Biologia - UFM
 description: grupo da Universidade Federal do Maranhao
 published: true
-date: 2023-11-30T15:05:17.602782
+date: 2023-11-30T15:09:28.513194
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.602782
+dateCreated: 2023-11-30T15:09:28.513194
 ---
 
 # PET Biologia
 
-[Publicacoes de PET Biologia - UFM](/atividade/179PETBiologiaUFM/feed)
+[Publicacoes de PET Biologia - UFM](/atividade/179PETBiologiaUFM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFM         |
 | ------------------------------------------- | ------------------------------------------------- |

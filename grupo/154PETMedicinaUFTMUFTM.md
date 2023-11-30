@@ -2,15 +2,15 @@
 title: PET Medicina UFTM - UFTM
 description: grupo da Universidade Federal do Triangulo Mineiro
 published: true
-date: 2023-11-30T15:05:17.600780
+date: 2023-11-30T15:09:28.510193
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.600780
+dateCreated: 2023-11-30T15:09:28.510193
 ---
 
 # PET Medicina UFTM
 
-[Publicacoes de PET Medicina UFTM - UFTM](/atividade/154PETMedicinaUFTMUFTM/feed)
+[Publicacoes de PET Medicina UFTM - UFTM](/atividade/154PETMedicinaUFTMUFTM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFTM         |
 | ------------------------------------------- | ------------------------------------------------- |

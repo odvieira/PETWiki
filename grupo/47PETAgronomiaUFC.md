@@ -2,15 +2,15 @@
 title: PET Agronomia - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T15:05:17.592813
+date: 2023-11-30T15:09:28.499196
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.592813
+dateCreated: 2023-11-30T15:09:28.499196
 ---
 
 # PET Agronomia
 
-[Publicacoes de PET Agronomia - UFC](/atividade/47PETAgronomiaUFC/feed)
+[Publicacoes de PET Agronomia - UFC](/atividade/47PETAgronomiaUFC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFC         |
 | ------------------------------------------- | ------------------------------------------------- |

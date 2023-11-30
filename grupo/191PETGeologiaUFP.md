@@ -2,15 +2,15 @@
 title: PET Geologia - UFP
 description: grupo da Universidade Federal do Parana
 published: true
-date: 2023-11-30T15:05:17.603832
+date: 2023-11-30T15:09:28.514194
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.603832
+dateCreated: 2023-11-30T15:09:28.514194
 ---
 
 # PET Geologia
 
-[Publicacoes de PET Geologia - UFP](/atividade/191PETGeologiaUFP/feed)
+[Publicacoes de PET Geologia - UFP](/atividade/191PETGeologiaUFP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |

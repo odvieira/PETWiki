@@ -2,15 +2,15 @@
 title: PET Bacharelado em Engenharia Eletrica - FUFT
 description: grupo da Fundacao Universidade Federal do Tocantins
 published: true
-date: 2023-11-30T15:05:17.606782
+date: 2023-11-30T15:09:28.519196
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.606782
+dateCreated: 2023-11-30T15:09:28.519196
 ---
 
 # PET Bacharelado em Engenharia Eletrica
 
-[Publicacoes de PET Bacharelado em Engenharia Eletrica - FUFT](/atividade/236PETBachareladoemEngenhariaEletricaFUFT/feed)
+[Publicacoes de PET Bacharelado em Engenharia Eletrica - FUFT](/atividade/236PETBachareladoemEngenhariaEletricaFUFT/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] FUFT         |
 | ------------------------------------------- | ------------------------------------------------- |

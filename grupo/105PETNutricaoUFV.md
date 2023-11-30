@@ -2,15 +2,15 @@
 title: PET Nutricao - UFV
 description: grupo da Universidade Federal de Vicosa
 published: true
-date: 2023-11-30T15:05:17.596781
+date: 2023-11-30T15:09:28.506193
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.596781
+dateCreated: 2023-11-30T15:09:28.506193
 ---
 
 # PET Nutricao
 
-[Publicacoes de PET Nutricao - UFV](/atividade/105PETNutricaoUFV/feed)
+[Publicacoes de PET Nutricao - UFV](/atividade/105PETNutricaoUFV/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFV         |
 | ------------------------------------------- | ------------------------------------------------- |

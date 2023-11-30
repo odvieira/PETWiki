@@ -2,15 +2,15 @@
 title: PET Economia - FUFT
 description: grupo da Fundacao Universidade Federal do Tocantins
 published: true
-date: 2023-11-30T15:05:17.608869
+date: 2023-11-30T15:09:28.521195
 tags: Ciencias Sociais Aplicadas, Economia Regional
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.608869
+dateCreated: 2023-11-30T15:09:28.521195
 ---
 
 # PET Economia
 
-[Publicacoes de PET Economia - FUFT](/atividade/260PETEconomiaFUFT/feed)
+[Publicacoes de PET Economia - FUFT](/atividade/260PETEconomiaFUFT/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] FUFT         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,15 +2,15 @@
 title: PET Conexoes de Saberes Socioambientais - UFRB
 description: grupo da Universidade Federal do Reconcavo da Bahia
 published: true
-date: 2023-11-30T15:05:17.592813
+date: 2023-11-30T15:09:28.501196
 tags: Interdisciplinar, Socioambiental
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.592813
+dateCreated: 2023-11-30T15:09:28.501196
 ---
 
 # PET Conexoes de Saberes Socioambientais
 
-[Publicacoes de PET Conexoes de Saberes Socioambientais - UFRB](/atividade/56PETConexoesdeSaberesSocioambientaisUFRB/feed)
+[Publicacoes de PET Conexoes de Saberes Socioambientais - UFRB](/atividade/56PETConexoesdeSaberesSocioambientaisUFRB/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRB         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,15 +2,15 @@
 title: PET Conexoes Licenciaturas - UFES
 description: grupo da Universidade Federal do Espirito Santo
 published: true
-date: 2023-11-30T15:05:17.591784
+date: 2023-11-30T15:09:28.498199
 tags: Interdisciplinar, Docencia
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.591784
+dateCreated: 2023-11-30T15:09:28.498199
 ---
 
 # PET Conexoes Licenciaturas
 
-[Publicacoes de PET Conexoes Licenciaturas - UFES](/atividade/39PETConexoesLicenciaturasUFES/feed)
+[Publicacoes de PET Conexoes Licenciaturas - UFES](/atividade/39PETConexoesLicenciaturasUFES/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFES         |
 | ------------------------------------------- | ------------------------------------------------- |

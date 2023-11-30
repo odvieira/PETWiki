@@ -2,15 +2,15 @@
 title: PET Engenharia Mecanica - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T15:05:17.591784
+date: 2023-11-30T15:09:28.499196
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.591784
+dateCreated: 2023-11-30T15:09:28.499196
 ---
 
 # PET Engenharia Mecanica
 
-[Publicacoes de PET Engenharia Mecanica - UFC](/atividade/42PETEngenhariaMecanicaUFC/feed)
+[Publicacoes de PET Engenharia Mecanica - UFC](/atividade/42PETEngenhariaMecanicaUFC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFC         |
 | ------------------------------------------- | ------------------------------------------------- |

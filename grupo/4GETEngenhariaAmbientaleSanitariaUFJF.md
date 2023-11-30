@@ -2,15 +2,15 @@
 title: GET Engenharia Ambiental e Sanitaria - UFJF
 description: grupo da Universidade Federal de Juiz de Fora
 published: true
-date: 2023-11-30T15:05:17.589782
+date: 2023-11-30T15:09:28.493196
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.589782
+dateCreated: 2023-11-30T15:09:28.493196
 ---
 
 # GET Engenharia Ambiental e Sanitaria
 
-[Publicacoes de GET Engenharia Ambiental e Sanitaria - UFJF](/atividade/4GETEngenhariaAmbientaleSanitariaUFJF/feed)
+[Publicacoes de GET Engenharia Ambiental e Sanitaria - UFJF](/atividade/4GETEngenhariaAmbientaleSanitariaUFJF/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFJF         |
 | ------------------------------------------- | ------------------------------------------------- |

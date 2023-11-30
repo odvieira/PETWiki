@@ -2,15 +2,15 @@
 title: PET Zootecnia UFSM - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-30T15:05:17.596781
+date: 2023-11-30T15:09:28.506193
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.596781
+dateCreated: 2023-11-30T15:09:28.506193
 ---
 
 # PET Zootecnia UFSM
 
-[Publicacoes de PET Zootecnia UFSM - UFSM](/atividade/103PETZootecniaUFSMUFSM/feed)
+[Publicacoes de PET Zootecnia UFSM - UFSM](/atividade/103PETZootecniaUFSMUFSM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSM         |
 | ------------------------------------------- | ------------------------------------------------- |

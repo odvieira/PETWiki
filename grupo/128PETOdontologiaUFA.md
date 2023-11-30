@@ -2,15 +2,15 @@
 title: PET Odontologia - UFA
 description: grupo da Universidade Federal de Alfenas
 published: true
-date: 2023-11-30T15:05:17.598781
+date: 2023-11-30T15:09:28.508194
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.598781
+dateCreated: 2023-11-30T15:09:28.508194
 ---
 
 # PET Odontologia
 
-[Publicacoes de PET Odontologia - UFA](/atividade/128PETOdontologiaUFA/feed)
+[Publicacoes de PET Odontologia - UFA](/atividade/128PETOdontologiaUFA/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |

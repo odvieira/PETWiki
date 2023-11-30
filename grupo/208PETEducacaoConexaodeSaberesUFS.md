@@ -2,15 +2,15 @@
 title: PET Educacao - Conexao de Saberes - UFS
 description: grupo da Universidade Federal de Sergipe
 published: true
-date: 2023-11-30T15:05:17.604818
+date: 2023-11-30T15:09:28.516195
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.604818
+dateCreated: 2023-11-30T15:09:28.516195
 ---
 
 # PET Educacao - Conexao de Saberes
 
-[Publicacoes de PET Educacao - Conexao de Saberes - UFS](/atividade/208PETEducacaoConexaodeSaberesUFS/feed)
+[Publicacoes de PET Educacao - Conexao de Saberes - UFS](/atividade/208PETEducacaoConexaodeSaberesUFS/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFS         |
 | ------------------------------------------- | ------------------------------------------------- |

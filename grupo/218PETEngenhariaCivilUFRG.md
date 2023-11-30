@@ -2,15 +2,15 @@
 title: PET Engenharia Civil - UFRG
 description: grupo da Universidade Federal do Rio Grande
 published: true
-date: 2023-11-30T15:05:17.605781
+date: 2023-11-30T15:09:28.517195
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.605781
+dateCreated: 2023-11-30T15:09:28.517195
 ---
 
 # PET Engenharia Civil
 
-[Publicacoes de PET Engenharia Civil - UFRG](/atividade/218PETEngenhariaCivilUFRG/feed)
+[Publicacoes de PET Engenharia Civil - UFRG](/atividade/218PETEngenhariaCivilUFRG/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRG         |
 | ------------------------------------------- | ------------------------------------------------- |

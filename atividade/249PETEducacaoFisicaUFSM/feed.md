@@ -2,11 +2,11 @@
 title: Publicacoes de PET Educacao Fisica - UFSM 
 description: feed do grupo PET Educacao Fisica - UFSM
 published: true
-date: 2023-11-30T15:05:17.747340
+date: 2023-11-30T15:09:28.673396
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.747340
+dateCreated: 2023-11-30T15:09:28.673396
 ---
 
 # PET Educacao Fisica
-[PET Educacao Fisica - UFSM](/grupo/249PETEducacaoFisicaUFSM)
+[PET Educacao Fisica - UFSM](/grupo/249PETEducacaoFisicaUFSM.md)

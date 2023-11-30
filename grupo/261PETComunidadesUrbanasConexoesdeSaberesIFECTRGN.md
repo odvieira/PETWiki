@@ -2,15 +2,15 @@
 title: PET Comunidades Urbanas - Conexoes de Saberes - IFECTRGN
 description: grupo da Instituto Federal de Educacao, Ciencia e Tecnologia do Rio Grande do Norte
 published: true
-date: 2023-11-30T15:05:17.608869
+date: 2023-11-30T15:09:28.521195
 tags: Interdisciplinar, Comunidades Urbanas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.608869
+dateCreated: 2023-11-30T15:09:28.521195
 ---
 
 # PET Comunidades Urbanas - Conexoes de Saberes
 
-[Publicacoes de PET Comunidades Urbanas - Conexoes de Saberes - IFECTRGN](/atividade/261PETComunidadesUrbanasConexoesdeSaberesIFECTRGN/feed)
+[Publicacoes de PET Comunidades Urbanas - Conexoes de Saberes - IFECTRGN](/atividade/261PETComunidadesUrbanasConexoesdeSaberesIFECTRGN/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] IFECTRGN         |
 | ------------------------------------------- | ------------------------------------------------- |

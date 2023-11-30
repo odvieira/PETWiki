@@ -2,15 +2,15 @@
 title: PET Administracao - UFRP
 description: grupo da Universidade Federal Rural de Pernambuco
 published: true
-date: 2023-11-30T15:05:17.598781
+date: 2023-11-30T15:09:28.508194
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.598781
+dateCreated: 2023-11-30T15:09:28.508194
 ---
 
 # PET Administracao
 
-[Publicacoes de PET Administracao - UFRP](/atividade/133PETAdministracaoUFRP/feed)
+[Publicacoes de PET Administracao - UFRP](/atividade/133PETAdministracaoUFRP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRP         |
 | ------------------------------------------- | ------------------------------------------------- |

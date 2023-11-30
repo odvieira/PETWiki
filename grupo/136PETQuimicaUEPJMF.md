@@ -2,15 +2,15 @@
 title: PET Quimica - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-30T15:05:17.598781
+date: 2023-11-30T15:09:28.508194
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.598781
+dateCreated: 2023-11-30T15:09:28.508194
 ---
 
 # PET Quimica
 
-[Publicacoes de PET Quimica - UEPJMF](/atividade/136PETQuimicaUEPJMF/feed)
+[Publicacoes de PET Quimica - UEPJMF](/atividade/136PETQuimicaUEPJMF/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEPJMF         |
 | ------------------------------------------- | ------------------------------------------------- |

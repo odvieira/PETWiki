@@ -2,15 +2,15 @@
 title: PET Agronomia - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-30T15:05:17.605781
+date: 2023-11-30T15:09:28.518196
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.605781
+dateCreated: 2023-11-30T15:09:28.518196
 ---
 
 # PET Agronomia
 
-[Publicacoes de PET Agronomia - UEPJMF](/atividade/222PETAgronomiaUEPJMF/feed)
+[Publicacoes de PET Agronomia - UEPJMF](/atividade/222PETAgronomiaUEPJMF/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEPJMF         |
 | ------------------------------------------- | ------------------------------------------------- |

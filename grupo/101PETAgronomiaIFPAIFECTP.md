@@ -2,15 +2,15 @@
 title: PET Agronomia - IFPA - IFECTP
 description: grupo da Instituto Federal de Educacao, Ciencia e Tecnologia do Para
 published: true
-date: 2023-11-30T15:05:17.596781
+date: 2023-11-30T15:09:28.506193
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.596781
+dateCreated: 2023-11-30T15:09:28.506193
 ---
 
 # PET Agronomia - IFPA
 
-[Publicacoes de PET Agronomia - IFPA - IFECTP](/atividade/101PETAgronomiaIFPAIFECTP/feed)
+[Publicacoes de PET Agronomia - IFPA - IFECTP](/atividade/101PETAgronomiaIFPAIFECTP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] IFECTP         |
 | ------------------------------------------- | ------------------------------------------------- |

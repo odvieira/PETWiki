@@ -2,15 +2,15 @@
 title: PET Fisica - UEL
 description: grupo da Universidade Estadual de Londrina
 published: true
-date: 2023-11-30T15:05:17.606782
+date: 2023-11-30T15:09:28.519196
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.606782
+dateCreated: 2023-11-30T15:09:28.519196
 ---
 
 # PET Fisica
 
-[Publicacoes de PET Fisica - UEL](/atividade/233PETFisicaUEL/feed)
+[Publicacoes de PET Fisica - UEL](/atividade/233PETFisicaUEL/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEL         |
 | ------------------------------------------- | ------------------------------------------------- |

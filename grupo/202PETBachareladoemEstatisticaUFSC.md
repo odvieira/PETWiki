@@ -2,15 +2,15 @@
 title: PET Bacharelado em Estatistica - UFSC
 description: grupo da Universidade Federal de Sao Carlos
 published: true
-date: 2023-11-30T15:05:17.603832
+date: 2023-11-30T15:09:28.515198
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.603832
+dateCreated: 2023-11-30T15:09:28.515198
 ---
 
 # PET Bacharelado em Estatistica
 
-[Publicacoes de PET Bacharelado em Estatistica - UFSC](/atividade/202PETBachareladoemEstatisticaUFSC/feed)
+[Publicacoes de PET Bacharelado em Estatistica - UFSC](/atividade/202PETBachareladoemEstatisticaUFSC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSC         |
 | ------------------------------------------- | ------------------------------------------------- |

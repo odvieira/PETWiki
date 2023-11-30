@@ -2,15 +2,15 @@
 title: PET Biologia - URB
 description: grupo da Universidade Regional de Blumenau
 published: true
-date: 2023-11-30T15:05:17.593827
+date: 2023-11-30T15:09:28.501196
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.593827
+dateCreated: 2023-11-30T15:09:28.501196
 ---
 
 # PET Biologia
 
-[Publicacoes de PET Biologia - URB](/atividade/58PETBiologiaURB/feed)
+[Publicacoes de PET Biologia - URB](/atividade/58PETBiologiaURB/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] URB         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,15 +2,15 @@
 title: PET Biologia - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T15:05:17.591784
+date: 2023-11-30T15:09:28.498199
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.591784
+dateCreated: 2023-11-30T15:09:28.498199
 ---
 
 # PET Biologia
 
-[Publicacoes de PET Biologia - UFC](/atividade/40PETBiologiaUFC/feed)
+[Publicacoes de PET Biologia - UFC](/atividade/40PETBiologiaUFC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFC         |
 | ------------------------------------------- | ------------------------------------------------- |

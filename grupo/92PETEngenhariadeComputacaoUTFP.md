@@ -2,15 +2,15 @@
 title: PET Engenharia de Computacao - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-30T15:05:17.595782
+date: 2023-11-30T15:09:28.505196
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.595782
+dateCreated: 2023-11-30T15:09:28.505196
 ---
 
 # PET Engenharia de Computacao
 
-[Publicacoes de PET Engenharia de Computacao - UTFP](/atividade/92PETEngenhariadeComputacaoUTFP/feed)
+[Publicacoes de PET Engenharia de Computacao - UTFP](/atividade/92PETEngenhariadeComputacaoUTFP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UTFP         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,15 +2,15 @@
 title: PET Odontologia - UFP
 description: grupo da Universidade Federal de Pelotas
 published: true
-date: 2023-11-30T15:05:17.602782
+date: 2023-11-30T15:09:28.513511
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.602782
+dateCreated: 2023-11-30T15:09:28.513511
 ---
 
 # PET Odontologia
 
-[Publicacoes de PET Odontologia - UFP](/atividade/187PETOdontologiaUFP/feed)
+[Publicacoes de PET Odontologia - UFP](/atividade/187PETOdontologiaUFP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |

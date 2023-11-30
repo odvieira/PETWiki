@@ -2,15 +2,15 @@
 title: PET Engenharia de Alimentos - UFRG
 description: grupo da Universidade Federal do Rio Grande
 published: true
-date: 2023-11-30T15:05:17.608869
+date: 2023-11-30T15:09:28.522198
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.608869
+dateCreated: 2023-11-30T15:09:28.522198
 ---
 
 # PET Engenharia de Alimentos
 
-[Publicacoes de PET Engenharia de Alimentos - UFRG](/atividade/272PETEngenhariadeAlimentosUFRG/feed)
+[Publicacoes de PET Engenharia de Alimentos - UFRG](/atividade/272PETEngenhariadeAlimentosUFRG/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRG         |
 | ------------------------------------------- | ------------------------------------------------- |

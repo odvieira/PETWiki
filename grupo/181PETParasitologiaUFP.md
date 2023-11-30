@@ -2,15 +2,15 @@
 title: PET Parasitologia - UFP
 description: grupo da Universidade Federal de Pernambuco
 published: true
-date: 2023-11-30T15:05:17.602782
+date: 2023-11-30T15:09:28.513194
 tags: Ciencias da Saude, area da saude
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.602782
+dateCreated: 2023-11-30T15:09:28.513194
 ---
 
 # PET Parasitologia
 
-[Publicacoes de PET Parasitologia - UFP](/atividade/181PETParasitologiaUFP/feed)
+[Publicacoes de PET Parasitologia - UFP](/atividade/181PETParasitologiaUFP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |

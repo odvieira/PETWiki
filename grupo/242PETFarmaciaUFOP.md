@@ -2,15 +2,15 @@
 title: PET Farmacia - UFOP
 description: grupo da Universidade Federal de Ouro Preto
 published: true
-date: 2023-11-30T15:05:17.606782
+date: 2023-11-30T15:09:28.519196
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.606782
+dateCreated: 2023-11-30T15:09:28.519196
 ---
 
 # PET Farmacia
 
-[Publicacoes de PET Farmacia - UFOP](/atividade/242PETFarmaciaUFOP/feed)
+[Publicacoes de PET Farmacia - UFOP](/atividade/242PETFarmaciaUFOP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFOP         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,15 +2,15 @@
 title: PET Quimica - USP
 description: grupo da Universidade de Sao Paulo
 published: true
-date: 2023-11-30T15:05:17.602782
+date: 2023-11-30T15:09:28.514194
 tags: Ciencias Exatas e da Terra, Meio ambiente e uso sustentavel de recursos naturais
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.602782
+dateCreated: 2023-11-30T15:09:28.514194
 ---
 
 # PET Quimica
 
-[Publicacoes de PET Quimica - USP](/atividade/188PETQuimicaUSP/feed)
+[Publicacoes de PET Quimica - USP](/atividade/188PETQuimicaUSP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] USP         |
 | ------------------------------------------- | ------------------------------------------------- |

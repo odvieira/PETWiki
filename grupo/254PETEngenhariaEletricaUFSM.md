@@ -2,15 +2,15 @@
 title: PET Engenharia Eletrica - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-30T15:05:17.608782
+date: 2023-11-30T15:09:28.520198
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.608782
+dateCreated: 2023-11-30T15:09:28.520198
 ---
 
 # PET Engenharia Eletrica
 
-[Publicacoes de PET Engenharia Eletrica - UFSM](/atividade/254PETEngenhariaEletricaUFSM/feed)
+[Publicacoes de PET Engenharia Eletrica - UFSM](/atividade/254PETEngenhariaEletricaUFSM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSM         |
 | ------------------------------------------- | ------------------------------------------------- |

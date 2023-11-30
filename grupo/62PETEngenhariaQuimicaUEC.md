@@ -2,15 +2,15 @@
 title: PET Engenharia Quimica - UEC
 description: grupo da Universidade Estadual de Campinas
 published: true
-date: 2023-11-30T15:05:17.593827
+date: 2023-11-30T15:09:28.501196
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.593827
+dateCreated: 2023-11-30T15:09:28.501196
 ---
 
 # PET Engenharia Quimica
 
-[Publicacoes de PET Engenharia Quimica - UEC](/atividade/62PETEngenhariaQuimicaUEC/feed)
+[Publicacoes de PET Engenharia Quimica - UEC](/atividade/62PETEngenhariaQuimicaUEC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEC         |
 | ------------------------------------------- | ------------------------------------------------- |

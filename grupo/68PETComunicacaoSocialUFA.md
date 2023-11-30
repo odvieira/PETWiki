@@ -2,15 +2,15 @@
 title: PET Comunicacao Social - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-30T15:05:17.593827
+date: 2023-11-30T15:09:28.502195
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.593827
+dateCreated: 2023-11-30T15:09:28.502195
 ---
 
 # PET Comunicacao Social
 
-[Publicacoes de PET Comunicacao Social - UFA](/atividade/68PETComunicacaoSocialUFA/feed)
+[Publicacoes de PET Comunicacao Social - UFA](/atividade/68PETComunicacaoSocialUFA/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |

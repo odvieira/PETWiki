@@ -2,15 +2,15 @@
 title: PET Engenharias - FUFP
 description: grupo da Fundacao Universidade Federal do Pampa
 published: true
-date: 2023-11-30T15:05:17.592813
+date: 2023-11-30T15:09:28.500197
 tags: Engenharias, Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.592813
+dateCreated: 2023-11-30T15:09:28.500197
 ---
 
 # PET Engenharias
 
-[Publicacoes de PET Engenharias - FUFP](/atividade/53PETEngenhariasFUFP/feed)
+[Publicacoes de PET Engenharias - FUFP](/atividade/53PETEngenhariasFUFP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] FUFP         |
 | ------------------------------------------- | ------------------------------------------------- |

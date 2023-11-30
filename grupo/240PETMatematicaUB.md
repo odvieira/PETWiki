@@ -2,15 +2,15 @@
 title: PET Matematica - UB
 description: grupo da Universidade de Brasilia
 published: true
-date: 2023-11-30T15:05:17.606782
+date: 2023-11-30T15:09:28.519196
 tags: Ciencias Exatas e da Terra, Matematica
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.606782
+dateCreated: 2023-11-30T15:09:28.519196
 ---
 
 # PET Matematica
 
-[Publicacoes de PET Matematica - UB](/atividade/240PETMatematicaUB/feed)
+[Publicacoes de PET Matematica - UB](/atividade/240PETMatematicaUB/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UB         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,15 +2,15 @@
 title: PET de Engenharia Civil - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T15:05:17.591784
+date: 2023-11-30T15:09:28.498199
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.591784
+dateCreated: 2023-11-30T15:09:28.498199
 ---
 
 # PET de Engenharia Civil
 
-[Publicacoes de PET de Engenharia Civil - UFC](/atividade/38PETdeEngenhariaCivilUFC/feed)
+[Publicacoes de PET de Engenharia Civil - UFC](/atividade/38PETdeEngenhariaCivilUFC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFC         |
 | ------------------------------------------- | ------------------------------------------------- |

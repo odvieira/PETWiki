@@ -2,15 +2,15 @@
 title: PET Engenharia Quimica - UFRGN
 description: grupo da Universidade Federal do Rio Grande do Norte
 published: true
-date: 2023-11-30T15:05:17.600780
+date: 2023-11-30T15:09:28.510193
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.600780
+dateCreated: 2023-11-30T15:09:28.510193
 ---
 
 # PET Engenharia Quimica
 
-[Publicacoes de PET Engenharia Quimica - UFRGN](/atividade/152PETEngenhariaQuimicaUFRGN/feed)
+[Publicacoes de PET Engenharia Quimica - UFRGN](/atividade/152PETEngenhariaQuimicaUFRGN/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRGN         |
 | ------------------------------------------- | ------------------------------------------------- |

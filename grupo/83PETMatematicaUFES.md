@@ -2,15 +2,15 @@
 title: PET Matematica - UFES
 description: grupo da Universidade Federal do Espirito Santo
 published: true
-date: 2023-11-30T15:05:17.594781
+date: 2023-11-30T15:09:28.504197
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.594781
+dateCreated: 2023-11-30T15:09:28.504197
 ---
 
 # PET Matematica
 
-[Publicacoes de PET Matematica - UFES](/atividade/83PETMatematicaUFES/feed)
+[Publicacoes de PET Matematica - UFES](/atividade/83PETMatematicaUFES/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFES         |
 | ------------------------------------------- | ------------------------------------------------- |

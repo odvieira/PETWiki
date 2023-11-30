@@ -2,15 +2,15 @@
 title: PET Agronomia - UFP
 description: grupo da Universidade Federal de Pelotas
 published: true
-date: 2023-11-30T15:05:17.602782
+date: 2023-11-30T15:09:28.513511
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.602782
+dateCreated: 2023-11-30T15:09:28.513511
 ---
 
 # PET Agronomia
 
-[Publicacoes de PET Agronomia - UFP](/atividade/185PETAgronomiaUFP/feed)
+[Publicacoes de PET Agronomia - UFP](/atividade/185PETAgronomiaUFP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |

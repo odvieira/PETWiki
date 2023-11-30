@@ -2,15 +2,15 @@
 title: PET Engenharia de Alimentos - FUFGD
 description: grupo da Fundacao Universidade Federal da Grande Dourados
 published: true
-date: 2023-11-30T15:05:17.592813
+date: 2023-11-30T15:09:28.500197
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.592813
+dateCreated: 2023-11-30T15:09:28.500197
 ---
 
 # PET Engenharia de Alimentos
 
-[Publicacoes de PET Engenharia de Alimentos - FUFGD](/atividade/50PETEngenhariadeAlimentosFUFGD/feed)
+[Publicacoes de PET Engenharia de Alimentos - FUFGD](/atividade/50PETEngenhariadeAlimentosFUFGD/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] FUFGD         |
 | ------------------------------------------- | ------------------------------------------------- |

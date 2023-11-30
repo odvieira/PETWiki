@@ -2,15 +2,15 @@
 title: PET Biologia - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-30T15:05:17.591784
+date: 2023-11-30T15:09:28.497199
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.591784
+dateCreated: 2023-11-30T15:09:28.497199
 ---
 
 # PET Biologia
 
-[Publicacoes de PET Biologia - UFA](/atividade/31PETBiologiaUFA/feed)
+[Publicacoes de PET Biologia - UFA](/atividade/31PETBiologiaUFA/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |

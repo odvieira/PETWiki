@@ -2,15 +2,15 @@
 title: PET Letras - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T15:05:17.600780
+date: 2023-11-30T15:09:28.510193
 tags: Linguistica, Letras e Arte
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.600780
+dateCreated: 2023-11-30T15:09:28.510193
 ---
 
 # PET Letras
 
-[Publicacoes de PET Letras - UFU](/atividade/160PETLetrasUFU/feed)
+[Publicacoes de PET Letras - UFU](/atividade/160PETLetrasUFU/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFU         |
 | ------------------------------------------- | ------------------------------------------------- |

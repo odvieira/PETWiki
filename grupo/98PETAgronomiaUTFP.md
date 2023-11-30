@@ -2,15 +2,15 @@
 title: PET Agronomia - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-30T15:05:17.596781
+date: 2023-11-30T15:09:28.505196
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.596781
+dateCreated: 2023-11-30T15:09:28.505196
 ---
 
 # PET Agronomia
 
-[Publicacoes de PET Agronomia - UTFP](/atividade/98PETAgronomiaUTFP/feed)
+[Publicacoes de PET Agronomia - UTFP](/atividade/98PETAgronomiaUTFP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UTFP         |
 | ------------------------------------------- | ------------------------------------------------- |

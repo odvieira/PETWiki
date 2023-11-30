@@ -2,15 +2,15 @@
 title: PET Engenharia Quimica - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T15:05:17.604818
+date: 2023-11-30T15:09:28.516195
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.604818
+dateCreated: 2023-11-30T15:09:28.516195
 ---
 
 # PET Engenharia Quimica
 
-[Publicacoes de PET Engenharia Quimica - UFU](/atividade/209PETEngenhariaQuimicaUFU/feed)
+[Publicacoes de PET Engenharia Quimica - UFU](/atividade/209PETEngenhariaQuimicaUFU/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFU         |
 | ------------------------------------------- | ------------------------------------------------- |

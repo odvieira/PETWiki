@@ -2,15 +2,15 @@
 title: PET Farmacia - UFMGS
 description: grupo da Universidade Federal de Mato Grosso do Sul
 published: true
-date: 2023-11-30T15:05:17.602782
+date: 2023-11-30T15:09:28.513194
 tags: Ciencias da Saude, Uso Racional de Medicamentos
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.602782
+dateCreated: 2023-11-30T15:09:28.513194
 ---
 
 # PET Farmacia
 
-[Publicacoes de PET Farmacia - UFMGS](/atividade/180PETFarmaciaUFMGS/feed)
+[Publicacoes de PET Farmacia - UFMGS](/atividade/180PETFarmaciaUFMGS/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFMGS         |
 | ------------------------------------------- | ------------------------------------------------- |

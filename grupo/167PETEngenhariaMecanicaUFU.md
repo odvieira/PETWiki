@@ -2,15 +2,15 @@
 title: PET Engenharia Mecanica - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T15:05:17.601780
+date: 2023-11-30T15:09:28.511193
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.601780
+dateCreated: 2023-11-30T15:09:28.511193
 ---
 
 # PET Engenharia Mecanica
 
-[Publicacoes de PET Engenharia Mecanica - UFU](/atividade/167PETEngenhariaMecanicaUFU/feed)
+[Publicacoes de PET Engenharia Mecanica - UFU](/atividade/167PETEngenhariaMecanicaUFU/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFU         |
 | ------------------------------------------- | ------------------------------------------------- |

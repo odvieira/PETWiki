@@ -2,15 +2,15 @@
 title: PET Geografia - UFA
 description: grupo da Universidade Federal do Acre
 published: true
-date: 2023-11-30T15:05:17.605781
+date: 2023-11-30T15:09:28.518196
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.605781
+dateCreated: 2023-11-30T15:09:28.518196
 ---
 
 # PET Geografia
 
-[Publicacoes de PET Geografia - UFA](/atividade/224PETGeografiaUFA/feed)
+[Publicacoes de PET Geografia - UFA](/atividade/224PETGeografiaUFA/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |

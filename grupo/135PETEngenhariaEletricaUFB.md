@@ -2,15 +2,15 @@
 title: PET Engenharia Eletrica - UFB
 description: grupo da Universidade Federal da Bahia
 published: true
-date: 2023-11-30T15:05:17.598781
+date: 2023-11-30T15:09:28.508194
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.598781
+dateCreated: 2023-11-30T15:09:28.508194
 ---
 
 # PET Engenharia Eletrica
 
-[Publicacoes de PET Engenharia Eletrica - UFB](/atividade/135PETEngenhariaEletricaUFB/feed)
+[Publicacoes de PET Engenharia Eletrica - UFB](/atividade/135PETEngenhariaEletricaUFB/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFB         |
 | ------------------------------------------- | ------------------------------------------------- |

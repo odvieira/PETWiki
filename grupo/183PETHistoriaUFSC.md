@@ -2,15 +2,15 @@
 title: PET Historia - UFSC
 description: grupo da Universidade Federal de Santa Catarina
 published: true
-date: 2023-11-30T15:05:17.602782
+date: 2023-11-30T15:09:28.513511
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.602782
+dateCreated: 2023-11-30T15:09:28.513511
 ---
 
 # PET Historia
 
-[Publicacoes de PET Historia - UFSC](/atividade/183PETHistoriaUFSC/feed)
+[Publicacoes de PET Historia - UFSC](/atividade/183PETHistoriaUFSC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSC         |
 | ------------------------------------------- | ------------------------------------------------- |

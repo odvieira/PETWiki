@@ -2,15 +2,15 @@
 title: PET Psicologia Geografia/Ciencias Sociais - FUFGD
 description: grupo da Fundacao Universidade Federal da Grande Dourados
 published: true
-date: 2023-11-30T15:05:17.600780
+date: 2023-11-30T15:09:28.510193
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.600780
+dateCreated: 2023-11-30T15:09:28.510193
 ---
 
 # PET Psicologia Geografia/Ciencias Sociais
 
-[Publicacoes de PET Psicologia Geografia/Ciencias Sociais - FUFGD](/atividade/156PETPsicologiaGeografiaCienciasSociaisFUFGD/feed)
+[Publicacoes de PET Psicologia Geografia/Ciencias Sociais - FUFGD](/atividade/156PETPsicologiaGeografiaCienciasSociaisFUFGD/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] FUFGD         |
 | ------------------------------------------- | ------------------------------------------------- |

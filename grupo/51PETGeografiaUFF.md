@@ -2,15 +2,15 @@
 title: PET Geografia - UFF
 description: grupo da Universidade Federal Fluminense
 published: true
-date: 2023-11-30T15:05:17.592813
+date: 2023-11-30T15:09:28.500197
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.592813
+dateCreated: 2023-11-30T15:09:28.500197
 ---
 
 # PET Geografia
 
-[Publicacoes de PET Geografia - UFF](/atividade/51PETGeografiaUFF/feed)
+[Publicacoes de PET Geografia - UFF](/atividade/51PETGeografiaUFF/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFF         |
 | ------------------------------------------- | ------------------------------------------------- |

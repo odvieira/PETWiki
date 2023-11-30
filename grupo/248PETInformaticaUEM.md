@@ -2,15 +2,15 @@
 title: PET Informatica - UEM
 description: grupo da Universidade Estadual de Maringa
 published: true
-date: 2023-11-30T15:05:17.607781
+date: 2023-11-30T15:09:28.520198
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.607781
+dateCreated: 2023-11-30T15:09:28.520198
 ---
 
 # PET Informatica
 
-[Publicacoes de PET Informatica - UEM](/atividade/248PETInformaticaUEM/feed)
+[Publicacoes de PET Informatica - UEM](/atividade/248PETInformaticaUEM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEM         |
 | ------------------------------------------- | ------------------------------------------------- |

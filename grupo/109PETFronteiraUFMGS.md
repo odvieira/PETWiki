@@ -2,15 +2,15 @@
 title: PET Fronteira - UFMGS
 description: grupo da Universidade Federal de Mato Grosso do Sul
 published: true
-date: 2023-11-30T15:05:17.596781
+date: 2023-11-30T15:09:28.506193
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.596781
+dateCreated: 2023-11-30T15:09:28.506193
 ---
 
 # PET Fronteira
 
-[Publicacoes de PET Fronteira - UFMGS](/atividade/109PETFronteiraUFMGS/feed)
+[Publicacoes de PET Fronteira - UFMGS](/atividade/109PETFronteiraUFMGS/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFMGS         |
 | ------------------------------------------- | ------------------------------------------------- |

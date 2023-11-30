@@ -2,15 +2,15 @@
 title: PET Engenharia Eletrica - UFCG
 description: grupo da Universidade Federal de Campina Grande
 published: true
-date: 2023-11-30T15:05:17.598781
+date: 2023-11-30T15:09:28.508194
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.598781
+dateCreated: 2023-11-30T15:09:28.508194
 ---
 
 # PET Engenharia Eletrica
 
-[Publicacoes de PET Engenharia Eletrica - UFCG](/atividade/126PETEngenhariaEletricaUFCG/feed)
+[Publicacoes de PET Engenharia Eletrica - UFCG](/atividade/126PETEngenhariaEletricaUFCG/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFCG         |
 | ------------------------------------------- | ------------------------------------------------- |

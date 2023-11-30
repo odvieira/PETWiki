@@ -2,15 +2,15 @@
 title: PET Biblioteconomia - UFM
 description: grupo da Universidade Federal do Maranhao
 published: true
-date: 2023-11-30T15:05:17.597780
+date: 2023-11-30T15:09:28.507195
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.597780
+dateCreated: 2023-11-30T15:09:28.507195
 ---
 
 # PET Biblioteconomia
 
-[Publicacoes de PET Biblioteconomia - UFM](/atividade/113PETBiblioteconomiaUFM/feed)
+[Publicacoes de PET Biblioteconomia - UFM](/atividade/113PETBiblioteconomiaUFM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFM         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,15 +2,15 @@
 title: PET Bacharelado em Sistemas de Informacao - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T15:05:17.597780
+date: 2023-11-30T15:09:28.507195
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.597780
+dateCreated: 2023-11-30T15:09:28.507195
 ---
 
 # PET Bacharelado em Sistemas de Informacao
 
-[Publicacoes de PET Bacharelado em Sistemas de Informacao - UFU](/atividade/121PETBachareladoemSistemasdeInformacaoUFU/feed)
+[Publicacoes de PET Bacharelado em Sistemas de Informacao - UFU](/atividade/121PETBachareladoemSistemasdeInformacaoUFU/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFU         |
 | ------------------------------------------- | ------------------------------------------------- |

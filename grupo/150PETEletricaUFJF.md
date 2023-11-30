@@ -2,15 +2,15 @@
 title: PET Eletrica - UFJF
 description: grupo da Universidade Federal de Juiz de Fora
 published: true
-date: 2023-11-30T15:05:17.600780
+date: 2023-11-30T15:09:28.510193
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.600780
+dateCreated: 2023-11-30T15:09:28.510193
 ---
 
 # PET Eletrica
 
-[Publicacoes de PET Eletrica - UFJF](/atividade/150PETEletricaUFJF/feed)
+[Publicacoes de PET Eletrica - UFJF](/atividade/150PETEletricaUFJF/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFJF         |
 | ------------------------------------------- | ------------------------------------------------- |

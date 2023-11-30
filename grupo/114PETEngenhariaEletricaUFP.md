@@ -2,15 +2,15 @@
 title: PET Engenharia Eletrica - UFP
 description: grupo da Universidade Federal da Paraiba
 published: true
-date: 2023-11-30T15:05:17.597780
+date: 2023-11-30T15:09:28.507195
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.597780
+dateCreated: 2023-11-30T15:09:28.507195
 ---
 
 # PET Engenharia Eletrica
 
-[Publicacoes de PET Engenharia Eletrica - UFP](/atividade/114PETEngenhariaEletricaUFP/feed)
+[Publicacoes de PET Engenharia Eletrica - UFP](/atividade/114PETEngenhariaEletricaUFP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |

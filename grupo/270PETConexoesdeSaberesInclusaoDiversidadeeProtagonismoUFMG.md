@@ -2,15 +2,15 @@
 title: PET Conexoes de Saberes: Inclusao, Diversidade e Protagonismo - UFMG
 description: grupo da Universidade Federal de Mato Grosso
 published: true
-date: 2023-11-30T15:05:17.608869
+date: 2023-11-30T15:09:28.522198
 tags: Interdisciplinar, Inclusao, Diversidade e Protagonismo
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.608869
+dateCreated: 2023-11-30T15:09:28.522198
 ---
 
 # PET Conexoes de Saberes: Inclusao, Diversidade e Protagonismo
 
-[Publicacoes de PET Conexoes de Saberes: Inclusao, Diversidade e Protagonismo - UFMG](/atividade/270PETConexoesdeSaberesInclusaoDiversidadeeProtagonismoUFMG/feed)
+[Publicacoes de PET Conexoes de Saberes: Inclusao, Diversidade e Protagonismo - UFMG](/atividade/270PETConexoesdeSaberesInclusaoDiversidadeeProtagonismoUFMG/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFMG         |
 | ------------------------------------------- | ------------------------------------------------- |

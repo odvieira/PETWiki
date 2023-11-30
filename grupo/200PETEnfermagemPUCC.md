@@ -2,15 +2,15 @@
 title: PET Enfermagem - PUCC
 description: grupo da Pontificia Universidade Catolica de Campinas
 published: true
-date: 2023-11-30T15:05:17.603832
+date: 2023-11-30T15:09:28.515198
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.603832
+dateCreated: 2023-11-30T15:09:28.515198
 ---
 
 # PET Enfermagem
 
-[Publicacoes de PET Enfermagem - PUCC](/atividade/200PETEnfermagemPUCC/feed)
+[Publicacoes de PET Enfermagem - PUCC](/atividade/200PETEnfermagemPUCC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] PUCC         |
 | ------------------------------------------- | ------------------------------------------------- |

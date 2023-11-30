@@ -2,15 +2,15 @@
 title: PET Administracao - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T15:05:17.600780
+date: 2023-11-30T15:09:28.510193
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.600780
+dateCreated: 2023-11-30T15:09:28.510193
 ---
 
 # PET Administracao
 
-[Publicacoes de PET Administracao - UFC](/atividade/155PETAdministracaoUFC/feed)
+[Publicacoes de PET Administracao - UFC](/atividade/155PETAdministracaoUFC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFC         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,15 +2,15 @@
 title: PET Farmacia - UFP
 description: grupo da Universidade Federal da Paraiba
 published: true
-date: 2023-11-30T15:05:17.601780
+date: 2023-11-30T15:09:28.511193
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.601780
+dateCreated: 2023-11-30T15:09:28.511193
 ---
 
 # PET Farmacia
 
-[Publicacoes de PET Farmacia - UFP](/atividade/163PETFarmaciaUFP/feed)
+[Publicacoes de PET Farmacia - UFP](/atividade/163PETFarmaciaUFP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |

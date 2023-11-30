@@ -2,15 +2,15 @@
 title: PET Computacao - UFRGS
 description: grupo da Universidade Federal do Rio Grande do Sul
 published: true
-date: 2023-11-30T15:05:17.604818
+date: 2023-11-30T15:09:28.516195
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.604818
+dateCreated: 2023-11-30T15:09:28.516195
 ---
 
 # PET Computacao
 
-[Publicacoes de PET Computacao - UFRGS](/atividade/207PETComputacaoUFRGS/feed)
+[Publicacoes de PET Computacao - UFRGS](/atividade/207PETComputacaoUFRGS/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRGS         |
 | ------------------------------------------- | ------------------------------------------------- |

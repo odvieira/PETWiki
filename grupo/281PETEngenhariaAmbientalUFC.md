@@ -2,15 +2,15 @@
 title: PET Engenharia Ambiental - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T15:05:17.608869
+date: 2023-11-30T15:09:28.523234
 tags: Engenharias, Ambiental
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.608869
+dateCreated: 2023-11-30T15:09:28.523234
 ---
 
 # PET Engenharia Ambiental
 
-[Publicacoes de PET Engenharia Ambiental - UFC](/atividade/281PETEngenhariaAmbientalUFC/feed)
+[Publicacoes de PET Engenharia Ambiental - UFC](/atividade/281PETEngenhariaAmbientalUFC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFC         |
 | ------------------------------------------- | ------------------------------------------------- |

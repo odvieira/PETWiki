@@ -2,15 +2,15 @@
 title: PET Tecnologias em Saude - UFSP
 description: grupo da Universidade Federal de Sao Paulo
 published: true
-date: 2023-11-30T15:05:17.583908
+date: 2023-11-30T15:09:28.493196
 tags: Interdisciplinar, Estudo das Ciencias Exatas aplicadas ao corpo humano
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.583908
+dateCreated: 2023-11-30T15:09:28.493196
 ---
 
 # PET Tecnologias em Saude
 
-[Publicacoes de PET Tecnologias em Saude - UFSP](/atividade/1PETTecnologiasemSaudeUFSP/feed)
+[Publicacoes de PET Tecnologias em Saude - UFSP](/atividade/1PETTecnologiasemSaudeUFSP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSP         |
 | ------------------------------------------- | ------------------------------------------------- |

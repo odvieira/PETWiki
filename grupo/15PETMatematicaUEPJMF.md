@@ -2,15 +2,15 @@
 title: PET Matematica - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-30T15:05:17.589782
+date: 2023-11-30T15:09:28.495195
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.589782
+dateCreated: 2023-11-30T15:09:28.495195
 ---
 
 # PET Matematica
 
-[Publicacoes de PET Matematica - UEPJMF](/atividade/15PETMatematicaUEPJMF/feed)
+[Publicacoes de PET Matematica - UEPJMF](/atividade/15PETMatematicaUEPJMF/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEPJMF         |
 | ------------------------------------------- | ------------------------------------------------- |

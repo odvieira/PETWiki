@@ -2,15 +2,15 @@
 title: PET Biomedicina - EBMSP
 description: grupo da Escola Bahiana de Medicina e Saude Publica
 published: true
-date: 2023-11-30T15:05:17.591784
+date: 2023-11-30T15:09:28.498199
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.591784
+dateCreated: 2023-11-30T15:09:28.498199
 ---
 
 # PET Biomedicina
 
-[Publicacoes de PET Biomedicina - EBMSP](/atividade/41PETBiomedicinaEBMSP/feed)
+[Publicacoes de PET Biomedicina - EBMSP](/atividade/41PETBiomedicinaEBMSP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] EBMSP         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,15 +2,15 @@
 title: PET Conexoes de Saberes: Comunidades Indigenas - UFA
 description: grupo da Universidade Federal do Acre
 published: true
-date: 2023-11-30T15:05:17.604818
+date: 2023-11-30T15:09:28.516195
 tags: Interdisciplinar, Saberes indigenas - Saberes academicos
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.604818
+dateCreated: 2023-11-30T15:09:28.516195
 ---
 
 # PET Conexoes de Saberes: Comunidades Indigenas
 
-[Publicacoes de PET Conexoes de Saberes: Comunidades Indigenas - UFA](/atividade/206PETConexoesdeSaberesComunidadesIndigenasUFA/feed)
+[Publicacoes de PET Conexoes de Saberes: Comunidades Indigenas - UFA](/atividade/206PETConexoesdeSaberesComunidadesIndigenasUFA/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |

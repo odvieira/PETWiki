@@ -2,11 +2,11 @@
 title: Publicacoes de PET Conexoes Acesso e Sucesso no Ensino Superior - UFRJ 
 description: feed do grupo PET Conexoes Acesso e Sucesso no Ensino Superior - UFRJ
 published: true
-date: 2023-11-30T15:05:17.725188
+date: 2023-11-30T15:09:28.643574
 tags: Ciencias Humanas, Acesso de estudantes de origem popular e permanencia ao ensino superior
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.725188
+dateCreated: 2023-11-30T15:09:28.643574
 ---
 
 # PET Conexoes Acesso e Sucesso no Ensino Superior
-[PET Conexoes Acesso e Sucesso no Ensino Superior - UFRJ](/grupo/127PETConexoesAcessoeSucessonoEnsinoSuperiorUFRJ)
+[PET Conexoes Acesso e Sucesso no Ensino Superior - UFRJ](/grupo/127PETConexoesAcessoeSucessonoEnsinoSuperiorUFRJ.md)

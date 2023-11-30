@@ -2,15 +2,15 @@
 title: PET Matematica - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-30T15:05:17.594781
+date: 2023-11-30T15:09:28.503195
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.594781
+dateCreated: 2023-11-30T15:09:28.503195
 ---
 
 # PET Matematica
 
-[Publicacoes de PET Matematica - UFSM](/atividade/73PETMatematicaUFSM/feed)
+[Publicacoes de PET Matematica - UFSM](/atividade/73PETMatematicaUFSM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSM         |
 | ------------------------------------------- | ------------------------------------------------- |

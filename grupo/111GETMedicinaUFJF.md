@@ -2,15 +2,15 @@
 title: GET Medicina - UFJF
 description: grupo da Universidade Federal de Juiz de Fora
 published: true
-date: 2023-11-30T15:05:17.597780
+date: 2023-11-30T15:09:28.506193
 tags: Ciencias da Saude, Medicina
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.597780
+dateCreated: 2023-11-30T15:09:28.506193
 ---
 
 # GET Medicina
 
-[Publicacoes de GET Medicina - UFJF](/atividade/111GETMedicinaUFJF/feed)
+[Publicacoes de GET Medicina - UFJF](/atividade/111GETMedicinaUFJF/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFJF         |
 | ------------------------------------------- | ------------------------------------------------- |

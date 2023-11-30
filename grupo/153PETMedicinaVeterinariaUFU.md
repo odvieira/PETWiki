@@ -2,15 +2,15 @@
 title: PET Medicina Veterinaria - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T15:05:17.600780
+date: 2023-11-30T15:09:28.510193
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.600780
+dateCreated: 2023-11-30T15:09:28.510193
 ---
 
 # PET Medicina Veterinaria
 
-[Publicacoes de PET Medicina Veterinaria - UFU](/atividade/153PETMedicinaVeterinariaUFU/feed)
+[Publicacoes de PET Medicina Veterinaria - UFU](/atividade/153PETMedicinaVeterinariaUFU/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFU         |
 | ------------------------------------------- | ------------------------------------------------- |

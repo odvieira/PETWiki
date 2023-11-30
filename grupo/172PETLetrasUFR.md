@@ -2,15 +2,15 @@
 title: PET Letras - UFR
 description: grupo da Universidade Federal de Roraima
 published: true
-date: 2023-11-30T15:05:17.601780
+date: 2023-11-30T15:09:28.512194
 tags: Linguistica, Letras e Arte
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.601780
+dateCreated: 2023-11-30T15:09:28.512194
 ---
 
 # PET Letras
 
-[Publicacoes de PET Letras - UFR](/atividade/172PETLetrasUFR/feed)
+[Publicacoes de PET Letras - UFR](/atividade/172PETLetrasUFR/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFR         |
 | ------------------------------------------- | ------------------------------------------------- |

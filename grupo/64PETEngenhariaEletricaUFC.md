@@ -2,15 +2,15 @@
 title: PET Engenharia Eletrica - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T15:05:17.593827
+date: 2023-11-30T15:09:28.502195
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.593827
+dateCreated: 2023-11-30T15:09:28.502195
 ---
 
 # PET Engenharia Eletrica
 
-[Publicacoes de PET Engenharia Eletrica - UFC](/atividade/64PETEngenhariaEletricaUFC/feed)
+[Publicacoes de PET Engenharia Eletrica - UFC](/atividade/64PETEngenhariaEletricaUFC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFC         |
 | ------------------------------------------- | ------------------------------------------------- |

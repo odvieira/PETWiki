@@ -2,15 +2,15 @@
 title: PET Engenharia Civil - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-30T15:05:17.590814
+date: 2023-11-30T15:09:28.495195
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.590814
+dateCreated: 2023-11-30T15:09:28.495195
 ---
 
 # PET Engenharia Civil
 
-[Publicacoes de PET Engenharia Civil - UTFP](/atividade/17PETEngenhariaCivilUTFP/feed)
+[Publicacoes de PET Engenharia Civil - UTFP](/atividade/17PETEngenhariaCivilUTFP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UTFP         |
 | ------------------------------------------- | ------------------------------------------------- |

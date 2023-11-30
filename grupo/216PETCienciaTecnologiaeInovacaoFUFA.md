@@ -2,15 +2,15 @@
 title: PET Ciencia, Tecnologia e Inovacao - FUFA
 description: grupo da Fundacao Universidade Federal do Abc
 published: true
-date: 2023-11-30T15:05:17.605781
+date: 2023-11-30T15:09:28.517195
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.605781
+dateCreated: 2023-11-30T15:09:28.517195
 ---
 
 # PET Ciencia, Tecnologia e Inovacao
 
-[Publicacoes de PET Ciencia, Tecnologia e Inovacao - FUFA](/atividade/216PETCienciaTecnologiaeInovacaoFUFA/feed)
+[Publicacoes de PET Ciencia, Tecnologia e Inovacao - FUFA](/atividade/216PETCienciaTecnologiaeInovacaoFUFA/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] FUFA         |
 | ------------------------------------------- | ------------------------------------------------- |

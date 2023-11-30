@@ -2,15 +2,15 @@
 title: PET Engenharia de Alimentos - UFG
 description: grupo da Universidade Federal de Goias
 published: true
-date: 2023-11-30T15:05:17.599782
+date: 2023-11-30T15:09:28.509194
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.599782
+dateCreated: 2023-11-30T15:09:28.509194
 ---
 
 # PET Engenharia de Alimentos
 
-[Publicacoes de PET Engenharia de Alimentos - UFG](/atividade/147PETEngenhariadeAlimentosUFG/feed)
+[Publicacoes de PET Engenharia de Alimentos - UFG](/atividade/147PETEngenhariadeAlimentosUFG/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFG         |
 | ------------------------------------------- | ------------------------------------------------- |

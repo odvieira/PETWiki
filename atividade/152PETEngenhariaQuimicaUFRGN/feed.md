@@ -2,11 +2,11 @@
 title: Publicacoes de PET Engenharia Quimica - UFRGN 
 description: feed do grupo PET Engenharia Quimica - UFRGN
 published: true
-date: 2023-11-30T15:05:17.730186
+date: 2023-11-30T15:09:28.654992
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.730186
+dateCreated: 2023-11-30T15:09:28.654992
 ---
 
 # PET Engenharia Quimica
-[PET Engenharia Quimica - UFRGN](/grupo/152PETEngenhariaQuimicaUFRGN)
+[PET Engenharia Quimica - UFRGN](/grupo/152PETEngenhariaQuimicaUFRGN.md)

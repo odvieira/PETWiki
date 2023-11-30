@@ -2,15 +2,15 @@
 title: PET Odontologia - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-30T15:05:17.602782
+date: 2023-11-30T15:09:28.514194
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.602782
+dateCreated: 2023-11-30T15:09:28.514194
 ---
 
 # PET Odontologia
 
-[Publicacoes de PET Odontologia - UFSM](/atividade/189PETOdontologiaUFSM/feed)
+[Publicacoes de PET Odontologia - UFSM](/atividade/189PETOdontologiaUFSM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSM         |
 | ------------------------------------------- | ------------------------------------------------- |

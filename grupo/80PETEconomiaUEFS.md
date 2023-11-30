@@ -2,15 +2,15 @@
 title: PET Economia - UEFS
 description: grupo da Universidade Estadual de Feira de Santana
 published: true
-date: 2023-11-30T15:05:17.594781
+date: 2023-11-30T15:09:28.504197
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.594781
+dateCreated: 2023-11-30T15:09:28.504197
 ---
 
 # PET Economia
 
-[Publicacoes de PET Economia - UEFS](/atividade/80PETEconomiaUEFS/feed)
+[Publicacoes de PET Economia - UEFS](/atividade/80PETEconomiaUEFS/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEFS         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,15 +2,15 @@
 title: PET Medicina - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-30T15:05:17.593827
+date: 2023-11-30T15:09:28.502195
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.593827
+dateCreated: 2023-11-30T15:09:28.502195
 ---
 
 # PET Medicina
 
-[Publicacoes de PET Medicina - UFA](/atividade/66PETMedicinaUFA/feed)
+[Publicacoes de PET Medicina - UFA](/atividade/66PETMedicinaUFA/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |

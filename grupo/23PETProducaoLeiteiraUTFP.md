@@ -2,15 +2,15 @@
 title: PET Producao Leiteira - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-30T15:05:17.590814
+date: 2023-11-30T15:09:28.496196
 tags: Ciencias Agrarias, Bovinocultura de Leite
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.590814
+dateCreated: 2023-11-30T15:09:28.496196
 ---
 
 # PET Producao Leiteira
 
-[Publicacoes de PET Producao Leiteira - UTFP](/atividade/23PETProducaoLeiteiraUTFP/feed)
+[Publicacoes de PET Producao Leiteira - UTFP](/atividade/23PETProducaoLeiteiraUTFP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UTFP         |
 | ------------------------------------------- | ------------------------------------------------- |

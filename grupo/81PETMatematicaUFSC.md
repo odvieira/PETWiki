@@ -2,15 +2,15 @@
 title: PET Matematica - UFSC
 description: grupo da Universidade Federal de Santa Catarina
 published: true
-date: 2023-11-30T15:05:17.594781
+date: 2023-11-30T15:09:28.504197
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.594781
+dateCreated: 2023-11-30T15:09:28.504197
 ---
 
 # PET Matematica
 
-[Publicacoes de PET Matematica - UFSC](/atividade/81PETMatematicaUFSC/feed)
+[Publicacoes de PET Matematica - UFSC](/atividade/81PETMatematicaUFSC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSC         |
 | ------------------------------------------- | ------------------------------------------------- |

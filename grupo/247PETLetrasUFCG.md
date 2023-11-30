@@ -2,15 +2,15 @@
 title: PET Letras - UFCG
 description: grupo da Universidade Federal de Campina Grande
 published: true
-date: 2023-11-30T15:05:17.607781
+date: 2023-11-30T15:09:28.520198
 tags: Linguistica, Letras e Arte, Identidade, Alteridade e Integracao
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.607781
+dateCreated: 2023-11-30T15:09:28.520198
 ---
 
 # PET Letras
 
-[Publicacoes de PET Letras - UFCG](/atividade/247PETLetrasUFCG/feed)
+[Publicacoes de PET Letras - UFCG](/atividade/247PETLetrasUFCG/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFCG         |
 | ------------------------------------------- | ------------------------------------------------- |

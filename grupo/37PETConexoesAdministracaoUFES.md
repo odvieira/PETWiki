@@ -2,15 +2,15 @@
 title: PET Conexoes Administracao - UFES
 description: grupo da Universidade Federal do Espirito Santo
 published: true
-date: 2023-11-30T15:05:17.591784
+date: 2023-11-30T15:09:28.498199
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.591784
+dateCreated: 2023-11-30T15:09:28.498199
 ---
 
 # PET Conexoes Administracao
 
-[Publicacoes de PET Conexoes Administracao - UFES](/atividade/37PETConexoesAdministracaoUFES/feed)
+[Publicacoes de PET Conexoes Administracao - UFES](/atividade/37PETConexoesAdministracaoUFES/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFES         |
 | ------------------------------------------- | ------------------------------------------------- |

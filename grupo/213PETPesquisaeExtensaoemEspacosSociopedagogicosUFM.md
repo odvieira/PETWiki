@@ -2,15 +2,15 @@
 title: PET Pesquisa e Extensao em Espacos Sociopedagogicos - UFM
 description: grupo da Universidade Federal do Maranhao
 published: true
-date: 2023-11-30T15:05:17.604818
+date: 2023-11-30T15:09:28.517195
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.604818
+dateCreated: 2023-11-30T15:09:28.517195
 ---
 
 # PET Pesquisa e Extensao em Espacos Sociopedagogicos
 
-[Publicacoes de PET Pesquisa e Extensao em Espacos Sociopedagogicos - UFM](/atividade/213PETPesquisaeExtensaoemEspacosSociopedagogicosUFM/feed)
+[Publicacoes de PET Pesquisa e Extensao em Espacos Sociopedagogicos - UFM](/atividade/213PETPesquisaeExtensaoemEspacosSociopedagogicosUFM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFM         |
 | ------------------------------------------- | ------------------------------------------------- |

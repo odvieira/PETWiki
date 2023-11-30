@@ -2,15 +2,15 @@
 title: PET Engenharia Civil - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-30T15:05:17.608869
+date: 2023-11-30T15:09:28.521195
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.608869
+dateCreated: 2023-11-30T15:09:28.521195
 ---
 
 # PET Engenharia Civil
 
-[Publicacoes de PET Engenharia Civil - UFSM](/atividade/263PETEngenhariaCivilUFSM/feed)
+[Publicacoes de PET Engenharia Civil - UFSM](/atividade/263PETEngenhariaCivilUFSM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSM         |
 | ------------------------------------------- | ------------------------------------------------- |

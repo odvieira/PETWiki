@@ -2,15 +2,15 @@
 title: PET Mais Saude - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T15:05:17.600780
+date: 2023-11-30T15:09:28.511193
 tags: Interdisciplinar, Conexoes do Saberes: Populacoes do Campo
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.600780
+dateCreated: 2023-11-30T15:09:28.511193
 ---
 
 # PET Mais Saude
 
-[Publicacoes de PET Mais Saude - UFU](/atividade/161PETMaisSaudeUFU/feed)
+[Publicacoes de PET Mais Saude - UFU](/atividade/161PETMaisSaudeUFU/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFU         |
 | ------------------------------------------- | ------------------------------------------------- |

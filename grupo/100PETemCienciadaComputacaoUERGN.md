@@ -2,15 +2,15 @@
 title: PET em Ciencia da Computacao - UERGN
 description: grupo da Universidade do Estado do Rio Grande do Norte
 published: true
-date: 2023-11-30T15:05:17.596781
+date: 2023-11-30T15:09:28.505196
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.596781
+dateCreated: 2023-11-30T15:09:28.505196
 ---
 
 # PET em Ciencia da Computacao
 
-[Publicacoes de PET em Ciencia da Computacao - UERGN](/atividade/100PETemCienciadaComputacaoUERGN/feed)
+[Publicacoes de PET em Ciencia da Computacao - UERGN](/atividade/100PETemCienciadaComputacaoUERGN/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UERGN         |
 | ------------------------------------------- | ------------------------------------------------- |

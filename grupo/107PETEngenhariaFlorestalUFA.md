@@ -2,15 +2,15 @@
 title: PET Engenharia Florestal - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-30T15:05:17.596781
+date: 2023-11-30T15:09:28.506193
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.596781
+dateCreated: 2023-11-30T15:09:28.506193
 ---
 
 # PET Engenharia Florestal
 
-[Publicacoes de PET Engenharia Florestal - UFA](/atividade/107PETEngenhariaFlorestalUFA/feed)
+[Publicacoes de PET Engenharia Florestal - UFA](/atividade/107PETEngenhariaFlorestalUFA/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |

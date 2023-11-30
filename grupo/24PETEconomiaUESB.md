@@ -2,15 +2,15 @@
 title: PET Economia - UESB
 description: grupo da Universidade Estadual do Sudoeste da Bahia
 published: true
-date: 2023-11-30T15:05:17.590814
+date: 2023-11-30T15:09:28.496196
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.590814
+dateCreated: 2023-11-30T15:09:28.496196
 ---
 
 # PET Economia
 
-[Publicacoes de PET Economia - UESB](/atividade/24PETEconomiaUESB/feed)
+[Publicacoes de PET Economia - UESB](/atividade/24PETEconomiaUESB/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UESB         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,15 +2,15 @@
 title: PET Bacharelado em Zootecnia - UEM
 description: grupo da Universidade Estadual de Maringa
 published: true
-date: 2023-11-30T15:05:17.595782
+date: 2023-11-30T15:09:28.505196
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.595782
+dateCreated: 2023-11-30T15:09:28.505196
 ---
 
 # PET Bacharelado em Zootecnia
 
-[Publicacoes de PET Bacharelado em Zootecnia - UEM](/atividade/90PETBachareladoemZootecniaUEM/feed)
+[Publicacoes de PET Bacharelado em Zootecnia - UEM](/atividade/90PETBachareladoemZootecniaUEM/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEM         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,15 +2,15 @@
 title: PET Acoes das Engenharias - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-30T15:05:17.589782
+date: 2023-11-30T15:09:28.494194
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.589782
+dateCreated: 2023-11-30T15:09:28.494194
 ---
 
 # PET Acoes das Engenharias
 
-[Publicacoes de PET Acoes das Engenharias - UFA](/atividade/13PETAcoesdasEngenhariasUFA/feed)
+[Publicacoes de PET Acoes das Engenharias - UFA](/atividade/13PETAcoesdasEngenhariasUFA/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |

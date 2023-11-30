@@ -2,15 +2,15 @@
 title: PET Educacao Fisica - UFRGS
 description: grupo da Universidade Federal do Rio Grande do Sul
 published: true
-date: 2023-11-30T15:05:17.591784
+date: 2023-11-30T15:09:28.497199
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.591784
+dateCreated: 2023-11-30T15:09:28.497199
 ---
 
 # PET Educacao Fisica
 
-[Publicacoes de PET Educacao Fisica - UFRGS](/atividade/32PETEducacaoFisicaUFRGS/feed)
+[Publicacoes de PET Educacao Fisica - UFRGS](/atividade/32PETEducacaoFisicaUFRGS/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRGS         |
 | ------------------------------------------- | ------------------------------------------------- |

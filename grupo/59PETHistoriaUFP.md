@@ -2,15 +2,15 @@
 title: PET Historia - UFP
 description: grupo da Universidade Federal do Parana
 published: true
-date: 2023-11-30T15:05:17.593827
+date: 2023-11-30T15:09:28.501196
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.593827
+dateCreated: 2023-11-30T15:09:28.501196
 ---
 
 # PET Historia
 
-[Publicacoes de PET Historia - UFP](/atividade/59PETHistoriaUFP/feed)
+[Publicacoes de PET Historia - UFP](/atividade/59PETHistoriaUFP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |

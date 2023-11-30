@@ -2,15 +2,15 @@
 title: PET Biologia - UFSC
 description: grupo da Universidade Federal de Sao Carlos
 published: true
-date: 2023-11-30T15:05:17.592813
+date: 2023-11-30T15:09:28.501196
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.592813
+dateCreated: 2023-11-30T15:09:28.501196
 ---
 
 # PET Biologia
 
-[Publicacoes de PET Biologia - UFSC](/atividade/57PETBiologiaUFSC/feed)
+[Publicacoes de PET Biologia - UFSC](/atividade/57PETBiologiaUFSC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSC         |
 | ------------------------------------------- | ------------------------------------------------- |

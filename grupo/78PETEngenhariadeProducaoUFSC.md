@@ -2,15 +2,15 @@
 title: PET Engenharia de Producao - UFSC
 description: grupo da Universidade Federal de Santa Catarina
 published: true
-date: 2023-11-30T15:05:17.594781
+date: 2023-11-30T15:09:28.504197
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.594781
+dateCreated: 2023-11-30T15:09:28.504197
 ---
 
 # PET Engenharia de Producao
 
-[Publicacoes de PET Engenharia de Producao - UFSC](/atividade/78PETEngenhariadeProducaoUFSC/feed)
+[Publicacoes de PET Engenharia de Producao - UFSC](/atividade/78PETEngenhariadeProducaoUFSC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSC         |
 | ------------------------------------------- | ------------------------------------------------- |

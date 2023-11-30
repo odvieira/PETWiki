@@ -2,15 +2,15 @@
 title: Pet Engenharia Florestal - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-30T15:05:17.607781
+date: 2023-11-30T15:09:28.520198
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.607781
+dateCreated: 2023-11-30T15:09:28.520198
 ---
 
 # Pet Engenharia Florestal
 
-[Publicacoes de Pet Engenharia Florestal - UTFP](/atividade/253PetEngenhariaFlorestalUTFP/feed)
+[Publicacoes de Pet Engenharia Florestal - UTFP](/atividade/253PetEngenhariaFlorestalUTFP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UTFP         |
 | ------------------------------------------- | ------------------------------------------------- |

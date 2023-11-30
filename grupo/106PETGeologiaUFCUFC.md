@@ -2,15 +2,15 @@
 title: PET Geologia UFC - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T15:05:17.596781
+date: 2023-11-30T15:09:28.506193
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.596781
+dateCreated: 2023-11-30T15:09:28.506193
 ---
 
 # PET Geologia UFC
 
-[Publicacoes de PET Geologia UFC - UFC](/atividade/106PETGeologiaUFCUFC/feed)
+[Publicacoes de PET Geologia UFC - UFC](/atividade/106PETGeologiaUFCUFC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFC         |
 | ------------------------------------------- | ------------------------------------------------- |

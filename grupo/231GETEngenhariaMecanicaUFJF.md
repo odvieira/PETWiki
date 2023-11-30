@@ -2,15 +2,15 @@
 title: GET Engenharia Mecanica - UFJF
 description: grupo da Universidade Federal de Juiz de Fora
 published: true
-date: 2023-11-30T15:05:17.606782
+date: 2023-11-30T15:09:28.518196
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.606782
+dateCreated: 2023-11-30T15:09:28.518196
 ---
 
 # GET Engenharia Mecanica
 
-[Publicacoes de GET Engenharia Mecanica - UFJF](/atividade/231GETEngenhariaMecanicaUFJF/feed)
+[Publicacoes de GET Engenharia Mecanica - UFJF](/atividade/231GETEngenhariaMecanicaUFJF/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFJF         |
 | ------------------------------------------- | ------------------------------------------------- |

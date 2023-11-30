@@ -2,15 +2,15 @@
 title: PET Engenharia Agricola - UFL
 description: grupo da Universidade Federal de Lavras
 published: true
-date: 2023-11-30T15:05:17.599782
+date: 2023-11-30T15:09:28.509194
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.599782
+dateCreated: 2023-11-30T15:09:28.509194
 ---
 
 # PET Engenharia Agricola
 
-[Publicacoes de PET Engenharia Agricola - UFL](/atividade/140PETEngenhariaAgricolaUFL/feed)
+[Publicacoes de PET Engenharia Agricola - UFL](/atividade/140PETEngenhariaAgricolaUFL/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFL         |
 | ------------------------------------------- | ------------------------------------------------- |

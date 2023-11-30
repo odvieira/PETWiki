@@ -2,15 +2,15 @@
 title: PET Geografia - FUFGD
 description: grupo da Fundacao Universidade Federal da Grande Dourados
 published: true
-date: 2023-11-30T15:05:17.593827
+date: 2023-11-30T15:09:28.502195
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.593827
+dateCreated: 2023-11-30T15:09:28.503195
 ---
 
 # PET Geografia
 
-[Publicacoes de PET Geografia - FUFGD](/atividade/70PETGeografiaFUFGD/feed)
+[Publicacoes de PET Geografia - FUFGD](/atividade/70PETGeografiaFUFGD/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] FUFGD         |
 | ------------------------------------------- | ------------------------------------------------- |

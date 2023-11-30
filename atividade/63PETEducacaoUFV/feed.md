@@ -2,11 +2,11 @@
 title: Publicacoes de PET Educacao - UFV 
 description: feed do grupo PET Educacao - UFV
 published: true
-date: 2023-11-30T15:05:17.710457
+date: 2023-11-30T15:09:28.636205
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.710457
+dateCreated: 2023-11-30T15:09:28.636205
 ---
 
 # PET Educacao
-[PET Educacao - UFV](/grupo/63PETEducacaoUFV)
+[PET Educacao - UFV](/grupo/63PETEducacaoUFV.md)

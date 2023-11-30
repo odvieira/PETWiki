@@ -2,15 +2,15 @@
 title: PET Biologia - UFRP
 description: grupo da Universidade Federal Rural de Pernambuco
 published: true
-date: 2023-11-30T15:05:17.599782
+date: 2023-11-30T15:09:28.510193
 tags: Ciencias Biologicas, Potencialidades do Semiarido
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.599782
+dateCreated: 2023-11-30T15:09:28.510193
 ---
 
 # PET Biologia
 
-[Publicacoes de PET Biologia - UFRP](/atividade/149PETBiologiaUFRP/feed)
+[Publicacoes de PET Biologia - UFRP](/atividade/149PETBiologiaUFRP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRP         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,15 +2,15 @@
 title: PET Computacao - USP
 description: grupo da Universidade de Sao Paulo
 published: true
-date: 2023-11-30T15:05:17.607781
+date: 2023-11-30T15:09:28.520198
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.607781
+dateCreated: 2023-11-30T15:09:28.520198
 ---
 
 # PET Computacao
 
-[Publicacoes de PET Computacao - USP](/atividade/245PETComputacaoUSP/feed)
+[Publicacoes de PET Computacao - USP](/atividade/245PETComputacaoUSP/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] USP         |
 | ------------------------------------------- | ------------------------------------------------- |

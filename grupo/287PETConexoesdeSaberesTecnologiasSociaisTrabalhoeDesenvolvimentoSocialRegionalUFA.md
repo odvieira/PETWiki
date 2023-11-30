@@ -2,15 +2,15 @@
 title: PET Conexoes de Saberes Tecnologias Sociais, Trabalho e Desenvolvimento Social Regional - UFA
 description: grupo da Universidade Federal de Alfenas
 published: true
-date: 2023-11-30T15:05:17.608869
+date: 2023-11-30T15:09:28.524197
 tags: Interdisciplinar, Tecnologias Sociais
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.608869
+dateCreated: 2023-11-30T15:09:28.524197
 ---
 
 # PET Conexoes de Saberes Tecnologias Sociais, Trabalho e Desenvolvimento Social Regional
 
-[Publicacoes de PET Conexoes de Saberes Tecnologias Sociais, Trabalho e Desenvolvimento Social Regional - UFA](/atividade/287PETConexoesdeSaberesTecnologiasSociaisTrabalhoeDesenvolvimentoSocialRegionalUFA/feed)
+[Publicacoes de PET Conexoes de Saberes Tecnologias Sociais, Trabalho e Desenvolvimento Social Regional - UFA](/atividade/287PETConexoesdeSaberesTecnologiasSociaisTrabalhoeDesenvolvimentoSocialRegionalUFA/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |

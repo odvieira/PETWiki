@@ -2,15 +2,15 @@
 title: PET Conexoes Cultura - UFES
 description: grupo da Universidade Federal do Espirito Santo
 published: true
-date: 2023-11-30T15:05:17.601780
+date: 2023-11-30T15:09:28.511193
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.601780
+dateCreated: 2023-11-30T15:09:28.511193
 ---
 
 # PET Conexoes Cultura
 
-[Publicacoes de PET Conexoes Cultura - UFES](/atividade/166PETConexoesCulturaUFES/feed)
+[Publicacoes de PET Conexoes Cultura - UFES](/atividade/166PETConexoesCulturaUFES/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFES         |
 | ------------------------------------------- | ------------------------------------------------- |

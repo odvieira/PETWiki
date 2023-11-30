@@ -2,15 +2,15 @@
 title: PET Engenharia de Controle e Automacao - CFETMG
 description: grupo da Centro Federal de Educacao Tecnologica de Minas Gerais
 published: true
-date: 2023-11-30T15:05:17.593827
+date: 2023-11-30T15:09:28.502195
 tags: Engenharias, Desenvolvimento de ferramental para a area de controle e automacao
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.593827
+dateCreated: 2023-11-30T15:09:28.502195
 ---
 
 # PET Engenharia de Controle e Automacao
 
-[Publicacoes de PET Engenharia de Controle e Automacao - CFETMG](/atividade/69PETEngenhariadeControleeAutomacaoCFETMG/feed)
+[Publicacoes de PET Engenharia de Controle e Automacao - CFETMG](/atividade/69PETEngenhariadeControleeAutomacaoCFETMG/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] CFETMG         |
 | ------------------------------------------- | ------------------------------------------------- |

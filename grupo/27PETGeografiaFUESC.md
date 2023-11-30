@@ -2,15 +2,15 @@
 title: PET Geografia - FUESC
 description: grupo da Fundacao Universidade do Estado de Santa Catarina
 published: true
-date: 2023-11-30T15:05:17.590814
+date: 2023-11-30T15:09:28.496196
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.590814
+dateCreated: 2023-11-30T15:09:28.496196
 ---
 
 # PET Geografia
 
-[Publicacoes de PET Geografia - FUESC](/atividade/27PETGeografiaFUESC/feed)
+[Publicacoes de PET Geografia - FUESC](/atividade/27PETGeografiaFUESC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] FUESC         |
 | ------------------------------------------- | ------------------------------------------------- |

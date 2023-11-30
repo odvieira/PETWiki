@@ -2,15 +2,15 @@
 title: PET Quimica - UEPG
 description: grupo da Universidade Estadual de Ponta Grossa
 published: true
-date: 2023-11-30T15:05:17.604818
+date: 2023-11-30T15:09:28.517195
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:05:17.604818
+dateCreated: 2023-11-30T15:09:28.517195
 ---
 
 # PET Quimica
 
-[Publicacoes de PET Quimica - UEPG](/atividade/211PETQuimicaUEPG/feed)
+[Publicacoes de PET Quimica - UEPG](/atividade/211PETQuimicaUEPG/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEPG         |
 | ------------------------------------------- | ------------------------------------------------- |
