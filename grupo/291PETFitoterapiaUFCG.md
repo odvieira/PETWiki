@@ -2,10 +2,10 @@
 title: PET Fitoterapia - UFCG
 description: grupo da Universidade Federal de Campina Grande
 published: true
-date: 2023-11-30T15:09:28.524197
+date: 2023-11-30T16:07:05.064239
 tags: Ciencias da Saude, Fitoterapia
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.524197
+dateCreated: 2023-11-30T16:07:05.064239
 ---
 
 # PET Fitoterapia

@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Servico Social - UFSC 
+title: Publicacoes de PET Servico Social - UFSC
 description: feed do grupo PET Servico Social - UFSC
 published: true
-date: 2023-11-30T15:09:28.639814
+date: 2023-11-30T16:07:05.171499
 tags: Ciencias Sociais Aplicadas, Servico Social
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.639814
+dateCreated: 2023-11-30T16:07:05.171499
 ---
 
 # PET Servico Social

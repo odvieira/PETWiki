@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Biologia - UFSC 
+title: Publicacoes de PET Biologia - UFSC
 description: feed do grupo PET Biologia - UFSC
 published: true
-date: 2023-11-30T15:09:28.635195
+date: 2023-11-30T16:07:05.163498
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.635195
+dateCreated: 2023-11-30T16:07:05.163498
 ---
 
 # PET Biologia

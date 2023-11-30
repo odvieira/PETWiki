@@ -2,10 +2,10 @@
 title: PET Ciencia, Tecnologia & Cidadania - FUFP
 description: grupo da Fundacao Universidade Federal do Pampa
 published: true
-date: 2023-11-30T15:09:28.519196
+date: 2023-11-30T16:07:05.059238
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.519196
+dateCreated: 2023-11-30T16:07:05.059238
 ---
 
 # PET Ciencia, Tecnologia & Cidadania

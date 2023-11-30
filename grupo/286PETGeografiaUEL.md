@@ -2,10 +2,10 @@
 title: PET Geografia - UEL
 description: grupo da Universidade Estadual de Londrina
 published: true
-date: 2023-11-30T15:09:28.524197
+date: 2023-11-30T16:07:05.063228
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.524197
+dateCreated: 2023-11-30T16:07:05.063228
 ---
 
 # PET Geografia

@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Matematica - UB 
+title: Publicacoes de PET Matematica - UB
 description: feed do grupo PET Matematica - UB
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.206053
 tags: Ciencias Exatas e da Terra, Matematica
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.206053
 ---
 
 # PET Matematica

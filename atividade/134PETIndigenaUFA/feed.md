@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Indigena - UFA 
+title: Publicacoes de PET Indigena - UFA
 description: feed do grupo PET Indigena - UFA
 published: true
-date: 2023-11-30T15:09:28.652601
+date: 2023-11-30T16:07:05.181498
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.652601
+dateCreated: 2023-11-30T16:07:05.181498
 ---
 
 # PET Indigena

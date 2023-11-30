@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Fisica - UB 
+title: Publicacoes de PET Fisica - UB
 description: feed do grupo PET Fisica - UB
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.203497
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.203497
 ---
 
 # PET Fisica

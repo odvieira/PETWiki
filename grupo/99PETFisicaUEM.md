@@ -2,10 +2,10 @@
 title: PET Fisica - UEM
 description: grupo da Universidade Estadual de Maringa
 published: true
-date: 2023-11-30T15:09:28.505196
+date: 2023-11-30T16:07:05.046232
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.505196
+dateCreated: 2023-11-30T16:07:05.046232
 ---
 
 # PET Fisica

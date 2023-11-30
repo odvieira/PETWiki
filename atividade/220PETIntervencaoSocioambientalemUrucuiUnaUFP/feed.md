@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Intervencao Socioambiental em Urucui-Una - UFP 
+title: Publicacoes de PET Intervencao Socioambiental em Urucui-Una - UFP
 description: feed do grupo PET Intervencao Socioambiental em Urucui-Una - UFP
 published: true
-date: 2023-11-30T15:09:28.672207
+date: 2023-11-30T16:07:05.201498
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.672207
+dateCreated: 2023-11-30T16:07:05.201498
 ---
 
 # PET Intervencao Socioambiental em Urucui-Una

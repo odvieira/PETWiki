@@ -2,10 +2,10 @@
 title: PET Agronomia - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T15:09:28.511193
+date: 2023-11-30T16:07:05.054261
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.511193
+dateCreated: 2023-11-30T16:07:05.054261
 ---
 
 # PET Agronomia

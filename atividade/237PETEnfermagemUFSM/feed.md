@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Enfermagem - UFSM 
+title: Publicacoes de PET Enfermagem - UFSM
 description: feed do grupo PET Enfermagem - UFSM
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.205534
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.205534
 ---
 
 # PET Enfermagem

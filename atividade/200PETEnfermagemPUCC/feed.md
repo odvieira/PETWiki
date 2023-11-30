@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Enfermagem - PUCC 
+title: Publicacoes de PET Enfermagem - PUCC
 description: feed do grupo PET Enfermagem - PUCC
 published: true
-date: 2023-11-30T15:09:28.665016
+date: 2023-11-30T16:07:05.196500
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.665016
+dateCreated: 2023-11-30T16:07:05.196500
 ---
 
 # PET Enfermagem

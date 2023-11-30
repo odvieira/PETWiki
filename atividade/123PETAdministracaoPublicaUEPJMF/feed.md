@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Administracao Publica - UEPJMF 
+title: Publicacoes de PET Administracao Publica - UEPJMF
 description: feed do grupo PET Administracao Publica - UEPJMF
 published: true
-date: 2023-11-30T15:09:28.643574
+date: 2023-11-30T16:07:05.178499
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.643574
+dateCreated: 2023-11-30T16:07:05.178499
 ---
 
 # PET Administracao Publica

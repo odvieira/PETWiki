@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Design - IFECTSC 
+title: Publicacoes de PET Design - IFECTSC
 description: feed do grupo PET Design - IFECTSC
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.214404
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.214404
 ---
 
 # PET Design

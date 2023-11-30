@@ -2,10 +2,10 @@
 title: PET Educacao - UFV
 description: grupo da Universidade Federal de Vicosa
 published: true
-date: 2023-11-30T15:09:28.501196
+date: 2023-11-30T16:07:05.043227
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.501196
+dateCreated: 2023-11-30T16:07:05.043227
 ---
 
 # PET Educacao

@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Matematica - UFSM 
+title: Publicacoes de PET Matematica - UFSM
 description: feed do grupo PET Matematica - UFSM
 published: true
-date: 2023-11-30T15:09:28.639204
+date: 2023-11-30T16:07:05.167498
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.639204
+dateCreated: 2023-11-30T16:07:05.167498
 ---
 
 # PET Matematica

@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Historia - UFSC 
+title: Publicacoes de PET Historia - UFSC
 description: feed do grupo PET Historia - UFSC
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.191496
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.191496
 ---
 
 # PET Historia

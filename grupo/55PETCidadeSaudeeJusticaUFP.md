@@ -2,10 +2,10 @@
 title: PET Cidade Saude e Justica - UFP
 description: grupo da Universidade Federal do Piaui
 published: true
-date: 2023-11-30T15:09:28.500197
+date: 2023-11-30T16:07:05.043227
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.500197
+dateCreated: 2023-11-30T16:07:05.043227
 ---
 
 # PET Cidade Saude e Justica

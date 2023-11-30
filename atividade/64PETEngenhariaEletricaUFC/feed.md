@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Engenharia Eletrica - UFC 
+title: Publicacoes de PET Engenharia Eletrica - UFC
 description: feed do grupo PET Engenharia Eletrica - UFC
 published: true
-date: 2023-11-30T15:09:28.637204
+date: 2023-11-30T16:07:05.165499
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.637204
+dateCreated: 2023-11-30T16:07:05.165499
 ---
 
 # PET Engenharia Eletrica

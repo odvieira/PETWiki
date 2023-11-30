@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET de Engenharia Civil - UFC 
+title: Publicacoes de PET de Engenharia Civil - UFC
 description: feed do grupo PET de Engenharia Civil - UFC
 published: true
-date: 2023-11-30T15:09:28.627319
+date: 2023-11-30T16:07:05.158499
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.627319
+dateCreated: 2023-11-30T16:07:05.158499
 ---
 
 # PET de Engenharia Civil

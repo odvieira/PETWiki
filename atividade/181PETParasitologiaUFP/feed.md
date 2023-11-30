@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Parasitologia - UFP 
+title: Publicacoes de PET Parasitologia - UFP
 description: feed do grupo PET Parasitologia - UFP
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.191496
 tags: Ciencias da Saude, area da saude
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.191496
 ---
 
 # PET Parasitologia

@@ -2,10 +2,10 @@
 title: PET ProdBio - UFES
 description: grupo da Universidade Federal do Espirito Santo
 published: true
-date: 2023-11-30T15:09:28.493196
+date: 2023-11-30T16:07:05.039225
 tags: Interdisciplinar, Pesca
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.493196
+dateCreated: 2023-11-30T16:07:05.039225
 ---
 
 # PET ProdBio

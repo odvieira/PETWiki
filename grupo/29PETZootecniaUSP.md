@@ -2,10 +2,10 @@
 title: PET Zootecnia - USP
 description: grupo da Universidade de Sao Paulo
 published: true
-date: 2023-11-30T15:09:28.497199
+date: 2023-11-30T16:07:05.041232
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.497199
+dateCreated: 2023-11-30T16:07:05.041232
 ---
 
 # PET Zootecnia

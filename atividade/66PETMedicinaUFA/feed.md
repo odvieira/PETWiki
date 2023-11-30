@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Medicina - UFA 
+title: Publicacoes de PET Medicina - UFA
 description: feed do grupo PET Medicina - UFA
 published: true
-date: 2023-11-30T15:09:28.637204
+date: 2023-11-30T16:07:05.166498
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.637204
+dateCreated: 2023-11-30T16:07:05.166498
 ---
 
 # PET Medicina

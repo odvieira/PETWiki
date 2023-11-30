@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Medicina Veterinaria - UFL 
+title: Publicacoes de PET Medicina Veterinaria - UFL
 description: feed do grupo PET Medicina Veterinaria - UFL
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.208131
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.208131
 ---
 
 # PET Medicina Veterinaria

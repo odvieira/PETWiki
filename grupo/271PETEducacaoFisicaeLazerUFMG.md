@@ -2,10 +2,10 @@
 title: PET Educacao Fisica e Lazer - UFMG
 description: grupo da Universidade Federal de Minas Gerais
 published: true
-date: 2023-11-30T15:09:28.522198
+date: 2023-11-30T16:07:05.062226
 tags: Ciencias da Saude, Lazer
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.522198
+dateCreated: 2023-11-30T16:07:05.062226
 ---
 
 # PET Educacao Fisica e Lazer

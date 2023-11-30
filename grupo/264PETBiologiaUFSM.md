@@ -2,10 +2,10 @@
 title: PET Biologia - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-30T15:09:28.522198
+date: 2023-11-30T16:07:05.061226
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.522198
+dateCreated: 2023-11-30T16:07:05.061226
 ---
 
 # PET Biologia

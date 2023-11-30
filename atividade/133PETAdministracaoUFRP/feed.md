@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Administracao - UFRP 
+title: Publicacoes de PET Administracao - UFRP
 description: feed do grupo PET Administracao - UFRP
 published: true
-date: 2023-11-30T15:09:28.652601
+date: 2023-11-30T16:07:05.181498
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.652601
+dateCreated: 2023-11-30T16:07:05.181498
 ---
 
 # PET Administracao

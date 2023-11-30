@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET AgroEnergia - UFRP 
+title: Publicacoes de PET AgroEnergia - UFRP
 description: feed do grupo PET AgroEnergia - UFRP
 published: true
-date: 2023-11-30T15:09:28.637204
+date: 2023-11-30T16:07:05.166498
 tags: Ciencias Agrarias, Inovacao tecnologica
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.637204
+dateCreated: 2023-11-30T16:07:05.166498
 ---
 
 # PET AgroEnergia

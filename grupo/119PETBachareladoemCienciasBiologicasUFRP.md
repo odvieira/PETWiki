@@ -2,10 +2,10 @@
 title: PET Bacharelado em Ciencias Biologicas - UFRP
 description: grupo da Universidade Federal Rural de Pernambuco
 published: true
-date: 2023-11-30T15:09:28.507195
+date: 2023-11-30T16:07:05.049226
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.507195
+dateCreated: 2023-11-30T16:07:05.049226
 ---
 
 # PET Bacharelado em Ciencias Biologicas

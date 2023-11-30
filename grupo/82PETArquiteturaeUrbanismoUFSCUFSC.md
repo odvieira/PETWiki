@@ -2,10 +2,10 @@
 title: PET Arquitetura e Urbanismo UFSC - UFSC
 description: grupo da Universidade Federal de Santa Catarina
 published: true
-date: 2023-11-30T15:09:28.504197
+date: 2023-11-30T16:07:05.045229
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.504197
+dateCreated: 2023-11-30T16:07:05.045229
 ---
 
 # PET Arquitetura e Urbanismo UFSC

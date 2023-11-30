@@ -2,10 +2,10 @@
 title: PET Intervencao Socioambiental em Urucui-Una - UFP
 description: grupo da Universidade Federal do Piaui
 published: true
-date: 2023-11-30T15:09:28.517195
+date: 2023-11-30T16:07:05.058226
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.517195
+dateCreated: 2023-11-30T16:07:05.058226
 ---
 
 # PET Intervencao Socioambiental em Urucui-Una

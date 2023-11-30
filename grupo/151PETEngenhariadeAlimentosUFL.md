@@ -2,10 +2,10 @@
 title: PET Engenharia de Alimentos - UFL
 description: grupo da Universidade Federal de Lavras
 published: true
-date: 2023-11-30T15:09:28.510193
+date: 2023-11-30T16:07:05.052268
 tags: Ciencias Agrarias, Engenharia, Ciencia e Tecnologia de Alimentos.
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.510193
+dateCreated: 2023-11-30T16:07:05.052268
 ---
 
 # PET Engenharia de Alimentos

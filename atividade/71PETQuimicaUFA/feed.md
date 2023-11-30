@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Quimica - UFA 
+title: Publicacoes de PET Quimica - UFA
 description: feed do grupo PET Quimica - UFA
 published: true
-date: 2023-11-30T15:09:28.638204
+date: 2023-11-30T16:07:05.167498
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.638204
+dateCreated: 2023-11-30T16:07:05.167498
 ---
 
 # PET Quimica

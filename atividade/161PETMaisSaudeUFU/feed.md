@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Mais Saude - UFU 
+title: Publicacoes de PET Mais Saude - UFU
 description: feed do grupo PET Mais Saude - UFU
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.187496
 tags: Interdisciplinar, Conexoes do Saberes: Populacoes do Campo
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.187496
 ---
 
 # PET Mais Saude

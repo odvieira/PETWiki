@@ -2,10 +2,10 @@
 title: PET Matematica (Licenciatura) - UFG
 description: grupo da Universidade Federal de Goias
 published: true
-date: 2023-11-30T15:09:28.524197
+date: 2023-11-30T16:07:05.063228
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.524197
+dateCreated: 2023-11-30T16:07:05.063228
 ---
 
 # PET Matematica (Licenciatura)

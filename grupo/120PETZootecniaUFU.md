@@ -2,10 +2,10 @@
 title: PET Zootecnia - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T15:09:28.507195
+date: 2023-11-30T16:07:05.049226
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.507195
+dateCreated: 2023-11-30T16:07:05.049226
 ---
 
 # PET Zootecnia

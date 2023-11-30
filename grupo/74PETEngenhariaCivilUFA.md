@@ -2,10 +2,10 @@
 title: PET Engenharia Civil - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-30T15:09:28.503195
+date: 2023-11-30T16:07:05.044227
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.503195
+dateCreated: 2023-11-30T16:07:05.044227
 ---
 
 # PET Engenharia Civil

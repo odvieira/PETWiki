@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Geografia - UFRRJ 
+title: Publicacoes de PET Geografia - UFRRJ
 description: feed do grupo PET Geografia - UFRRJ
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.186497
 tags: Ciencias Humanas, Cultura e Cidadania: dialogo de saberes no ensino de geografia
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.186497
 ---
 
 # PET Geografia

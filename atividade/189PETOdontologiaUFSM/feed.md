@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Odontologia - UFSM 
+title: Publicacoes de PET Odontologia - UFSM
 description: feed do grupo PET Odontologia - UFSM
 published: true
-date: 2023-11-30T15:09:28.665016
+date: 2023-11-30T16:07:05.193498
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.665016
+dateCreated: 2023-11-30T16:07:05.193498
 ---
 
 # PET Odontologia

@@ -2,10 +2,10 @@
 title: PET Engenharias - UEFS
 description: grupo da Universidade Estadual de Feira de Santana
 published: true
-date: 2023-11-30T15:09:28.498199
+date: 2023-11-30T16:07:05.041232
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.498199
+dateCreated: 2023-11-30T16:07:05.041232
 ---
 
 # PET Engenharias

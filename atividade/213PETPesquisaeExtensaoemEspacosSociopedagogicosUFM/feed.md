@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Pesquisa e Extensao em Espacos Sociopedagogicos - UFM 
+title: Publicacoes de PET Pesquisa e Extensao em Espacos Sociopedagogicos - UFM
 description: feed do grupo PET Pesquisa e Extensao em Espacos Sociopedagogicos - UFM
 published: true
-date: 2023-11-30T15:09:28.671209
+date: 2023-11-30T16:07:05.199498
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.671209
+dateCreated: 2023-11-30T16:07:05.199498
 ---
 
 # PET Pesquisa e Extensao em Espacos Sociopedagogicos

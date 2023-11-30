@@ -2,10 +2,10 @@
 title: PET Indigena - UFA
 description: grupo da Universidade Federal do Amapa
 published: true
-date: 2023-11-30T15:09:28.508194
+date: 2023-11-30T16:07:05.051225
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.508194
+dateCreated: 2023-11-30T16:07:05.051225
 ---
 
 # PET Indigena

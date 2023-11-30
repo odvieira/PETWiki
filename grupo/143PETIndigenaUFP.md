@@ -2,10 +2,10 @@
 title: PET Indigena - UFP
 description: grupo da Universidade Federal da Paraiba
 published: true
-date: 2023-11-30T15:09:28.509194
+date: 2023-11-30T16:07:05.051225
 tags: Interdisciplinar, O acesso e a permanencia do universitario indigena na academia
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.509194
+dateCreated: 2023-11-30T16:07:05.051225
 ---
 
 # PET Indigena

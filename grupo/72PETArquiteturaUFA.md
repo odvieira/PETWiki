@@ -2,10 +2,10 @@
 title: PET Arquitetura - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-30T15:09:28.503195
+date: 2023-11-30T16:07:05.044227
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.503195
+dateCreated: 2023-11-30T16:07:05.044227
 ---
 
 # PET Arquitetura

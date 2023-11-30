@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Conexoes Cultura - UFES 
+title: Publicacoes de PET Conexoes Cultura - UFES
 description: feed do grupo PET Conexoes Cultura - UFES
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.188496
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.188496
 ---
 
 # PET Conexoes Cultura

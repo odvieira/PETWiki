@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Ciencias Agrarias - IFECTSMG 
+title: Publicacoes de PET Ciencias Agrarias - IFECTSMG
 description: feed do grupo PET Ciencias Agrarias - IFECTSMG
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.188496
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.188496
 ---
 
 # PET Ciencias Agrarias

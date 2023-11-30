@@ -2,10 +2,10 @@
 title: PET Administracao - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-30T15:09:28.512194
+date: 2023-11-30T16:07:05.054261
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.512194
+dateCreated: 2023-11-30T16:07:05.054261
 ---
 
 # PET Administracao

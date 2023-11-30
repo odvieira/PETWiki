@@ -2,10 +2,10 @@
 title: PET Matematica - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T15:09:28.493196
+date: 2023-11-30T16:07:05.039225
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.493196
+dateCreated: 2023-11-30T16:07:05.039225
 ---
 
 # PET Matematica

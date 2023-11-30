@@ -2,10 +2,10 @@
 title: PET Biblioteconomia e Ciencia da Informacao - UFSC
 description: grupo da Universidade Federal de Sao Carlos
 published: true
-date: 2023-11-30T15:09:28.510193
+date: 2023-11-30T16:07:05.052268
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.510193
+dateCreated: 2023-11-30T16:07:05.052268
 ---
 
 # PET Biblioteconomia e Ciencia da Informacao

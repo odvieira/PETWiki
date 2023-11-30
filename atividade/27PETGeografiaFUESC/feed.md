@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Geografia - FUESC 
+title: Publicacoes de PET Geografia - FUESC
 description: feed do grupo PET Geografia - FUESC
 published: true
-date: 2023-11-30T15:09:28.627319
+date: 2023-11-30T16:07:05.156497
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.627319
+dateCreated: 2023-11-30T16:07:05.156497
 ---
 
 # PET Geografia

@@ -2,10 +2,10 @@
 title: PET Cinema - UFRB
 description: grupo da Universidade Federal do Reconcavo da Bahia
 published: true
-date: 2023-11-30T15:09:28.508194
+date: 2023-11-30T16:07:05.050225
 tags: Linguistica, Letras e Arte, Cinema e Educacao
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.508194
+dateCreated: 2023-11-30T16:07:05.050225
 ---
 
 # PET Cinema

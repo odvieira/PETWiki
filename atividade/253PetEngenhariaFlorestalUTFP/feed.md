@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de Pet Engenharia Florestal - UTFP 
+title: Publicacoes de Pet Engenharia Florestal - UTFP
 description: feed do grupo Pet Engenharia Florestal - UTFP
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.209163
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.209163
 ---
 
 # Pet Engenharia Florestal

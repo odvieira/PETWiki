@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET em Ciencia da Computacao - UERGN 
+title: Publicacoes de PET em Ciencia da Computacao - UERGN
 description: feed do grupo PET em Ciencia da Computacao - UERGN
 published: true
-date: 2023-11-30T15:09:28.643574
+date: 2023-11-30T16:07:05.173497
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.643574
+dateCreated: 2023-11-30T16:07:05.173497
 ---
 
 # PET em Ciencia da Computacao

@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Agronomia - UFP 
+title: Publicacoes de PET Agronomia - UFP
 description: feed do grupo PET Agronomia - UFP
 published: true
-date: 2023-11-30T15:09:28.665016
+date: 2023-11-30T16:07:05.192498
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.665016
+dateCreated: 2023-11-30T16:07:05.192498
 ---
 
 # PET Agronomia

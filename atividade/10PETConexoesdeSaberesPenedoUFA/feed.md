@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Conexoes de Saberes - Penedo - UFA 
+title: Publicacoes de PET Conexoes de Saberes - Penedo - UFA
 description: feed do grupo PET Conexoes de Saberes - Penedo - UFA
 published: true
-date: 2023-11-30T15:09:28.623053
+date: 2023-11-30T16:07:05.151499
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.623053
+dateCreated: 2023-11-30T16:07:05.151499
 ---
 
 # PET Conexoes de Saberes - Penedo

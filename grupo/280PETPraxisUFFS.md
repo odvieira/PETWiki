@@ -2,10 +2,10 @@
 title: PET Praxis - UFFS
 description: grupo da Universidade Federal da Fronteira Sul
 published: true
-date: 2023-11-30T15:09:28.523234
+date: 2023-11-30T16:07:05.063228
 tags: Interdisciplinar, Educacao popular
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.523234
+dateCreated: 2023-11-30T16:07:05.063228
 ---
 
 # PET Praxis

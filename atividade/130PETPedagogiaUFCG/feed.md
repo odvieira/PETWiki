@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Pedagogia - UFCG 
+title: Publicacoes de PET Pedagogia - UFCG
 description: feed do grupo PET Pedagogia - UFCG
 published: true
-date: 2023-11-30T15:09:28.652601
+date: 2023-11-30T16:07:05.180499
 tags: Interdisciplinar, Ensino, Pesquisa e Extensao
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.652601
+dateCreated: 2023-11-30T16:07:05.180499
 ---
 
 # PET Pedagogia

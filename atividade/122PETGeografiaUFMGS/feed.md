@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Geografia - UFMGS 
+title: Publicacoes de PET Geografia - UFMGS
 description: feed do grupo PET Geografia - UFMGS
 published: true
-date: 2023-11-30T15:09:28.643574
+date: 2023-11-30T16:07:05.178499
 tags: Ciencias Humanas, Geografia
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.643574
+dateCreated: 2023-11-30T16:07:05.178499
 ---
 
 # PET Geografia

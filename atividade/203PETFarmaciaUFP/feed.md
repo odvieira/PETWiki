@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Farmacia - UFP 
+title: Publicacoes de PET Farmacia - UFP
 description: feed do grupo PET Farmacia - UFP
 published: true
-date: 2023-11-30T15:09:28.665016
+date: 2023-11-30T16:07:05.197499
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.665016
+dateCreated: 2023-11-30T16:07:05.197499
 ---
 
 # PET Farmacia

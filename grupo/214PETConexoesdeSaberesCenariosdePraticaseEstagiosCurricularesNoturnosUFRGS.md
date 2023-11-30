@@ -2,10 +2,10 @@
 title: PET Conexoes de Saberes: Cenarios de Praticas e Estagios Curriculares Noturnos - UFRGS
 description: grupo da Universidade Federal do Rio Grande do Sul
 published: true
-date: 2023-11-30T15:09:28.517195
+date: 2023-11-30T16:07:05.057227
 tags: Ciencias da Saude, Cenarios de Praticas e Estagios Curriculares Noturnos
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.517195
+dateCreated: 2023-11-30T16:07:05.057227
 ---
 
 # PET Conexoes de Saberes: Cenarios de Praticas e Estagios Curriculares Noturnos

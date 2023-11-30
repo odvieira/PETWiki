@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Engenharia Eletrica - UFSM 
+title: Publicacoes de PET Engenharia Eletrica - UFSM
 description: feed do grupo PET Engenharia Eletrica - UFSM
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.209163
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.209163
 ---
 
 # PET Engenharia Eletrica

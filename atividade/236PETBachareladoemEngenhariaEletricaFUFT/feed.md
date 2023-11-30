@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Bacharelado em Engenharia Eletrica - FUFT 
+title: Publicacoes de PET Bacharelado em Engenharia Eletrica - FUFT
 description: feed do grupo PET Bacharelado em Engenharia Eletrica - FUFT
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.205014
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.205014
 ---
 
 # PET Bacharelado em Engenharia Eletrica

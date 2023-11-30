@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Bio Pontal - UFU 
+title: Publicacoes de PET Bio Pontal - UFU
 description: feed do grupo PET Bio Pontal - UFU
 published: true
-date: 2023-11-30T15:09:28.627319
+date: 2023-11-30T16:07:05.156497
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.627319
+dateCreated: 2023-11-30T16:07:05.156497
 ---
 
 # PET Bio Pontal

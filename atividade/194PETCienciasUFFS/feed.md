@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Ciencias - UFFS 
+title: Publicacoes de PET Ciencias - UFFS
 description: feed do grupo PET Ciencias - UFFS
 published: true
-date: 2023-11-30T15:09:28.665016
+date: 2023-11-30T16:07:05.194498
 tags: Interdisciplinar, Meio Ambiente e Formacao e Professores - Ciencias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.665016
+dateCreated: 2023-11-30T16:07:05.194498
 ---
 
 # PET Ciencias

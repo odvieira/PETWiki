@@ -2,10 +2,10 @@
 title: PET Conexoes de Saberes Estatisticos - UFRG
 description: grupo da Universidade Federal do Rio Grande
 published: true
-date: 2023-11-30T15:09:28.496196
+date: 2023-11-30T16:07:05.040238
 tags: Interdisciplinar, Educacao Estatistica
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.496196
+dateCreated: 2023-11-30T16:07:05.040238
 ---
 
 # PET Conexoes de Saberes Estatisticos

@@ -2,10 +2,10 @@
 title: PET Administracao - UFCG
 description: grupo da Universidade Federal de Campina Grande
 published: true
-date: 2023-11-30T15:09:28.506193
+date: 2023-11-30T16:07:05.048228
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.506193
+dateCreated: 2023-11-30T16:07:05.048228
 ---
 
 # PET Administracao

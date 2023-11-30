@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Conexoes Urbanas - UFA 
+title: Publicacoes de PET Conexoes Urbanas - UFA
 description: feed do grupo PET Conexoes Urbanas - UFA
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.190496
 tags: Interdisciplinar, Acoes afirmativas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.190496
 ---
 
 # PET Conexoes Urbanas

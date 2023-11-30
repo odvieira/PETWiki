@@ -2,10 +2,10 @@
 title: PET Musica - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-30T15:09:28.518196
+date: 2023-11-30T16:07:05.058226
 tags: Linguistica, Letras e Arte
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.518196
+dateCreated: 2023-11-30T16:07:05.058226
 ---
 
 # PET Musica

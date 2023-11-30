@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Letras - UFCG 
+title: Publicacoes de PET Letras - UFCG
 description: feed do grupo PET Letras - UFCG
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.207616
 tags: Linguistica, Letras e Arte, Identidade, Alteridade e Integracao
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.207616
 ---
 
 # PET Letras

@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Odontologia - UEFS 
+title: Publicacoes de PET Odontologia - UEFS
 description: feed do grupo PET Odontologia - UEFS
 published: true
-date: 2023-11-30T15:09:28.639814
+date: 2023-11-30T16:07:05.169498
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.639814
+dateCreated: 2023-11-30T16:07:05.169498
 ---
 
 # PET Odontologia

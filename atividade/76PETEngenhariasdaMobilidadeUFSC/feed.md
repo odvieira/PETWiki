@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Engenharias da Mobilidade - UFSC 
+title: Publicacoes de PET Engenharias da Mobilidade - UFSC
 description: feed do grupo PET Engenharias da Mobilidade - UFSC
 published: true
-date: 2023-11-30T15:09:28.639814
+date: 2023-11-30T16:07:05.168497
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.639814
+dateCreated: 2023-11-30T16:07:05.168497
 ---
 
 # PET Engenharias da Mobilidade

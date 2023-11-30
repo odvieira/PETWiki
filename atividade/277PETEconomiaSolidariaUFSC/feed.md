@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Economia Solidaria - UFSC 
+title: Publicacoes de PET Economia Solidaria - UFSC
 description: feed do grupo PET Economia Solidaria - UFSC
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.214928
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.214928
 ---
 
 # PET Economia Solidaria

@@ -2,10 +2,10 @@
 title: PET Administracao Publica - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-30T15:09:28.507195
+date: 2023-11-30T16:07:05.049226
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.507195
+dateCreated: 2023-11-30T16:07:05.049226
 ---
 
 # PET Administracao Publica

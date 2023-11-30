@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Engenharia Eletrica - UEPJMF 
+title: Publicacoes de PET Engenharia Eletrica - UEPJMF
 description: feed do grupo PET Engenharia Eletrica - UEPJMF
 published: true
-date: 2023-11-30T15:09:28.686944
+date: 2023-11-30T16:07:05.215961
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.686944
+dateCreated: 2023-11-30T16:07:05.215961
 ---
 
 # PET Engenharia Eletrica

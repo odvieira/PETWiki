@@ -2,10 +2,10 @@
 title: PET Geografia - UERJ
 description: grupo da Universidade do Estado do Rio de Janeiro
 published: true
-date: 2023-11-30T15:09:28.518196
+date: 2023-11-30T16:07:05.058226
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.518196
+dateCreated: 2023-11-30T16:07:05.058226
 ---
 
 # PET Geografia

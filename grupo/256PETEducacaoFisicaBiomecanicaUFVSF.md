@@ -2,10 +2,10 @@
 title: PET Educacao Fisica - Biomecanica - UFVSF
 description: grupo da Universidade Federal do Vale do Sao Francisco
 published: true
-date: 2023-11-30T15:09:28.521195
+date: 2023-11-30T16:07:05.061226
 tags: Ciencias da Saude, Biomecanica e Pratica Baseada em Evidencias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.521195
+dateCreated: 2023-11-30T16:07:05.061226
 ---
 
 # PET Educacao Fisica - Biomecanica

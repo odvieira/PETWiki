@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Engenharia Mecanica - UFU 
+title: Publicacoes de PET Engenharia Mecanica - UFU
 description: feed do grupo PET Engenharia Mecanica - UFU
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.188496
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.188496
 ---
 
 # PET Engenharia Mecanica

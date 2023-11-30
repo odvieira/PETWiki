@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Conexoes Administracao - UFES 
+title: Publicacoes de PET Conexoes Administracao - UFES
 description: feed do grupo PET Conexoes Administracao - UFES
 published: true
-date: 2023-11-30T15:09:28.627319
+date: 2023-11-30T16:07:05.158499
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.627319
+dateCreated: 2023-11-30T16:07:05.158499
 ---
 
 # PET Conexoes Administracao

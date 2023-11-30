@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Matematica - UFU 
+title: Publicacoes de PET Matematica - UFU
 description: feed do grupo PET Matematica - UFU
 published: true
-date: 2023-11-30T15:09:28.622055
+date: 2023-11-30T16:07:05.150501
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.622055
+dateCreated: 2023-11-30T16:07:05.150501
 ---
 
 # PET Matematica

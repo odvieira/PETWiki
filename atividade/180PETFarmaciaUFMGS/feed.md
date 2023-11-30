@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Farmacia - UFMGS 
+title: Publicacoes de PET Farmacia - UFMGS
 description: feed do grupo PET Farmacia - UFMGS
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.191496
 tags: Ciencias da Saude, Uso Racional de Medicamentos
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.191496
 ---
 
 # PET Farmacia

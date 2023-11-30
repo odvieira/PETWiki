@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Politicas Publicas - UFRP 
+title: Publicacoes de PET Politicas Publicas - UFRP
 description: feed do grupo PET Politicas Publicas - UFRP
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.190496
 tags: Interdisciplinar, Acoes afirmativas para a juventude
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.190496
 ---
 
 # PET Politicas Publicas

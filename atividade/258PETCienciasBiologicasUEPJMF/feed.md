@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Ciencias Biologicas - UEPJMF 
+title: Publicacoes de PET Ciencias Biologicas - UEPJMF
 description: feed do grupo PET Ciencias Biologicas - UEPJMF
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.210216
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.210216
 ---
 
 # PET Ciencias Biologicas

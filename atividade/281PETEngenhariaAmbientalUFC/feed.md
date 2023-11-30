@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Engenharia Ambiental - UFC 
+title: Publicacoes de PET Engenharia Ambiental - UFC
 description: feed do grupo PET Engenharia Ambiental - UFC
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.215961
 tags: Engenharias, Ambiental
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.215961
 ---
 
 # PET Engenharia Ambiental

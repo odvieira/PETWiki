@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Conexoes de Saberes: Comunidades Indigenas - UFA 
+title: Publicacoes de PET Conexoes de Saberes: Comunidades Indigenas - UFA
 description: feed do grupo PET Conexoes de Saberes: Comunidades Indigenas - UFA
 published: true
-date: 2023-11-30T15:09:28.665016
+date: 2023-11-30T16:07:05.198498
 tags: Interdisciplinar, Saberes indigenas - Saberes academicos
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.665016
+dateCreated: 2023-11-30T16:07:05.198498
 ---
 
 # PET Conexoes de Saberes: Comunidades Indigenas

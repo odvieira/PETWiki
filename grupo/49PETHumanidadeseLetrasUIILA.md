@@ -2,10 +2,10 @@
 title: PET Humanidades e Letras - UIILA
 description: grupo da Universidade da Integracao Internacional da Lusofonia Afro-brasileira
 published: true
-date: 2023-11-30T15:09:28.500197
+date: 2023-11-30T16:07:05.042226
 tags: Interdisciplinar, Praticas interdisciplinares focadas na triade ensino-pesquisa-extensao.
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.500197
+dateCreated: 2023-11-30T16:07:05.042226
 ---
 
 # PET Humanidades e Letras

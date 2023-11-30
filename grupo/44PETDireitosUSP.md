@@ -2,10 +2,10 @@
 title: PET Direitos - USP
 description: grupo da Universidade de Sao Paulo
 published: true
-date: 2023-11-30T15:09:28.499196
+date: 2023-11-30T16:07:05.042226
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.499196
+dateCreated: 2023-11-30T16:07:05.042226
 ---
 
 # PET Direitos

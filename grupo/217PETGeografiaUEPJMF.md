@@ -2,10 +2,10 @@
 title: PET Geografia - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-30T15:09:28.517195
+date: 2023-11-30T16:07:05.058226
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.517195
+dateCreated: 2023-11-30T16:07:05.058226
 ---
 
 # PET Geografia

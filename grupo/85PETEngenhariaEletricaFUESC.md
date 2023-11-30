@@ -2,10 +2,10 @@
 title: PET Engenharia Eletrica - FUESC
 description: grupo da Fundacao Universidade do Estado de Santa Catarina
 published: true
-date: 2023-11-30T15:09:28.504197
+date: 2023-11-30T16:07:05.045229
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.504197
+dateCreated: 2023-11-30T16:07:05.045229
 ---
 
 # PET Engenharia Eletrica

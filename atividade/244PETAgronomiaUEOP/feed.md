@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Agronomia - UEOP 
+title: Publicacoes de PET Agronomia - UEOP
 description: feed do grupo PET Agronomia - UEOP
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.207096
 tags: Ciencias Agrarias, Desenvolvimento rural sustentavel
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.207096
 ---
 
 # PET Agronomia

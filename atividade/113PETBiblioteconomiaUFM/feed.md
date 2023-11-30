@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Biblioteconomia - UFM 
+title: Publicacoes de PET Biblioteconomia - UFM
 description: feed do grupo PET Biblioteconomia - UFM
 published: true
-date: 2023-11-30T15:09:28.643574
+date: 2023-11-30T16:07:05.176496
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.643574
+dateCreated: 2023-11-30T16:07:05.176496
 ---
 
 # PET Biblioteconomia

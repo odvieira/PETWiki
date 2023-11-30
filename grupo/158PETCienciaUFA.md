@@ -2,10 +2,10 @@
 title: PET Ciencia - UFA
 description: grupo da Universidade Federal de Alfenas
 published: true
-date: 2023-11-30T15:09:28.510193
+date: 2023-11-30T16:07:05.053227
 tags: Interdisciplinar, Divulgacao Cientifica
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.510193
+dateCreated: 2023-11-30T16:07:05.053227
 ---
 
 # PET Ciencia

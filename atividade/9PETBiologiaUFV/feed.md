@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Biologia - UFV 
+title: Publicacoes de PET Biologia - UFV
 description: feed do grupo PET Biologia - UFV
 published: true
-date: 2023-11-30T15:09:28.623053
+date: 2023-11-30T16:07:05.151499
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.623053
+dateCreated: 2023-11-30T16:07:05.151499
 ---
 
 # PET Biologia

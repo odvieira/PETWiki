@@ -2,10 +2,10 @@
 title: PET Ciencias Biologicas - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-30T15:09:28.521195
+date: 2023-11-30T16:07:05.061226
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.521195
+dateCreated: 2023-11-30T16:07:05.061226
 ---
 
 # PET Ciencias Biologicas

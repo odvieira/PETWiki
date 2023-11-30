@@ -2,10 +2,10 @@
 title: PET Nutricao - UFSC
 description: grupo da Universidade Federal de Santa Catarina
 published: true
-date: 2023-11-30T15:09:28.508194
+date: 2023-11-30T16:07:05.050225
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.508194
+dateCreated: 2023-11-30T16:07:05.050225
 ---
 
 # PET Nutricao

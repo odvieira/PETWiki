@@ -2,10 +2,10 @@
 title: PET Nutricao - UFB
 description: grupo da Universidade Federal da Bahia
 published: true
-date: 2023-11-30T15:09:28.501196
+date: 2023-11-30T16:07:05.043227
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.501196
+dateCreated: 2023-11-30T16:07:05.043227
 ---
 
 # PET Nutricao

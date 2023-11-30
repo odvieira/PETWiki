@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Matematica - UFSC 
+title: Publicacoes de PET Matematica - UFSC
 description: feed do grupo PET Matematica - UFSC
 published: true
-date: 2023-11-30T15:09:28.639814
+date: 2023-11-30T16:07:05.169498
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.639814
+dateCreated: 2023-11-30T16:07:05.169498
 ---
 
 # PET Matematica

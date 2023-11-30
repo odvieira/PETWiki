@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Comunidades Urbanas - Conexoes de Saberes - IFECTRGN 
+title: Publicacoes de PET Comunidades Urbanas - Conexoes de Saberes - IFECTRGN
 description: feed do grupo PET Comunidades Urbanas - Conexoes de Saberes - IFECTRGN
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.210734
 tags: Interdisciplinar, Comunidades Urbanas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.210734
 ---
 
 # PET Comunidades Urbanas - Conexoes de Saberes

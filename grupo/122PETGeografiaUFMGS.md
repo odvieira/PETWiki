@@ -2,10 +2,10 @@
 title: PET Geografia - UFMGS
 description: grupo da Universidade Federal de Mato Grosso do Sul
 published: true
-date: 2023-11-30T15:09:28.507195
+date: 2023-11-30T16:07:05.049226
 tags: Ciencias Humanas, Geografia
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.507195
+dateCreated: 2023-11-30T16:07:05.049226
 ---
 
 # PET Geografia

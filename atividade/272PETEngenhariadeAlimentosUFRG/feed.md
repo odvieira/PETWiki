@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Engenharia de Alimentos - UFRG 
+title: Publicacoes de PET Engenharia de Alimentos - UFRG
 description: feed do grupo PET Engenharia de Alimentos - UFRG
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.213355
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.213355
 ---
 
 # PET Engenharia de Alimentos

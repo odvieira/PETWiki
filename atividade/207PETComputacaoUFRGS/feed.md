@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Computacao - UFRGS 
+title: Publicacoes de PET Computacao - UFRGS
 description: feed do grupo PET Computacao - UFRGS
 published: true
-date: 2023-11-30T15:09:28.665016
+date: 2023-11-30T16:07:05.198498
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.665016
+dateCreated: 2023-11-30T16:07:05.198498
 ---
 
 # PET Computacao

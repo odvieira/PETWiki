@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Bacharelado em Estatistica - UFSC 
+title: Publicacoes de PET Bacharelado em Estatistica - UFSC
 description: feed do grupo PET Bacharelado em Estatistica - UFSC
 published: true
-date: 2023-11-30T15:09:28.665016
+date: 2023-11-30T16:07:05.196500
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.665016
+dateCreated: 2023-11-30T16:07:05.196500
 ---
 
 # PET Bacharelado em Estatistica

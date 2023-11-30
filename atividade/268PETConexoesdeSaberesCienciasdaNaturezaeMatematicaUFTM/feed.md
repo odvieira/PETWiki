@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Conexoes de Saberes Ciencias da Natureza e Matematica - UFTM 
+title: Publicacoes de PET Conexoes de Saberes Ciencias da Natureza e Matematica - UFTM
 description: feed do grupo PET Conexoes de Saberes Ciencias da Natureza e Matematica - UFTM
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.212296
 tags: Interdisciplinar, Educacao e Formacao de Professores
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.212296
 ---
 
 # PET Conexoes de Saberes Ciencias da Natureza e Matematica

@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Acoes das Engenharias - UFA 
+title: Publicacoes de PET Acoes das Engenharias - UFA
 description: feed do grupo PET Acoes das Engenharias - UFA
 published: true
-date: 2023-11-30T15:09:28.624053
+date: 2023-11-30T16:07:05.152499
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.624053
+dateCreated: 2023-11-30T16:07:05.152499
 ---
 
 # PET Acoes das Engenharias

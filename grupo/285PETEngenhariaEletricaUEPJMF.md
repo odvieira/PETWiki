@@ -2,10 +2,10 @@
 title: PET Engenharia Eletrica - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-30T15:09:28.524197
+date: 2023-11-30T16:07:05.063228
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.524197
+dateCreated: 2023-11-30T16:07:05.063228
 ---
 
 # PET Engenharia Eletrica

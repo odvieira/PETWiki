@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Biologia - UFRP 
+title: Publicacoes de PET Biologia - UFRP
 description: feed do grupo PET Biologia - UFRP
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.184497
 tags: Ciencias Biologicas, Potencialidades do Semiarido
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.184497
 ---
 
 # PET Biologia

@@ -2,10 +2,10 @@
 title: PET Quimica - IFECTG
 description: grupo da Instituto Federal de Educacao, Ciencia e Tecnologia de Goias
 published: true
-date: 2023-11-30T15:09:28.513511
+date: 2023-11-30T16:07:05.055259
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.513511
+dateCreated: 2023-11-30T16:07:05.055259
 ---
 
 # PET Quimica

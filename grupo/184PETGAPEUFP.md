@@ -2,10 +2,10 @@
 title: PET GAPE - UFP
 description: grupo da Universidade Federal de Pelotas
 published: true
-date: 2023-11-30T15:09:28.513511
+date: 2023-11-30T16:07:05.055259
 tags: Interdisciplinar, Educacao Popular
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.513511
+dateCreated: 2023-11-30T16:07:05.055259
 ---
 
 # PET GAPE

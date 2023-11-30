@@ -2,10 +2,10 @@
 title: PET Engenharia Biomedica - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T15:09:28.497199
+date: 2023-11-30T16:07:05.041232
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.497199
+dateCreated: 2023-11-30T16:07:05.041232
 ---
 
 # PET Engenharia Biomedica

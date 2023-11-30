@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Conexoes de Saberes: Cenarios de Praticas e Estagios Curriculares Noturnos - UFRGS 
+title: Publicacoes de PET Conexoes de Saberes: Cenarios de Praticas e Estagios Curriculares Noturnos - UFRGS
 description: feed do grupo PET Conexoes de Saberes: Cenarios de Praticas e Estagios Curriculares Noturnos - UFRGS
 published: true
-date: 2023-11-30T15:09:28.671209
+date: 2023-11-30T16:07:05.199498
 tags: Ciencias da Saude, Cenarios de Praticas e Estagios Curriculares Noturnos
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.671209
+dateCreated: 2023-11-30T16:07:05.199498
 ---
 
 # PET Conexoes de Saberes: Cenarios de Praticas e Estagios Curriculares Noturnos

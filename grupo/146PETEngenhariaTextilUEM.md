@@ -2,10 +2,10 @@
 title: PET Engenharia Textil - UEM
 description: grupo da Universidade Estadual de Maringa
 published: true
-date: 2023-11-30T15:09:28.509194
+date: 2023-11-30T16:07:05.052268
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.509194
+dateCreated: 2023-11-30T16:07:05.052268
 ---
 
 # PET Engenharia Textil

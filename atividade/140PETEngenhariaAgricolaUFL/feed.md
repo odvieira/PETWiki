@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Engenharia Agricola - UFL 
+title: Publicacoes de PET Engenharia Agricola - UFL
 description: feed do grupo PET Engenharia Agricola - UFL
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.182497
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.182497
 ---
 
 # PET Engenharia Agricola

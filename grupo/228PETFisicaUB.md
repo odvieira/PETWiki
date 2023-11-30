@@ -2,10 +2,10 @@
 title: PET Fisica - UB
 description: grupo da Universidade de Brasilia
 published: true
-date: 2023-11-30T15:09:28.518196
+date: 2023-11-30T16:07:05.058226
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.518196
+dateCreated: 2023-11-30T16:07:05.058226
 ---
 
 # PET Fisica

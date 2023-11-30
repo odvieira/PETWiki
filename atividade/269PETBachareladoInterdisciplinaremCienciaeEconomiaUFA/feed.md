@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Bacharelado Interdisciplinar em Ciencia e Economia - UFA 
+title: Publicacoes de PET Bacharelado Interdisciplinar em Ciencia e Economia - UFA
 description: feed do grupo PET Bacharelado Interdisciplinar em Ciencia e Economia - UFA
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.212821
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.212821
 ---
 
 # PET Bacharelado Interdisciplinar em Ciencia e Economia

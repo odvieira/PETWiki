@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Psicologia - UEPJMF 
+title: Publicacoes de PET Psicologia - UEPJMF
 description: feed do grupo PET Psicologia - UEPJMF
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.210734
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.210734
 ---
 
 # PET Psicologia

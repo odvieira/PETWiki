@@ -2,10 +2,10 @@
 title: PET Odontologia - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T15:09:28.511193
+date: 2023-11-30T16:07:05.053227
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.511193
+dateCreated: 2023-11-30T16:07:05.053227
 ---
 
 # PET Odontologia

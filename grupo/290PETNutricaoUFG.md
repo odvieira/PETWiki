@@ -2,10 +2,10 @@
 title: PET Nutricao - UFG
 description: grupo da Universidade Federal de Goias
 published: true
-date: 2023-11-30T15:09:28.524197
+date: 2023-11-30T16:07:05.064239
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.524197
+dateCreated: 2023-11-30T16:07:05.064239
 ---
 
 # PET Nutricao

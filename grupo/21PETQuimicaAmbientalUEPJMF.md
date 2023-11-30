@@ -2,10 +2,10 @@
 title: PET Quimica Ambiental - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-30T15:09:28.496196
+date: 2023-11-30T16:07:05.040238
 tags: Ciencias Exatas e da Terra, Pesquisa, ensino e extensao dentro da area de Quimica e Ciencias Ambientais
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.496196
+dateCreated: 2023-11-30T16:07:05.040238
 ---
 
 # PET Quimica Ambiental

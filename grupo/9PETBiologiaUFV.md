@@ -2,10 +2,10 @@
 title: PET Biologia - UFV
 description: grupo da Universidade Federal de Vicosa
 published: true
-date: 2023-11-30T15:09:28.494194
+date: 2023-11-30T16:07:05.039225
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.494194
+dateCreated: 2023-11-30T16:07:05.039225
 ---
 
 # PET Biologia

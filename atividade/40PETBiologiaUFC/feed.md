@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Biologia - UFC 
+title: Publicacoes de PET Biologia - UFC
 description: feed do grupo PET Biologia - UFC
 published: true
-date: 2023-11-30T15:09:28.627319
+date: 2023-11-30T16:07:05.159500
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.627319
+dateCreated: 2023-11-30T16:07:05.159500
 ---
 
 # PET Biologia

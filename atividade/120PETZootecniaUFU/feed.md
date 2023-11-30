@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Zootecnia - UFU 
+title: Publicacoes de PET Zootecnia - UFU
 description: feed do grupo PET Zootecnia - UFU
 published: true
-date: 2023-11-30T15:09:28.643574
+date: 2023-11-30T16:07:05.178499
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.643574
+dateCreated: 2023-11-30T16:07:05.178499
 ---
 
 # PET Zootecnia

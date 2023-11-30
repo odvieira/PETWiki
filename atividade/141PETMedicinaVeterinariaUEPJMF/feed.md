@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Medicina Veterinaria - UEPJMF 
+title: Publicacoes de PET Medicina Veterinaria - UEPJMF
 description: feed do grupo PET Medicina Veterinaria - UEPJMF
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.182497
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.182497
 ---
 
 # PET Medicina Veterinaria

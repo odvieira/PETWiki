@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Geografia - FUFGD 
+title: Publicacoes de PET Geografia - FUFGD
 description: feed do grupo PET Geografia - FUFGD
 published: true
-date: 2023-11-30T15:09:28.638204
+date: 2023-11-30T16:07:05.167498
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.638204
+dateCreated: 2023-11-30T16:07:05.167498
 ---
 
 # PET Geografia

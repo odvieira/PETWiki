@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Matematica - UFCG 
+title: Publicacoes de PET Matematica - UFCG
 description: feed do grupo PET Matematica - UFCG
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.189496
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.189496
 ---
 
 # PET Matematica

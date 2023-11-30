@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Engenharia Eletrica - UFI 
+title: Publicacoes de PET Engenharia Eletrica - UFI
 description: feed do grupo PET Engenharia Eletrica - UFI
 published: true
-date: 2023-11-30T15:09:28.625054
+date: 2023-11-30T16:07:05.154500
 tags: Engenharias, Engenharias Eletrica e Eletronica
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.625054
+dateCreated: 2023-11-30T16:07:05.154500
 ---
 
 # PET Engenharia Eletrica

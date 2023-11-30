@@ -2,10 +2,10 @@
 title: PET Letras - FUFP
 description: grupo da Fundacao Universidade Federal do Pampa
 published: true
-date: 2023-11-30T15:09:28.514194
+date: 2023-11-30T16:07:05.055259
 tags: Linguistica, Letras e Arte
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.514194
+dateCreated: 2023-11-30T16:07:05.055259
 ---
 
 # PET Letras

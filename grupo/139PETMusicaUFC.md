@@ -2,10 +2,10 @@
 title: PET Musica - UFC
 description: grupo da Universidade Federal do Cariri
 published: true
-date: 2023-11-30T15:09:28.509194
+date: 2023-11-30T16:07:05.051225
 tags: Linguistica, Letras e Arte, Ensino, pesquisa e extensao no campo musical.
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.509194
+dateCreated: 2023-11-30T16:07:05.051225
 ---
 
 # PET Musica

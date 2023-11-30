@@ -2,10 +2,10 @@
 title: PET Ciencia da Computacao - UEOP
 description: grupo da Universidade Estadual do Oeste do Parana
 published: true
-date: 2023-11-30T15:09:28.496196
+date: 2023-11-30T16:07:05.040238
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.496196
+dateCreated: 2023-11-30T16:07:05.040238
 ---
 
 # PET Ciencia da Computacao

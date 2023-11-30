@@ -2,10 +2,10 @@
 title: PET Economia Solidaria - UFSC
 description: grupo da Universidade Federal de Sao Carlos
 published: true
-date: 2023-11-30T15:09:28.523234
+date: 2023-11-30T16:07:05.062226
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.523234
+dateCreated: 2023-11-30T16:07:05.062226
 ---
 
 # PET Economia Solidaria

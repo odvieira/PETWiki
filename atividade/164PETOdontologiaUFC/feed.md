@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Odontologia - UFC 
+title: Publicacoes de PET Odontologia - UFC
 description: feed do grupo PET Odontologia - UFC
 published: true
-date: 2023-11-30T15:09:28.654992
+date: 2023-11-30T16:07:05.187496
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.654992
+dateCreated: 2023-11-30T16:07:05.187496
 ---
 
 # PET Odontologia

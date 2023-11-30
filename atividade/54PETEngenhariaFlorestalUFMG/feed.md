@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Engenharia Florestal - UFMG 
+title: Publicacoes de PET Engenharia Florestal - UFMG
 description: feed do grupo PET Engenharia Florestal - UFMG
 published: true
-date: 2023-11-30T15:09:28.634685
+date: 2023-11-30T16:07:05.162499
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.634685
+dateCreated: 2023-11-30T16:07:05.162499
 ---
 
 # PET Engenharia Florestal

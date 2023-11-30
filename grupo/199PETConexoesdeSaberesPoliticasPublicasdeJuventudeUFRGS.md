@@ -2,10 +2,10 @@
 title: PET Conexoes de Saberes Politicas Publicas de Juventude - UFRGS
 description: grupo da Universidade Federal do Rio Grande do Sul
 published: true
-date: 2023-11-30T15:09:28.515198
+date: 2023-11-30T16:07:05.056261
 tags: Ciencias Humanas, Politicas Publicas de Juventude e Acoes Afirmativas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.515198
+dateCreated: 2023-11-30T16:07:05.056261
 ---
 
 # PET Conexoes de Saberes Politicas Publicas de Juventude

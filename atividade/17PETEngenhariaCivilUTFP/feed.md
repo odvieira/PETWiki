@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Engenharia Civil - UTFP 
+title: Publicacoes de PET Engenharia Civil - UTFP
 description: feed do grupo PET Engenharia Civil - UTFP
 published: true
-date: 2023-11-30T15:09:28.625054
+date: 2023-11-30T16:07:05.153498
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.625054
+dateCreated: 2023-11-30T16:07:05.153498
 ---
 
 # PET Engenharia Civil

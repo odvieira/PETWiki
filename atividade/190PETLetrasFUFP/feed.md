@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Letras - FUFP 
+title: Publicacoes de PET Letras - FUFP
 description: feed do grupo PET Letras - FUFP
 published: true
-date: 2023-11-30T15:09:28.665016
+date: 2023-11-30T16:07:05.193498
 tags: Linguistica, Letras e Arte
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.665016
+dateCreated: 2023-11-30T16:07:05.193498
 ---
 
 # PET Letras

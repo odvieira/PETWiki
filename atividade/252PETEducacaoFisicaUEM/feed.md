@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Educacao Fisica - UEM 
+title: Publicacoes de PET Educacao Fisica - UEM
 description: feed do grupo PET Educacao Fisica - UEM
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.208652
 tags: Ciencias da Saude, Educacao Fisica
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.208652
 ---
 
 # PET Educacao Fisica

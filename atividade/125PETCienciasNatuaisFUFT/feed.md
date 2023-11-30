@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Ciencias Natuais - FUFT 
+title: Publicacoes de PET Ciencias Natuais - FUFT
 description: feed do grupo PET Ciencias Natuais - FUFT
 published: true
-date: 2023-11-30T15:09:28.643574
+date: 2023-11-30T16:07:05.179496
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.643574
+dateCreated: 2023-11-30T16:07:05.179496
 ---
 
 # PET Ciencias Natuais

@@ -2,10 +2,10 @@
 title: PET Geologia - UFMG
 description: grupo da Universidade Federal de Mato Grosso
 published: true
-date: 2023-11-30T15:09:28.518196
+date: 2023-11-30T16:07:05.058226
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.518196
+dateCreated: 2023-11-30T16:07:05.058226
 ---
 
 # PET Geologia

@@ -2,10 +2,10 @@
 title: PET Enfermagem - UFG
 description: grupo da Universidade Federal de Goias
 published: true
-date: 2023-11-30T15:09:28.524197
+date: 2023-11-30T16:07:05.063228
 tags: Ciencias da Saude, ENFERMAGEM
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.524197
+dateCreated: 2023-11-30T16:07:05.063228
 ---
 
 # PET Enfermagem

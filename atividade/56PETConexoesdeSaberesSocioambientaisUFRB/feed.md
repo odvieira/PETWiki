@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Conexoes de Saberes Socioambientais - UFRB 
+title: Publicacoes de PET Conexoes de Saberes Socioambientais - UFRB
 description: feed do grupo PET Conexoes de Saberes Socioambientais - UFRB
 published: true
-date: 2023-11-30T15:09:28.635195
+date: 2023-11-30T16:07:05.163498
 tags: Interdisciplinar, Socioambiental
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.635195
+dateCreated: 2023-11-30T16:07:05.163498
 ---
 
 # PET Conexoes de Saberes Socioambientais

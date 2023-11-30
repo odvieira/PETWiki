@@ -2,10 +2,10 @@
 title: PET Ciencias Agrarias - IFECTSMG
 description: grupo da Instituto Federal de Educacao, Ciencia e Tecnologia do Sudeste de Minas Gerais
 published: true
-date: 2023-11-30T15:09:28.511193
+date: 2023-11-30T16:07:05.054261
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.511193
+dateCreated: 2023-11-30T16:07:05.054261
 ---
 
 # PET Ciencias Agrarias

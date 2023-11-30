@@ -2,10 +2,10 @@
 title: PET Praticas de Letramento - UFRP
 description: grupo da Universidade Federal Rural de Pernambuco
 published: true
-date: 2023-11-30T15:09:28.520198
+date: 2023-11-30T16:07:05.060227
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.520198
+dateCreated: 2023-11-30T16:07:05.060227
 ---
 
 # PET Praticas de Letramento

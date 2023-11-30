@@ -2,10 +2,10 @@
 title: PET Engenharia de Alimentos - UFRGS
 description: grupo da Universidade Federal do Rio Grande do Sul
 published: true
-date: 2023-11-30T15:09:28.518196
+date: 2023-11-30T16:07:05.059238
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.518196
+dateCreated: 2023-11-30T16:07:05.059238
 ---
 
 # PET Engenharia de Alimentos

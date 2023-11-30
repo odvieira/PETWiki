@@ -2,10 +2,10 @@
 title: PET Arquitetura e Urbanismo - PUCC
 description: grupo da Pontificia Universidade Catolica de Campinas
 published: true
-date: 2023-11-30T15:09:28.493196
+date: 2023-11-30T16:07:05.039225
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.493196
+dateCreated: 2023-11-30T16:07:05.039225
 ---
 
 # PET Arquitetura e Urbanismo

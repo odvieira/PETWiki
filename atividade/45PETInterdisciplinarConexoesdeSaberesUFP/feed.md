@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Interdisciplinar Conexoes de Saberes - UFP 
+title: Publicacoes de PET Interdisciplinar Conexoes de Saberes - UFP
 description: feed do grupo PET Interdisciplinar Conexoes de Saberes - UFP
 published: true
-date: 2023-11-30T15:09:28.627319
+date: 2023-11-30T16:07:05.160497
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.627319
+dateCreated: 2023-11-30T16:07:05.160497
 ---
 
 # PET Interdisciplinar Conexoes de Saberes

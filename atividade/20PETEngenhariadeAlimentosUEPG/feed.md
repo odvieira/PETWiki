@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Engenharia de Alimentos - UEPG 
+title: Publicacoes de PET Engenharia de Alimentos - UEPG
 description: feed do grupo PET Engenharia de Alimentos - UEPG
 published: true
-date: 2023-11-30T15:09:28.625054
+date: 2023-11-30T16:07:05.154500
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.625054
+dateCreated: 2023-11-30T16:07:05.154500
 ---
 
 # PET Engenharia de Alimentos

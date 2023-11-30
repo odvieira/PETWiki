@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Engenharia de Producao - UFSC 
+title: Publicacoes de PET Engenharia de Producao - UFSC
 description: feed do grupo PET Engenharia de Producao - UFSC
 published: true
-date: 2023-11-30T15:09:28.639814
+date: 2023-11-30T16:07:05.168497
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.639814
+dateCreated: 2023-11-30T16:07:05.168497
 ---
 
 # PET Engenharia de Producao

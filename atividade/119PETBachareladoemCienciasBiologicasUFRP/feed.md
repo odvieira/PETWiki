@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Bacharelado em Ciencias Biologicas - UFRP 
+title: Publicacoes de PET Bacharelado em Ciencias Biologicas - UFRP
 description: feed do grupo PET Bacharelado em Ciencias Biologicas - UFRP
 published: true
-date: 2023-11-30T15:09:28.643574
+date: 2023-11-30T16:07:05.177496
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.643574
+dateCreated: 2023-11-30T16:07:05.178499
 ---
 
 # PET Bacharelado em Ciencias Biologicas

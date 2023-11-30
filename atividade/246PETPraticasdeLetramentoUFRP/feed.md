@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Praticas de Letramento - UFRP 
+title: Publicacoes de PET Praticas de Letramento - UFRP
 description: feed do grupo PET Praticas de Letramento - UFRP
 published: true
-date: 2023-11-30T15:09:28.673396
+date: 2023-11-30T16:07:05.207616
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.673396
+dateCreated: 2023-11-30T16:07:05.207616
 ---
 
 # PET Praticas de Letramento

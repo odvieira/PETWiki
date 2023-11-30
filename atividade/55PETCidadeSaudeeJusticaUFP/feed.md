@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET Cidade Saude e Justica - UFP 
+title: Publicacoes de PET Cidade Saude e Justica - UFP
 description: feed do grupo PET Cidade Saude e Justica - UFP
 published: true
-date: 2023-11-30T15:09:28.634685
+date: 2023-11-30T16:07:05.162499
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.634685
+dateCreated: 2023-11-30T16:07:05.162499
 ---
 
 # PET Cidade Saude e Justica

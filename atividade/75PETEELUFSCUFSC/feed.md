@@ -1,11 +1,11 @@
 ---
-title: Publicacoes de PET EEL UFSC - UFSC 
+title: Publicacoes de PET EEL UFSC - UFSC
 description: feed do grupo PET EEL UFSC - UFSC
 published: true
-date: 2023-11-30T15:09:28.639204
+date: 2023-11-30T16:07:05.168497
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.639204
+dateCreated: 2023-11-30T16:07:05.168497
 ---
 
 # PET EEL UFSC
