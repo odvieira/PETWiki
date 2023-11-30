@@ -1,11 +1,11 @@
 ---
-title: PET Geografia - UFRRJ
-description: grupo da Universidade Federal Rural do Rio de Janeiro
+title: 159PETGeografiaUFRRJ
+description: 
 published: true
-date: 2023-11-30T15:09:28.510193
-tags: Ciencias Humanas, Cultura e Cidadania: dialogo de saberes no ensino de geografia
+date: 2023-11-30T18:54:24.000Z
+tags: 
 editor: markdown
-dateCreated: 2023-11-30T15:09:28.510193
+dateCreated: 2023-11-29T06:40:51.982Z
 ---
 
 # PET Geografia
