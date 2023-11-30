@@ -2,10 +2,10 @@
 title: PET Fisica - UB
 description: grupo da Universidade de Brasilia
 published: true
-date: 2023-11-30T17:36:26.333748
+date: 2023-11-30T17:55:21.523744
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.333748
+dateCreated: 2023-11-30T17:55:21.523744
 ---
 
 # PET Fisica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.333748
 | Eixo                                        | Ciencias Exatas e da Terra              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2009        |
-| Instagram                                   | https://instagram.com/fisicapet         |
-| Facebook                                    | https://www.facebook.com/PETFisicaUnB/          |
-| Twitter                                     | https://twitter.com/PETFisicaUnB           |
-| YouTube                                     | https://www.youtube.com/channel/UCCt5JqYPctoMxXhW0xoJShw           |
-| Contato                                     | https://open.spotify.com/show/4NvsQ7J3cRxQvFjnF9bJCn         |
+| Instagram                                   | https-//instagram.com/fisicapet         |
+| Facebook                                    | https-//www.facebook.com/PETFisicaUnB/          |
+| Twitter                                     | https-//twitter.com/PETFisicaUnB           |
+| YouTube                                     | https-//www.youtube.com/channel/UCCt5JqYPctoMxXhW0xoJShw           |
+| Contato                                     | https-//open.spotify.com/show/4NvsQ7J3cRxQvFjnF9bJCn         |
 | Estado                                      |  DF            |
 | Site                                        | nan |

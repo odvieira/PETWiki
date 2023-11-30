@@ -2,10 +2,10 @@
 title: PET Engenharia Eletrica - UFI
 description: grupo da Universidade Federal de Itajuba
 published: true
-date: 2023-11-30T17:36:26.317749
+date: 2023-11-30T17:55:21.506754
 tags: Engenharias,Engenharias Eletrica e Eletronica
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.317749
+dateCreated: 2023-11-30T17:55:21.506754
 ---
 
 # PET Engenharia Eletrica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.317749
 | Eixo                                        | Engenharias              |
 | Tematica                                    | Engenharias Eletrica e Eletronica          |
 | Ano de criacao                              | 1992        |
-| Instagram                                   | https://instagram.com/peteletricaunifei         |
-| Facebook                                    | https://www.facebook.com/peteletricaunifei/          |
+| Instagram                                   | https-//instagram.com/peteletricaunifei         |
+| Facebook                                    | https-//www.facebook.com/peteletricaunifei/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UC5Fy4NlGFrNFvTqVKUNhrag/featured?view_as=subscriber           |
-| Contato                                     | https://www.linkedin.com/company/pet-el%C3%A9trica-unifei         |
+| YouTube                                     | https-//www.youtube.com/channel/UC5Fy4NlGFrNFvTqVKUNhrag/featured?view_as=subscriber           |
+| Contato                                     | https-//www.linkedin.com/company/pet-el%C3%A9trica-unifei         |
 | Estado                                      |  MG            |
 | Site                                        | unifei.edu.br/prg/pet/ |

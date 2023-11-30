@@ -2,10 +2,10 @@
 title: PET Biologia - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T17:36:26.319751
+date: 2023-11-30T17:55:21.508738
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.319751
+dateCreated: 2023-11-30T17:55:21.508738
 ---
 
 # PET Biologia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.319751
 | Eixo                                        | Ciencias Biologicas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1992        |
-| Instagram                                   | https://instagram.com/petbiologiaufc         |
-| Facebook                                    | https://www.facebook.com/petbiologiaufc/          |
+| Instagram                                   | https-//instagram.com/petbiologiaufc         |
+| Facebook                                    | https-//www.facebook.com/petbiologiaufc/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/user/petbiologiaufc/featured           |
+| YouTube                                     | https-//www.youtube.com/user/petbiologiaufc/featured           |
 | Contato                                     | nan         |
 | Estado                                      |  CE            |
 | Site                                        | prograd.ufc.br/pt/bolsas/bolsas-do-pet-sesu-programa-de-educacao-tutorial-secretaria-de-educacao-superior/ |

@@ -2,10 +2,10 @@
 title: PET Conexoes Urbanas - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-30T17:36:26.329750
+date: 2023-11-30T17:55:21.519743
 tags: Interdisciplinar,Acoes afirmativas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.329750
+dateCreated: 2023-11-30T17:55:21.519743
 ---
 
 # PET Conexoes Urbanas
@@ -22,8 +22,8 @@ dateCreated: 2023-11-30T17:36:26.329750
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    | Acoes afirmativas          |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petconexoesurbanas         |
-| Facebook                                    | https://www.facebook.com/Petconexoesurbano          |
+| Instagram                                   | https-//instagram.com/petconexoesurbanas         |
+| Facebook                                    | https-//www.facebook.com/Petconexoesurbano          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
 | Contato                                     | nan         |

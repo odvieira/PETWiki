@@ -2,10 +2,10 @@
 title: PET Engenharia de Alimentos - UFRG
 description: grupo da Universidade Federal do Rio Grande
 published: true
-date: 2023-11-30T17:36:26.336739
+date: 2023-11-30T17:55:21.526743
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.336739
+dateCreated: 2023-11-30T17:55:21.526743
 ---
 
 # PET Engenharia de Alimentos
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.336739
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2012        |
-| Instagram                                   | https://instagram.com/peteafurg         |
-| Facebook                                    | https://www.facebook.com/peteafurg/          |
+| Instagram                                   | https-//instagram.com/peteafurg         |
+| Facebook                                    | https-//www.facebook.com/peteafurg/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCWrdABFyxsOneEsk81nIYdA           |
-| Contato                                     | https://www.linkedin.com/company/peteafurg/mycompany/?viewAsMember=true         |
+| YouTube                                     | https-//www.youtube.com/channel/UCWrdABFyxsOneEsk81nIYdA           |
+| Contato                                     | https-//www.linkedin.com/company/peteafurg/mycompany/?viewAsMember=true         |
 | Estado                                      |  RS            |
 | Site                                        | nan |

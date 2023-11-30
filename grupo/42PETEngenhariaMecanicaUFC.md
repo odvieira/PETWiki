@@ -2,10 +2,10 @@
 title: PET Engenharia Mecanica - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T17:36:26.319751
+date: 2023-11-30T17:55:21.509737
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.319751
+dateCreated: 2023-11-30T17:55:21.509737
 ---
 
 # PET Engenharia Mecanica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.319751
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1994        |
-| Instagram                                   | https://instagram.com/petmecufc         |
-| Facebook                                    | https://www.facebook.com/PETEngenhariaMecanicaUFC          |
+| Instagram                                   | https-//instagram.com/petmecufc         |
+| Facebook                                    | https-//www.facebook.com/PETEngenhariaMecanicaUFC          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UChhz-YprztOkeHcrW8dKl1w           |
-| Contato                                     | https://anchor.fm/pet-mecnica-ufc         |
+| YouTube                                     | https-//www.youtube.com/channel/UChhz-YprztOkeHcrW8dKl1w           |
+| Contato                                     | https-//anchor.fm/pet-mecnica-ufc         |
 | Estado                                      |  CE            |
 | Site                                        | nan |

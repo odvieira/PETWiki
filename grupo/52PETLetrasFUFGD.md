@@ -2,10 +2,10 @@
 title: PET Letras - FUFGD
 description: grupo da Fundacao Universidade Federal da Grande Dourados
 published: true
-date: 2023-11-30T17:36:26.320748
+date: 2023-11-30T17:55:21.509737
 tags: Linguistica, Letras e Arte
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.320748
+dateCreated: 2023-11-30T17:55:21.509737
 ---
 
 # PET Letras
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.320748
 | Eixo                                        | Linguistica, Letras e Arte              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petletrasufgd         |
+| Instagram                                   | https-//instagram.com/petletrasufgd         |
 | Facebook                                    | nan          |
-| Twitter                                     | https://twitter.com/pet_letrasufgd           |
+| Twitter                                     | https-//twitter.com/pet_letrasufgd           |
 | YouTube                                     | nan           |
-| Contato                                     | https://cutt.ly/petletrasufgd         |
+| Contato                                     | https-//cutt.ly/petletrasufgd         |
 | Estado                                      |  MS            |
 | Site                                        | portal.ufgd.edu.br/programas/pet/index |

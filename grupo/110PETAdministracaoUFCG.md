@@ -2,10 +2,10 @@
 title: PET Administracao - UFCG
 description: grupo da Universidade Federal de Campina Grande
 published: true
-date: 2023-11-30T17:36:26.324714
+date: 2023-11-30T17:55:21.514747
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.324714
+dateCreated: 2023-11-30T17:55:21.514747
 ---
 
 # PET Administracao
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.324714
 | Eixo                                        | Ciencias Sociais Aplicadas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petadmufcg         |
-| Facebook                                    | https://www.facebook.com/petadmufcg          |
-| Twitter                                     | https://twitter.com/petadmufcg           |
-| YouTube                                     | https://www.youtube.com/user/PETAdministracaoCG           |
-| Contato                                     | https://www.linkedin.com/company/petadmufcg/         |
+| Instagram                                   | https-//instagram.com/petadmufcg         |
+| Facebook                                    | https-//www.facebook.com/petadmufcg          |
+| Twitter                                     | https-//twitter.com/petadmufcg           |
+| YouTube                                     | https-//www.youtube.com/user/PETAdministracaoCG           |
+| Contato                                     | https-//www.linkedin.com/company/petadmufcg/         |
 | Estado                                      |  PB            |
 | Site                                        | nan |

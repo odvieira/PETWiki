@@ -2,10 +2,10 @@
 title: PET Conexoes de Saberes Servico Social - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-30T17:36:26.316715
+date: 2023-11-30T17:55:21.505745
 tags: Ciencias Sociais Aplicadas,Politica Nacional de Assistencia Social (PNAS)
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.316715
+dateCreated: 2023-11-30T17:55:21.505745
 ---
 
 # PET Conexoes de Saberes Servico Social
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.316715
 | Eixo                                        | Ciencias Sociais Aplicadas              |
 | Tematica                                    | Politica Nacional de Assistencia Social (PNAS)          |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petssoufal         |
+| Instagram                                   | https-//instagram.com/petssoufal         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
-| Contato                                     | http://linktr.ee/petssoufal         |
+| Contato                                     | http-//linktr.ee/petssoufal         |
 | Estado                                      |  AL            |
 | Site                                        | ufal.br/estudante/graduacao/programas/educacao-tutorial-pet/pet-servico-social |

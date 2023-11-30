@@ -2,10 +2,10 @@
 title: PET Biologia - UFRP
 description: grupo da Universidade Federal Rural de Pernambuco
 published: true
-date: 2023-11-30T17:36:26.327746
+date: 2023-11-30T17:55:21.517743
 tags: Ciencias Biologicas,Potencialidades do Semiarido
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.327746
+dateCreated: 2023-11-30T17:55:21.517743
 ---
 
 # PET Biologia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.327746
 | Eixo                                        | Ciencias Biologicas              |
 | Tematica                                    | Potencialidades do Semiarido          |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petbiouast         |
+| Instagram                                   | https-//instagram.com/petbiouast         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCDJvPO1Xh4bsGTaN4XURppA           |
+| YouTube                                     | https-//www.youtube.com/channel/UCDJvPO1Xh4bsGTaN4XURppA           |
 | Contato                                     | nan         |
 | Estado                                      |  PE            |
 | Site                                        | www.preg.ufrpe.br/br/grupos-pet |

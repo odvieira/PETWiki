@@ -2,10 +2,10 @@
 title: PET Quimica - USP
 description: grupo da Universidade de Sao Paulo
 published: true
-date: 2023-11-30T17:36:26.330747
+date: 2023-11-30T17:55:21.520743
 tags: Ciencias Exatas e da Terra,Meio ambiente e uso sustentavel de recursos naturais
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.330747
+dateCreated: 2023-11-30T17:55:21.520743
 ---
 
 # PET Quimica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.330747
 | Eixo                                        | Ciencias Exatas e da Terra              |
 | Tematica                                    | Meio ambiente e uso sustentavel de recursos naturais          |
 | Ano de criacao                              | 2006        |
-| Instagram                                   | https://instagram.com/petquimica_rp         |
-| Facebook                                    | https://www.facebook.com/petquimicausprp/          |
+| Instagram                                   | https-//instagram.com/petquimica_rp         |
+| Facebook                                    | https-//www.facebook.com/petquimicausprp/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/c/PETQu%C3%ADmicaUSPRP           |
+| YouTube                                     | https-//www.youtube.com/c/PETQu%C3%ADmicaUSPRP           |
 | Contato                                     | nan         |
 | Estado                                      |  SP            |
 | Site                                        | nan |

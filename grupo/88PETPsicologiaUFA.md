@@ -2,10 +2,10 @@
 title: PET Psicologia - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-30T17:36:26.323747
+date: 2023-11-30T17:55:21.512735
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.323747
+dateCreated: 2023-11-30T17:55:21.512735
 ---
 
 # PET Psicologia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.323747
 | Eixo                                        | Ciencias Humanas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2008        |
-| Instagram                                   | https://instagram.com/petpsicoufal         |
+| Instagram                                   | https-//instagram.com/petpsicoufal         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/user/PETPsicoUFAL           |
+| YouTube                                     | https-//www.youtube.com/user/PETPsicoUFAL           |
 | Contato                                     | nan         |
 | Estado                                      |  AL            |
 | Site                                        | ip.ufal.br/pt-br/graduacao/psicologia/institucional/programas/pet-programa-de-educacao-tutorial |

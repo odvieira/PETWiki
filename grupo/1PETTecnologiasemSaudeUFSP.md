@@ -2,10 +2,10 @@
 title: PET Tecnologias em Saude - UFSP
 description: grupo da Universidade Federal de Sao Paulo
 published: true
-date: 2023-11-30T17:36:26.316715
+date: 2023-11-30T17:55:21.505745
 tags: Interdisciplinar,Estudo das Ciencias Exatas aplicadas ao corpo humano
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.316715
+dateCreated: 2023-11-30T17:55:21.505745
 ---
 
 # PET Tecnologias em Saude
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.316715
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    | Estudo das Ciencias Exatas aplicadas ao corpo humano          |
 | Ano de criacao                              | 2013        |
-| Instagram                                   | https://instagram.com/pettecnologias         |
-| Facebook                                    | https://www.facebook.com/PET.Tecnologias          |
+| Instagram                                   | https-//instagram.com/pettecnologias         |
+| Facebook                                    | https-//www.facebook.com/PET.Tecnologias          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCQAbQRCOE0YglOpV4e2hlqQ           |
+| YouTube                                     | https-//www.youtube.com/channel/UCQAbQRCOE0YglOpV4e2hlqQ           |
 | Contato                                     | nan         |
 | Estado                                      |  SP            |
 | Site                                        | www.unifesp.br/reitoria/prograd/programas-institucionais/pet |

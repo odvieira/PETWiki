@@ -2,10 +2,10 @@
 title: PET Engenharia Eletrica - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-30T17:36:26.335746
+date: 2023-11-30T17:55:21.525746
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.335746
+dateCreated: 2023-11-30T17:55:21.525746
 ---
 
 # PET Engenharia Eletrica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.335746
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1995        |
-| Instagram                                   | https://instagram.com/petengenhariaeletrica         |
-| Facebook                                    | https://www.facebook.com/peteeufsm/          |
+| Instagram                                   | https-//instagram.com/petengenhariaeletrica         |
+| Facebook                                    | https-//www.facebook.com/peteeufsm/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCBEYpCQ4ruNVIHnAUV5Gmug           |
+| YouTube                                     | https-//www.youtube.com/channel/UCBEYpCQ4ruNVIHnAUV5Gmug           |
 | Contato                                     | nan         |
 | Estado                                      |  RS            |
 | Site                                        | www.ufsm.br/pro-reitorias/prograd/pet/grupos-na-ufsm |

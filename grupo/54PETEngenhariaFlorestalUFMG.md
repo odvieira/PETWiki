@@ -2,10 +2,10 @@
 title: PET Engenharia Florestal - UFMG
 description: grupo da Universidade Federal de Mato Grosso
 published: true
-date: 2023-11-30T17:36:26.320748
+date: 2023-11-30T17:55:21.509737
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.320748
+dateCreated: 2023-11-30T17:55:21.509737
 ---
 
 # PET Engenharia Florestal
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.320748
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1981        |
-| Instagram                                   | https://instagram.com/petfloresta.ufmt         |
-| Facebook                                    | https://www.facebook.com/petfloresta.ufmt          |
+| Instagram                                   | https-//instagram.com/petfloresta.ufmt         |
+| Facebook                                    | https-//www.facebook.com/petfloresta.ufmt          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UClnWHbJltXHkeBME7IifL5Q           |
+| YouTube                                     | https-//www.youtube.com/channel/UClnWHbJltXHkeBME7IifL5Q           |
 | Contato                                     | nan         |
 | Estado                                      |  MT            |
 | Site                                        | nan |

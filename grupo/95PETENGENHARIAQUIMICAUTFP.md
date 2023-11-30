@@ -2,10 +2,10 @@
 title: PET ENGENHARIA QUIMICA - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-30T17:36:26.323747
+date: 2023-11-30T17:55:21.513747
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.323747
+dateCreated: 2023-11-30T17:55:21.513747
 ---
 
 # PET ENGENHARIA QUIMICA
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.323747
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2012        |
-| Instagram                                   | https://instagram.com/%20petequtfprpg         |
-| Facebook                                    | https://www.facebook.com/petequtfpr          |
+| Instagram                                   | https-//instagram.com/%20petequtfprpg         |
+| Facebook                                    | https-//www.facebook.com/petequtfpr          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCHXHVAsPVKnd8RxTLIY8OUA           |
-| Contato                                     | https://www.linkedin.com/company/pet-engenharia-qu%C3%ADmica-utfpr-pg/about/         |
+| YouTube                                     | https-//www.youtube.com/channel/UCHXHVAsPVKnd8RxTLIY8OUA           |
+| Contato                                     | https-//www.linkedin.com/company/pet-engenharia-qu%C3%ADmica-utfpr-pg/about/         |
 | Estado                                      |  PR            |
 | Site                                        | nan |

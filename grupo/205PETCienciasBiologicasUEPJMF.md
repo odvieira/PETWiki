@@ -2,10 +2,10 @@
 title: PET Ciencias Biologicas - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-30T17:36:26.331748
+date: 2023-11-30T17:55:21.521736
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.331748
+dateCreated: 2023-11-30T17:55:21.521736
 ---
 
 # PET Ciencias Biologicas
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.331748
 | Eixo                                        | Ciencias Biologicas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2012        |
-| Instagram                                   | https://instagram.com/petcbb         |
-| Facebook                                    | https://www.facebook.com/petcbbunesp/          |
+| Instagram                                   | https-//instagram.com/petcbb         |
+| Facebook                                    | https-//www.facebook.com/petcbbunesp/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCBpdKWJM8K5rV7f5xRnbreg           |
+| YouTube                                     | https-//www.youtube.com/channel/UCBpdKWJM8K5rV7f5xRnbreg           |
 | Contato                                     | nan         |
 | Estado                                      |  SP            |
 | Site                                        | nan |

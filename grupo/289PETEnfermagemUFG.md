@@ -2,10 +2,10 @@
 title: PET Enfermagem - UFG
 description: grupo da Universidade Federal de Goias
 published: true
-date: 2023-11-30T17:36:26.337739
+date: 2023-11-30T17:55:21.527743
 tags: Ciencias da Saude,ENFERMAGEM
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.337739
+dateCreated: 2023-11-30T17:55:21.527743
 ---
 
 # PET Enfermagem
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.337739
 | Eixo                                        | Ciencias da Saude              |
 | Tematica                                    | ENFERMAGEM          |
 | Ano de criacao                              | 1996        |
-| Instagram                                   | https://instagram.com/petenfermagemufg         |
+| Instagram                                   | https-//instagram.com/petenfermagemufg         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCP2mGJ174syLk5gzrbjmMIA           |
+| YouTube                                     | https-//www.youtube.com/channel/UCP2mGJ174syLk5gzrbjmMIA           |
 | Contato                                     | nan         |
 | Estado                                      |  GO            |
 | Site                                        | www.fen.ufg.br/p/18207-pet-fen-apresentacao |

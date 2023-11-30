@@ -2,10 +2,10 @@
 title: PET de Engenharia Civil - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T17:36:26.319751
+date: 2023-11-30T17:55:21.508738
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.319751
+dateCreated: 2023-11-30T17:55:21.508738
 ---
 
 # PET de Engenharia Civil
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.319751
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1992        |
-| Instagram                                   | https://instagram.com/petcivil         |
-| Facebook                                    | https://web.facebook.com/ufcpetcivil/?_rdc=1&_rdr          |
+| Instagram                                   | https-//instagram.com/petcivil         |
+| Facebook                                    | https-//web.facebook.com/ufcpetcivil/?_rdc=1&_rdr          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCV-Xoyz5XoVxfYXXVJqrrhg           |
-| Contato                                     | https://br.linkedin.com/company/petcivilufc         |
+| YouTube                                     | https-//www.youtube.com/channel/UCV-Xoyz5XoVxfYXXVJqrrhg           |
+| Contato                                     | https-//br.linkedin.com/company/petcivilufc         |
 | Estado                                      |  CE            |
 | Site                                        | nan |

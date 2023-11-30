@@ -2,10 +2,10 @@
 title: PET Nutricao - UFG
 description: grupo da Universidade Federal de Goias
 published: true
-date: 2023-11-30T17:36:26.337739
+date: 2023-11-30T17:55:21.528746
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.337739
+dateCreated: 2023-11-30T17:55:21.528746
 ---
 
 # PET Nutricao
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.337739
 | Eixo                                        | Ciencias da Saude              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2007        |
-| Instagram                                   | https://instagram.com/petnutufg         |
+| Instagram                                   | https-//instagram.com/petnutufg         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCJnJ3BsXTcgdBjIRP2o6zHw           |
+| YouTube                                     | https-//www.youtube.com/channel/UCJnJ3BsXTcgdBjIRP2o6zHw           |
 | Contato                                     | nan         |
 | Estado                                      |  GO            |
 | Site                                        | fanut.ufg.br/p/30472-petnut-programa-de-educacao-tutorial |

@@ -2,10 +2,10 @@
 title: PET Matematica - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T17:36:26.316715
+date: 2023-11-30T17:55:21.505745
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.316715
+dateCreated: 2023-11-30T17:55:21.505745
 ---
 
 # PET Matematica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.316715
 | Eixo                                        | Ciencias Exatas e da Terra              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petmatpontal         |
-| Facebook                                    | https://www.facebook.com/PETMatematicaPontalUFU          |
+| Instagram                                   | https-//instagram.com/petmatpontal         |
+| Facebook                                    | https-//www.facebook.com/PETMatematicaPontalUFU          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UC9eA-ceJzvRnibs1eCzoYjA           |
+| YouTube                                     | https-//www.youtube.com/channel/UC9eA-ceJzvRnibs1eCzoYjA           |
 | Contato                                     | nan         |
 | Estado                                      |  MG            |
 | Site                                        | nan |

@@ -2,10 +2,10 @@
 title: Publicacoes de PET Pedagogia UFSC - UFSC
 description: feed do grupo PET Pedagogia UFSC - UFSC
 published: true
-date: 2023-11-30T17:36:26.484850
+date: 2023-11-30T17:55:21.638743
 tags: Ciencias Humanas,Processos Educativos, Relacoes Raciais (ERER), Praticas Educativas, EJA, Literatura Infantil e Juvenil
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.484850
+dateCreated: 2023-11-30T17:55:21.638743
 ---
 
 # PET Pedagogia UFSC

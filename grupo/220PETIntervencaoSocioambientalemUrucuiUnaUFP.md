@@ -2,10 +2,10 @@
 title: PET Intervencao Socioambiental em Urucui-Una - UFP
 description: grupo da Universidade Federal do Piaui
 published: true
-date: 2023-11-30T17:36:26.332747
+date: 2023-11-30T17:55:21.522743
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.332747
+dateCreated: 2023-11-30T17:55:21.522743
 ---
 
 # PET Intervencao Socioambiental em Urucui-Una
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.332747
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/pet5bj         |
-| Facebook                                    | https://facebook.com/pet5bj/          |
+| Instagram                                   | https-//instagram.com/pet5bj         |
+| Facebook                                    | https-//facebook.com/pet5bj/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCfMUBg4cCQrtUUz6FjBQEsw           |
+| YouTube                                     | https-//www.youtube.com/channel/UCfMUBg4cCQrtUUz6FjBQEsw           |
 | Contato                                     | nan         |
 | Estado                                      |  PI            |
 | Site                                        | nan |

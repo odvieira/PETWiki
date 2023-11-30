@@ -2,10 +2,10 @@
 title: PET Intercultural Indigena - UFP
 description: grupo da Universidade Federal de Pernambuco
 published: true
-date: 2023-11-30T17:36:26.325757
+date: 2023-11-30T17:55:21.515737
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.325757
+dateCreated: 2023-11-30T17:55:21.515737
 ---
 
 # PET Intercultural Indigena
@@ -22,7 +22,7 @@ dateCreated: 2023-11-30T17:36:26.325757
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petindigenaufpe         |
+| Instagram                                   | https-//instagram.com/petindigenaufpe         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |

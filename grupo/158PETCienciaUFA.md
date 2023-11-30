@@ -2,10 +2,10 @@
 title: PET Ciencia - UFA
 description: grupo da Universidade Federal de Alfenas
 published: true
-date: 2023-11-30T17:36:26.328746
+date: 2023-11-30T17:55:21.518743
 tags: Interdisciplinar,Divulgacao Cientifica
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.328746
+dateCreated: 2023-11-30T17:55:21.518743
 ---
 
 # PET Ciencia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.328746
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    | Divulgacao Cientifica          |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petciencia         |
-| Facebook                                    | https://www.facebook.com/unifal.petciencia          |
+| Instagram                                   | https-//instagram.com/petciencia         |
+| Facebook                                    | https-//www.facebook.com/unifal.petciencia          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/c/PetCi%C3%AAncia/featured           |
-| Contato                                     | https://www.linkedin.com/company/pet-ci%C3%AAncia/         |
+| YouTube                                     | https-//www.youtube.com/c/PetCi%C3%AAncia/featured           |
+| Contato                                     | https-//www.linkedin.com/company/pet-ci%C3%AAncia/         |
 | Estado                                      |  MG            |
 | Site                                        | www.unifal-mg.edu.br/pocosdecaldas/pet/ |

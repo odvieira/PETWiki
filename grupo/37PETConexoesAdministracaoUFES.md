@@ -2,10 +2,10 @@
 title: PET Conexoes Administracao - UFES
 description: grupo da Universidade Federal do Espirito Santo
 published: true
-date: 2023-11-30T17:36:26.319751
+date: 2023-11-30T17:55:21.508738
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.319751
+dateCreated: 2023-11-30T17:55:21.508738
 ---
 
 # PET Conexoes Administracao
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.319751
 | Eixo                                        | Ciencias Sociais Aplicadas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2013        |
-| Instagram                                   | https://instagram.com/petadmufes         |
+| Instagram                                   | https-//instagram.com/petadmufes         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCxq1zAlDIQVt90sJ-JBNprA           |
+| YouTube                                     | https-//www.youtube.com/channel/UCxq1zAlDIQVt90sJ-JBNprA           |
 | Contato                                     | nan         |
 | Estado                                      |  ES            |
 | Site                                        | petadm.ufes.br/ |

@@ -2,10 +2,10 @@
 title: PET Agro - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-30T17:36:26.333748
+date: 2023-11-30T17:55:21.523744
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.333748
+dateCreated: 2023-11-30T17:55:21.523744
 ---
 
 # PET Agro
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.333748
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2012        |
-| Instagram                                   | https://instagram.com/petagroregistro         |
-| Facebook                                    | https://www.facebook.com/petagroregistro          |
+| Instagram                                   | https-//instagram.com/petagroregistro         |
+| Facebook                                    | https-//www.facebook.com/petagroregistro          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCKUBlPW_AizEftY5fuiQVRg           |
+| YouTube                                     | https-//www.youtube.com/channel/UCKUBlPW_AizEftY5fuiQVRg           |
 | Contato                                     | nan         |
 | Estado                                      |  SP            |
 | Site                                        | www.registro.unesp.br/#!/ensino/graduacao/grupo-pet/ |

@@ -2,10 +2,10 @@
 title: PET Agronomia - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T17:36:26.329750
+date: 2023-11-30T17:55:21.519743
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.329750
+dateCreated: 2023-11-30T17:55:21.519743
 ---
 
 # PET Agronomia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.329750
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1991        |
-| Instagram                                   | https://instagram.com/petagroufu         |
-| Facebook                                    | https://www.facebook.com/petagronomiaufu/          |
+| Instagram                                   | https-//instagram.com/petagroufu         |
+| Facebook                                    | https-//www.facebook.com/petagronomiaufu/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/user/PETAgroUFU           |
+| YouTube                                     | https-//www.youtube.com/user/PETAgroUFU           |
 | Contato                                     | nan         |
 | Estado                                      |  MG            |
 | Site                                        | www.pet.iciag.ufu.br/pet |

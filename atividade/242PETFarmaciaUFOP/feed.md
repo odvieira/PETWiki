@@ -2,10 +2,10 @@
 title: Publicacoes de PET Farmacia - UFOP
 description: feed do grupo PET Farmacia - UFOP
 published: true
-date: 2023-11-30T17:36:26.539851
+date: 2023-11-30T17:55:21.676807
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.539851
+dateCreated: 2023-11-30T17:55:21.676807
 ---
 
 # PET Farmacia

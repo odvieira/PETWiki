@@ -2,10 +2,10 @@
 title: Publicacoes de PET Conexoes de Saberes Estatisticos - UFRG
 description: feed do grupo PET Conexoes de Saberes Estatisticos - UFRG
 published: true
-date: 2023-11-30T17:36:26.459166
+date: 2023-11-30T17:55:21.621739
 tags: Interdisciplinar,Educacao Estatistica
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.459166
+dateCreated: 2023-11-30T17:55:21.621739
 ---
 
 # PET Conexoes de Saberes Estatisticos

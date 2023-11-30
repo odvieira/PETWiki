@@ -2,10 +2,10 @@
 title: PET Engenharia Civil - UFP
 description: grupo da Universidade Federal do Para
 published: true
-date: 2023-11-30T17:36:26.328746
+date: 2023-11-30T17:55:21.518743
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.328746
+dateCreated: 2023-11-30T17:55:21.518743
 ---
 
 # PET Engenharia Civil
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.328746
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1991        |
-| Instagram                                   | https://instagram.com/petcivilufpa         |
-| Facebook                                    | https://www.facebook.com/petengenhariacivil.ufpa/          |
+| Instagram                                   | https-//instagram.com/petcivilufpa         |
+| Facebook                                    | https-//www.facebook.com/petengenhariacivil.ufpa/          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
-| Contato                                     | https://www.linkedin.com/company/pet-civil-ufpa         |
+| Contato                                     | https-//www.linkedin.com/company/pet-civil-ufpa         |
 | Estado                                      |  PA            |
 | Site                                        | pet.ufpa.br/ |

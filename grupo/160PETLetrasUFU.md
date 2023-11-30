@@ -2,10 +2,10 @@
 title: PET Letras - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T17:36:26.328746
+date: 2023-11-30T17:55:21.518743
 tags: Linguistica, Letras e Arte
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.328746
+dateCreated: 2023-11-30T17:55:21.518743
 ---
 
 # PET Letras
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.328746
 | Eixo                                        | Linguistica, Letras e Arte              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1994        |
-| Instagram                                   | https://instagram.com/petletrasufu         |
-| Facebook                                    | https://facebook.com/petletrasufu          |
+| Instagram                                   | https-//instagram.com/petletrasufu         |
+| Facebook                                    | https-//facebook.com/petletrasufu          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/user/PETLetrasUFU           |
+| YouTube                                     | https-//www.youtube.com/user/PETLetrasUFU           |
 | Contato                                     | nan         |
 | Estado                                      |  MG            |
 | Site                                        | www.ileel.ufu.br/petletras |

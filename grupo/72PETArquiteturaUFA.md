@@ -2,10 +2,10 @@
 title: PET Arquitetura - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-30T17:36:26.321772
+date: 2023-11-30T17:55:21.511737
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.321772
+dateCreated: 2023-11-30T17:55:21.511737
 ---
 
 # PET Arquitetura
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.321772
 | Eixo                                        | Ciencias Sociais Aplicadas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1995        |
-| Instagram                                   | https://instagram.com/petarqufal         |
-| Facebook                                    | https://www.facebook.com/petarqufal/          |
-| Twitter                                     | https://twitter.com/petarqufal           |
-| YouTube                                     | https://www.youtube.com/channel/UCYyQMtfgdr49mnu2_MSYpSQ           |
-| Contato                                     | https://linktr.ee/petarqufal         |
+| Instagram                                   | https-//instagram.com/petarqufal         |
+| Facebook                                    | https-//www.facebook.com/petarqufal/          |
+| Twitter                                     | https-//twitter.com/petarqufal           |
+| YouTube                                     | https-//www.youtube.com/channel/UCYyQMtfgdr49mnu2_MSYpSQ           |
+| Contato                                     | https-//linktr.ee/petarqufal         |
 | Estado                                      |  AL            |
 | Site                                        | pet.ufal.br/petarq |

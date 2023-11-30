@@ -2,10 +2,10 @@
 title: PET Geografia - UFA
 description: grupo da Universidade Federal do Acre
 published: true
-date: 2023-11-30T17:36:26.333748
+date: 2023-11-30T17:55:21.523744
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.333748
+dateCreated: 2023-11-30T17:55:21.523744
 ---
 
 # PET Geografia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.333748
 | Eixo                                        | Ciencias Humanas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2009        |
-| Instagram                                   | https://instagram.com/petgeografia2019ufac         |
-| Facebook                                    | https://www.facebook.com/paginapetgeoufac          |
-| Twitter                                     | https://twitter.com/petgeoufac           |
-| YouTube                                     | https://www.youtube.com/channel/UCiyGqdjtlG3Yikcfte8Bulg           |
+| Instagram                                   | https-//instagram.com/petgeografia2019ufac         |
+| Facebook                                    | https-//www.facebook.com/paginapetgeoufac          |
+| Twitter                                     | https-//twitter.com/petgeoufac           |
+| YouTube                                     | https-//www.youtube.com/channel/UCiyGqdjtlG3Yikcfte8Bulg           |
 | Contato                                     | nan         |
 | Estado                                      |  AC            |
 | Site                                        | nan |

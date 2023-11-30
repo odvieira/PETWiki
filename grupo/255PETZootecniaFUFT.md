@@ -2,10 +2,10 @@
 title: PET Zootecnia - FUFT
 description: grupo da Fundacao Universidade Federal do Tocantins
 published: true
-date: 2023-11-30T17:36:26.335746
+date: 2023-11-30T17:55:21.525746
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.335746
+dateCreated: 2023-11-30T17:55:21.525746
 ---
 
 # PET Zootecnia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.335746
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2013        |
-| Instagram                                   | https://instagram.com/petzootecniaufnt         |
+| Instagram                                   | https-//instagram.com/petzootecniaufnt         |
 | Facebook                                    | nan          |
-| Twitter                                     | https://twitter.com/petzootecniauft           |
-| YouTube                                     | https://www.youtube.com/channel/UCUzHcTxm2A_MO0W5Aw820mw/videos           |
+| Twitter                                     | https-//twitter.com/petzootecniauft           |
+| YouTube                                     | https-//www.youtube.com/channel/UCUzHcTxm2A_MO0W5Aw820mw/videos           |
 | Contato                                     | nan         |
 | Estado                                      |  TO            |
 | Site                                        | nan |

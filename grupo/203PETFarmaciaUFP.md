@@ -2,10 +2,10 @@
 title: PET Farmacia - UFP
 description: grupo da Universidade Federal do Parana
 published: true
-date: 2023-11-30T17:36:26.331748
+date: 2023-11-30T17:55:21.521736
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.331748
+dateCreated: 2023-11-30T17:55:21.521736
 ---
 
 # PET Farmacia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.331748
 | Eixo                                        | Ciencias da Saude              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1992        |
-| Instagram                                   | https://instagram.com/petfarmaciaufpr         |
-| Facebook                                    | https://facebook.com/grupopetfarmaciaufpr          |
+| Instagram                                   | https-//instagram.com/petfarmaciaufpr         |
+| Facebook                                    | https-//facebook.com/grupopetfarmaciaufpr          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UC3FziLcX4TB8WZkX1XoLC2Q           |
+| YouTube                                     | https-//www.youtube.com/channel/UC3FziLcX4TB8WZkX1XoLC2Q           |
 | Contato                                     | nan         |
 | Estado                                      |  PR            |
 | Site                                        | nan |

@@ -2,10 +2,10 @@
 title: PET Geologia - UFMG
 description: grupo da Universidade Federal de Mato Grosso
 published: true
-date: 2023-11-30T17:36:26.333748
+date: 2023-11-30T17:55:21.523744
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.333748
+dateCreated: 2023-11-30T17:55:21.523744
 ---
 
 # PET Geologia
@@ -22,8 +22,8 @@ dateCreated: 2023-11-30T17:36:26.333748
 | Eixo                                        | Ciencias Exatas e da Terra              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1995        |
-| Instagram                                   | https://instagram.com/petgeologiaufmt         |
-| Facebook                                    | https://www.facebook.com/petgeologiaufmt/          |
+| Instagram                                   | https-//instagram.com/petgeologiaufmt         |
+| Facebook                                    | https-//www.facebook.com/petgeologiaufmt/          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
 | Contato                                     | nan         |

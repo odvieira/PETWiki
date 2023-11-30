@@ -2,10 +2,10 @@
 title: PET Engenharia Mecanica - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T17:36:26.328746
+date: 2023-11-30T17:55:21.518743
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.328746
+dateCreated: 2023-11-30T17:55:21.518743
 ---
 
 # PET Engenharia Mecanica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.328746
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1979        |
-| Instagram                                   | https://instagram.com/petmec.ufu         |
-| Facebook                                    | https://www.facebook.com/petmec.ufu          |
+| Instagram                                   | https-//instagram.com/petmec.ufu         |
+| Facebook                                    | https-//www.facebook.com/petmec.ufu          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/PETMEC           |
+| YouTube                                     | https-//www.youtube.com/PETMEC           |
 | Contato                                     | nan         |
 | Estado                                      |  MG            |
 | Site                                        | nan |

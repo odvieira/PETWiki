@@ -2,10 +2,10 @@
 title: PET Conexoes Ciencia da Computacao - IFECTSMG
 description: grupo da Instituto Federal de Educacao, Ciencia e Tecnologia do Sudeste de Minas Gerais
 published: true
-date: 2023-11-30T17:36:26.336739
+date: 2023-11-30T17:55:21.526743
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.336739
+dateCreated: 2023-11-30T17:55:21.526743
 ---
 
 # PET Conexoes Ciencia da Computacao
@@ -23,7 +23,7 @@ dateCreated: 2023-11-30T17:36:26.336739
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | nan         |
-| Facebook                                    | https://www.facebook.com/gpca.if/          |
+| Facebook                                    | https-//www.facebook.com/gpca.if/          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
 | Contato                                     | nan         |

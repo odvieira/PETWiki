@@ -2,10 +2,10 @@
 title: PET Ecologia - UFRP
 description: grupo da Universidade Federal Rural de Pernambuco
 published: true
-date: 2023-11-30T17:36:26.329750
+date: 2023-11-30T17:55:21.519743
 tags: Interdisciplinar,Ecologia e Conservacao da Natureza
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.329750
+dateCreated: 2023-11-30T17:55:21.519743
 ---
 
 # PET Ecologia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.329750
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    | Ecologia e Conservacao da Natureza          |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/ecologiapet         |
-| Facebook                                    | https://www.facebook.com/PetEcoUFRPE          |
+| Instagram                                   | https-//instagram.com/ecologiapet         |
+| Facebook                                    | https-//www.facebook.com/PetEcoUFRPE          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCykH3h8ixrfDN5JBDLj-KiA           |
+| YouTube                                     | https-//www.youtube.com/channel/UCykH3h8ixrfDN5JBDLj-KiA           |
 | Contato                                     | nan         |
 | Estado                                      |  PE            |
 | Site                                        | nan |

@@ -2,10 +2,10 @@
 title: PET AutoNet - IFECTMG
 description: grupo da Instituto Federal de Educacao, Ciencia e Tecnologia de Mato Grosso
 published: true
-date: 2023-11-30T17:36:26.326747
+date: 2023-11-30T17:55:21.515737
 tags: Engenharias,Robotica
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.326747
+dateCreated: 2023-11-30T17:55:21.515737
 ---
 
 # PET AutoNet
@@ -22,8 +22,8 @@ dateCreated: 2023-11-30T17:36:26.326747
 | Eixo                                        | Engenharias              |
 | Tematica                                    | Robotica          |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petautonet         |
-| Facebook                                    | https://www.facebook.com/petautonet/          |
+| Instagram                                   | https-//instagram.com/petautonet         |
+| Facebook                                    | https-//www.facebook.com/petautonet/          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
 | Contato                                     | nan         |

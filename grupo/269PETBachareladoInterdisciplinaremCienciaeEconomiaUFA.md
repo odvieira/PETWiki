@@ -2,10 +2,10 @@
 title: PET Bacharelado Interdisciplinar em Ciencia e Economia - UFA
 description: grupo da Universidade Federal de Alfenas
 published: true
-date: 2023-11-30T17:36:26.336739
+date: 2023-11-30T17:55:21.526743
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.336739
+dateCreated: 2023-11-30T17:55:21.526743
 ---
 
 # PET Bacharelado Interdisciplinar em Ciencia e Economia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.336739
 | Eixo                                        | Ciencias Sociais Aplicadas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petbiceunifalmg         |
-| Facebook                                    | https://www.facebook.com/petbice          |
+| Instagram                                   | https-//instagram.com/petbiceunifalmg         |
+| Facebook                                    | https-//www.facebook.com/petbice          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCG4mtF0zAGhDKQRAfz2zgcw           |
+| YouTube                                     | https-//www.youtube.com/channel/UCG4mtF0zAGhDKQRAfz2zgcw           |
 | Contato                                     | nan         |
 | Estado                                      |  MG            |
 | Site                                        | nan |

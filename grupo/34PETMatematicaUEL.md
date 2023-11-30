@@ -2,10 +2,10 @@
 title: PET Matematica - UEL
 description: grupo da Universidade Estadual de Londrina
 published: true
-date: 2023-11-30T17:36:26.318714
+date: 2023-11-30T17:55:21.508738
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.318714
+dateCreated: 2023-11-30T17:55:21.508738
 ---
 
 # PET Matematica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.318714
 | Eixo                                        | Ciencias Exatas e da Terra              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2006        |
-| Instagram                                   | https://instagram.com/petmat.uel         |
-| Facebook                                    | https://www.facebook.com/PET.Mat.Uel          |
+| Instagram                                   | https-//instagram.com/petmat.uel         |
+| Facebook                                    | https-//www.facebook.com/PET.Mat.Uel          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCdjOAtGddMNIECJAl3Nb1rA           |
+| YouTube                                     | https-//www.youtube.com/channel/UCdjOAtGddMNIECJAl3Nb1rA           |
 | Contato                                     | nan         |
 | Estado                                      |  PR            |
 | Site                                        | www.uel.br/programas/petmat/ |

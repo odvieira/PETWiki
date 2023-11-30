@@ -2,10 +2,10 @@
 title: PET Pedagogia - UEM
 description: grupo da Universidade Estadual de Maringa
 published: true
-date: 2023-11-30T17:36:26.330747
+date: 2023-11-30T17:55:21.520743
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.330747
+dateCreated: 2023-11-30T17:55:21.520743
 ---
 
 # PET Pedagogia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.330747
 | Eixo                                        | Ciencias Humanas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1996        |
-| Instagram                                   | https://instagram.com/petpedagogia.uem         |
-| Facebook                                    | https://www.facebook.com/PetPedagogia          |
+| Instagram                                   | https-//instagram.com/petpedagogia.uem         |
+| Facebook                                    | https-//www.facebook.com/PetPedagogia          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCG1QLN1l1v-w5auDAd5HoJg           |
+| YouTube                                     | https-//www.youtube.com/channel/UCG1QLN1l1v-w5auDAd5HoJg           |
 | Contato                                     | nan         |
 | Estado                                      |  PR            |
 | Site                                        | www.dtp.uem.br/projetos-programas/pet-pedagogia |

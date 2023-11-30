@@ -2,10 +2,10 @@
 title: PET Farmacia - UFOP
 description: grupo da Universidade Federal de Ouro Preto
 published: true
-date: 2023-11-30T17:36:26.334749
+date: 2023-11-30T17:55:21.524746
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.334749
+dateCreated: 2023-11-30T17:55:21.524746
 ---
 
 # PET Farmacia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.334749
 | Eixo                                        | Ciencias da Saude              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1992        |
-| Instagram                                   | https://instagram.com/petfarmaciaufop         |
-| Facebook                                    | https://www.facebook.com/PETFarmaciaUFOP          |
+| Instagram                                   | https-//instagram.com/petfarmaciaufop         |
+| Facebook                                    | https-//www.facebook.com/PETFarmaciaUFOP          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UC-FU1-GtUwc2pZa5pfgnpNg           |
+| YouTube                                     | https-//www.youtube.com/channel/UC-FU1-GtUwc2pZa5pfgnpNg           |
 | Contato                                     | nan         |
 | Estado                                      |  MG            |
 | Site                                        | nan |

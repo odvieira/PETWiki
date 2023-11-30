@@ -2,10 +2,10 @@
 title: PET Interdisciplinar Conexoes de Saberes - UFP
 description: grupo da Universidade Federal do Para
 published: true
-date: 2023-11-30T17:36:26.319751
+date: 2023-11-30T17:55:21.509737
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.319751
+dateCreated: 2023-11-30T17:55:21.509737
 ---
 
 # PET Interdisciplinar Conexoes de Saberes
@@ -23,7 +23,7 @@ dateCreated: 2023-11-30T17:36:26.319751
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | nan         |
-| Facebook                                    | https://facebook.com/petinterdisciplinar          |
+| Facebook                                    | https-//facebook.com/petinterdisciplinar          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
 | Contato                                     | nan         |

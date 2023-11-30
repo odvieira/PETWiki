@@ -2,10 +2,10 @@
 title: Publicacoes de PET Geografia - UEL
 description: feed do grupo PET Geografia - UEL
 published: true
-date: 2023-11-30T17:36:26.556852
+date: 2023-11-30T17:55:21.687806
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.556852
+dateCreated: 2023-11-30T17:55:21.687806
 ---
 
 # PET Geografia

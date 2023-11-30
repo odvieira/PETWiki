@@ -2,10 +2,10 @@
 title: PET Zootecnia UFSM - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-30T17:36:26.324714
+date: 2023-11-30T17:55:21.513747
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.324714
+dateCreated: 2023-11-30T17:55:21.513747
 ---
 
 # PET Zootecnia UFSM
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.324714
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2009        |
-| Instagram                                   | https://instagram.com/petzootecnia_ufsm         |
-| Facebook                                    | https://www.facebook.com/petzootecnia          |
+| Instagram                                   | https-//instagram.com/petzootecnia_ufsm         |
+| Facebook                                    | https-//www.facebook.com/petzootecnia          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCkLnE9et1vq1b-zp227u-GA           |
+| YouTube                                     | https-//www.youtube.com/channel/UCkLnE9et1vq1b-zp227u-GA           |
 | Contato                                     | nan         |
 | Estado                                      |  RS            |
 | Site                                        | www.ufsm.br/pet/zootecnia/ |

@@ -2,10 +2,10 @@
 title: PET Engenharia de Alimentos - UFL
 description: grupo da Universidade Federal de Lavras
 published: true
-date: 2023-11-30T17:36:26.327746
+date: 2023-11-30T17:55:21.517743
 tags: Ciencias Agrarias,Engenharia, Ciencia e Tecnologia de Alimentos.
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.327746
+dateCreated: 2023-11-30T17:55:21.517743
 ---
 
 # PET Engenharia de Alimentos
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.327746
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    | Engenharia, Ciencia e Tecnologia de Alimentos.          |
 | Ano de criacao                              | 2013        |
-| Instagram                                   | https://instagram.com/petalimentosufla         |
+| Instagram                                   | https-//instagram.com/petalimentosufla         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/user/petalimentosufla/featured           |
-| Contato                                     | https://www.linkedin.com/company/pet-engenharia-de-alimentos/         |
+| YouTube                                     | https-//www.youtube.com/user/petalimentosufla/featured           |
+| Contato                                     | https-//www.linkedin.com/company/pet-engenharia-de-alimentos/         |
 | Estado                                      |  MG            |
 | Site                                        | www.dca.ufla.br/petalimentos/ |

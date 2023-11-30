@@ -2,10 +2,10 @@
 title: Publicacoes de PET Bacharelado em Zootecnia - UEM
 description: feed do grupo PET Bacharelado em Zootecnia - UEM
 published: true
-date: 2023-11-30T17:36:26.484850
+date: 2023-11-30T17:55:21.637731
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.484850
+dateCreated: 2023-11-30T17:55:21.637731
 ---
 
 # PET Bacharelado em Zootecnia

@@ -2,10 +2,10 @@
 title: PET Design - IFECTSC
 description: grupo da Instituto Federal de Educacao, Ciencia e Tecnologia de Santa Catarina
 published: true
-date: 2023-11-30T17:36:26.336739
+date: 2023-11-30T17:55:21.527743
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.336739
+dateCreated: 2023-11-30T17:55:21.527743
 ---
 
 # PET Design
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.336739
 | Eixo                                        | Ciencias Sociais Aplicadas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2006        |
-| Instagram                                   | https://instagram.com/petdesignifsc         |
-| Facebook                                    | https://www.facebook.com/DesignIFSCPET          |
+| Instagram                                   | https-//instagram.com/petdesignifsc         |
+| Facebook                                    | https-//www.facebook.com/DesignIFSCPET          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCxbY2khND_3tmMZNuP6ddog           |
+| YouTube                                     | https-//www.youtube.com/channel/UCxbY2khND_3tmMZNuP6ddog           |
 | Contato                                     | nan         |
 | Estado                                      |  SC            |
 | Site                                        | nan |

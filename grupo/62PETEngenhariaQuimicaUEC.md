@@ -2,10 +2,10 @@
 title: PET Engenharia Quimica - UEC
 description: grupo da Universidade Estadual de Campinas
 published: true
-date: 2023-11-30T17:36:26.320748
+date: 2023-11-30T17:55:21.510738
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.320748
+dateCreated: 2023-11-30T17:55:21.510738
 ---
 
 # PET Engenharia Quimica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.320748
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2011        |
-| Instagram                                   | https://instagram.com/petequnicamp         |
+| Instagram                                   | https-//instagram.com/petequnicamp         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCPoYJc4g9JuSKpuAYHoH37w           |
-| Contato                                     | https://www.linkedin.com/company/pet-eq-unicamp/         |
+| YouTube                                     | https-//www.youtube.com/channel/UCPoYJc4g9JuSKpuAYHoH37w           |
+| Contato                                     | https-//www.linkedin.com/company/pet-eq-unicamp/         |
 | Estado                                      |  SP            |
 | Site                                        | nan |

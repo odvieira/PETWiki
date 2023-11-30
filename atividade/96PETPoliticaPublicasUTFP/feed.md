@@ -2,10 +2,10 @@
 title: Publicacoes de PET Politica Publicas - UTFP
 description: feed do grupo PET Politica Publicas - UTFP
 published: true
-date: 2023-11-30T17:36:26.486850
+date: 2023-11-30T17:55:21.639730
 tags: Interdisciplinar,Politicas Publicas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.486850
+dateCreated: 2023-11-30T17:55:21.639730
 ---
 
 # PET Politica Publicas

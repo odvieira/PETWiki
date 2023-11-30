@@ -1,16 +1,16 @@
 ---
-title: PET Solos: agregando saberes - UESC
+title: PET Solos- agregando saberes - UESC
 description: grupo da Universidade Estadual de Santa Cruz
 published: true
-date: 2023-11-30T17:36:26.336739
+date: 2023-11-30T17:55:21.526743
 tags: Ciencias Exatas e da Terra,Solos
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.336739
+dateCreated: 2023-11-30T17:55:21.526743
 ---
 
-# PET Solos: agregando saberes
+# PET Solos- agregando saberes
 
-[Publicacoes de PET Solos: agregando saberes - UESC](/atividade/274PETSolosagregandosaberesUESC/feed.md)
+[Publicacoes de PET Solos- agregando saberes - UESC](/atividade/274PETSolosagregandosaberesUESC/feed.md)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UESC         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.336739
 | Eixo                                        | Ciencias Exatas e da Terra              |
 | Tematica                                    | Solos          |
 | Ano de criacao                              | 2009        |
-| Instagram                                   | https://instagram.com/petsolos.uesc         |
-| Facebook                                    | https://cenapet.org/grupos/286/facebook.com/petsolosuesc/          |
+| Instagram                                   | https-//instagram.com/petsolos.uesc         |
+| Facebook                                    | https-//cenapet.org/grupos/286/facebook.com/petsolosuesc/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCQKBcJwUEIBPU6c22ZrIgtA/featured           |
+| YouTube                                     | https-//www.youtube.com/channel/UCQKBcJwUEIBPU6c22ZrIgtA/featured           |
 | Contato                                     | nan         |
 | Estado                                      |  BA            |
 | Site                                        | www.uesc.br/projetos/petsolos/index.php?item=conteudo_projetos.php |

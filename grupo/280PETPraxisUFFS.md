@@ -2,10 +2,10 @@
 title: PET Praxis - UFFS
 description: grupo da Universidade Federal da Fronteira Sul
 published: true
-date: 2023-11-30T17:36:26.337739
+date: 2023-11-30T17:55:21.527743
 tags: Interdisciplinar,Educacao popular
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.337739
+dateCreated: 2023-11-30T17:55:21.527743
 ---
 
 # PET Praxis
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.337739
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    | Educacao popular          |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petpraxisuffs         |
-| Facebook                                    | https://www.facebook.com/GrupoPraxisPETConexoesdeSaberes          |
+| Instagram                                   | https-//instagram.com/petpraxisuffs         |
+| Facebook                                    | https-//www.facebook.com/GrupoPraxisPETConexoesdeSaberes          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCyfscokCTeKkCYUv3rpxmMA?view_as=subscriber           |
+| YouTube                                     | https-//www.youtube.com/channel/UCyfscokCTeKkCYUv3rpxmMA?view_as=subscriber           |
 | Contato                                     | nan         |
 | Estado                                      |  SC            |
 | Site                                        | www.uffs.edu.br/institucional/pro-reitorias/graduacao/programas/pet/pet-apresentacao |

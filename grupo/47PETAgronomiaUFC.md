@@ -2,10 +2,10 @@
 title: PET Agronomia - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T17:36:26.319751
+date: 2023-11-30T17:55:21.509737
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.319751
+dateCreated: 2023-11-30T17:55:21.509737
 ---
 
 # PET Agronomia
@@ -22,8 +22,8 @@ dateCreated: 2023-11-30T17:36:26.319751
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1992        |
-| Instagram                                   | https://instagram.com/petagronomiaufc/         |
-| Facebook                                    | https://www.facebook.com/petagronomiaufc/          |
+| Instagram                                   | https-//instagram.com/petagronomiaufc/         |
+| Facebook                                    | https-//www.facebook.com/petagronomiaufc/          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
 | Contato                                     | nan         |

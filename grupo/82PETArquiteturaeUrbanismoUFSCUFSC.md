@@ -2,10 +2,10 @@
 title: PET Arquitetura e Urbanismo UFSC - UFSC
 description: grupo da Universidade Federal de Santa Catarina
 published: true
-date: 2023-11-30T17:36:26.322716
+date: 2023-11-30T17:55:21.512735
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.322716
+dateCreated: 2023-11-30T17:55:21.512735
 ---
 
 # PET Arquitetura e Urbanismo UFSC
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.322716
 | Eixo                                        | Ciencias Sociais Aplicadas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1992        |
-| Instagram                                   | https://instagram.com/petarqufsc         |
-| Facebook                                    | https://www.facebook.com/PET-ARQ-UFSC-174590199283599/          |
+| Instagram                                   | https-//instagram.com/petarqufsc         |
+| Facebook                                    | https-//www.facebook.com/PET-ARQ-UFSC-174590199283599/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/user/petarquiteturaufsc           |
-| Contato                                     | https://issuu.com/petarqufsc         |
+| YouTube                                     | https-//www.youtube.com/user/petarquiteturaufsc           |
+| Contato                                     | https-//issuu.com/petarqufsc         |
 | Estado                                      |  SC            |
 | Site                                        | nan |

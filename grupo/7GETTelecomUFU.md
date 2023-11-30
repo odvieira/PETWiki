@@ -2,10 +2,10 @@
 title: GET Telecom - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T17:36:26.316715
+date: 2023-11-30T17:55:21.505745
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.316715
+dateCreated: 2023-11-30T17:55:21.505745
 ---
 
 # GET Telecom
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.316715
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2020        |
-| Instagram                                   | https://instagram.com/petelecom_ufu         |
+| Instagram                                   | https-//instagram.com/petelecom_ufu         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/c/PETTelecomUFU/featured           |
+| YouTube                                     | https-//www.youtube.com/c/PETTelecomUFU/featured           |
 | Contato                                     | nan         |
 | Estado                                      |  MG            |
 | Site                                        | nan |

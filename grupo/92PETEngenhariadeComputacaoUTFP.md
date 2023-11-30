@@ -2,10 +2,10 @@
 title: PET Engenharia de Computacao - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-30T17:36:26.323747
+date: 2023-11-30T17:55:21.512735
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.323747
+dateCreated: 2023-11-30T17:55:21.512735
 ---
 
 # PET Engenharia de Computacao
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.323747
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/peteco_utfpr         |
-| Facebook                                    | https://www.facebook.com/petecoutf          |
+| Instagram                                   | https-//instagram.com/peteco_utfpr         |
+| Facebook                                    | https-//www.facebook.com/petecoutf          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/c/PETECOUTFPR/featured           |
+| YouTube                                     | https-//www.youtube.com/c/PETECOUTFPR/featured           |
 | Contato                                     | nan         |
 | Estado                                      |  PR            |
 | Site                                        | dainf.ct.utfpr.edu.br/peteco/ |

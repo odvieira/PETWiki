@@ -2,10 +2,10 @@
 title: PET Computacao - USP
 description: grupo da Universidade de Sao Paulo
 published: true
-date: 2023-11-30T17:36:26.334749
+date: 2023-11-30T17:55:21.524746
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.334749
+dateCreated: 2023-11-30T17:55:21.524746
 ---
 
 # PET Computacao
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.334749
 | Eixo                                        | Ciencias Exatas e da Terra              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1995        |
-| Instagram                                   | https://instagram.com/petcomputacaousp         |
-| Facebook                                    | https://www.facebook.com/petcompusp          |
-| Twitter                                     | https://twitter.com/PETComp_USP           |
-| YouTube                                     | https://www.youtube.com/c/PETComputa%C3%A7%C3%A3oUSP           |
-| Contato                                     | https://www.linkedin.com/company/petcompusp/         |
+| Instagram                                   | https-//instagram.com/petcomputacaousp         |
+| Facebook                                    | https-//www.facebook.com/petcompusp          |
+| Twitter                                     | https-//twitter.com/PETComp_USP           |
+| YouTube                                     | https-//www.youtube.com/c/PETComputa%C3%A7%C3%A3oUSP           |
+| Contato                                     | https-//www.linkedin.com/company/petcompusp/         |
 | Estado                                      |  SP            |
 | Site                                        | prg.usp.br/programa-de-educacao-tutorial-pet/grupos-pet-19-computacao/ |

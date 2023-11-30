@@ -2,10 +2,10 @@
 title: PET Odontologia - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T17:36:26.328746
+date: 2023-11-30T17:55:21.518743
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.328746
+dateCreated: 2023-11-30T17:55:21.518743
 ---
 
 # PET Odontologia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.328746
 | Eixo                                        | Ciencias da Saude              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1988        |
-| Instagram                                   | https://instagram.com/petodontologia         |
+| Instagram                                   | https-//instagram.com/petodontologia         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UC2afk0mQ8mUefqDPSI-Rqkw           |
+| YouTube                                     | https-//www.youtube.com/channel/UC2afk0mQ8mUefqDPSI-Rqkw           |
 | Contato                                     | nan         |
 | Estado                                      |  CE            |
 | Site                                        | nan |

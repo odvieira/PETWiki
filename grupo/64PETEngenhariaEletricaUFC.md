@@ -2,10 +2,10 @@
 title: PET Engenharia Eletrica - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-30T17:36:26.321772
+date: 2023-11-30T17:55:21.510738
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.321772
+dateCreated: 2023-11-30T17:55:21.510738
 ---
 
 # PET Engenharia Eletrica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.321772
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1983        |
-| Instagram                                   | https://instagram.com/peteletricaufc         |
-| Facebook                                    | https://www.facebook.com/PetEletricaUfc          |
+| Instagram                                   | https-//instagram.com/peteletricaufc         |
+| Facebook                                    | https-//www.facebook.com/PetEletricaUfc          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCa7ECEIszocpWAeUUHPtZWg           |
+| YouTube                                     | https-//www.youtube.com/channel/UCa7ECEIszocpWAeUUHPtZWg           |
 | Contato                                     | nan         |
 | Estado                                      |  CE            |
 | Site                                        | nan |

@@ -2,10 +2,10 @@
 title: PET Agronomia - IFPA - IFECTP
 description: grupo da Instituto Federal de Educacao, Ciencia e Tecnologia do Para
 published: true
-date: 2023-11-30T17:36:26.324714
+date: 2023-11-30T17:55:21.513747
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.324714
+dateCreated: 2023-11-30T17:55:21.513747
 ---
 
 # PET Agronomia - IFPA
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.324714
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petagro_ifpa         |
-| Facebook                                    | https://www.facebook.com/petagro.agronomia          |
+| Instagram                                   | https-//instagram.com/petagro_ifpa         |
+| Facebook                                    | https-//www.facebook.com/petagro.agronomia          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCJ9hPoIefUR7g8kxR6tbK4w/featured           |
+| YouTube                                     | https-//www.youtube.com/channel/UCJ9hPoIefUR7g8kxR6tbK4w/featured           |
 | Contato                                     | nan         |
 | Estado                                      |  PA            |
 | Site                                        | proen.ifpa.edu.br/pet |

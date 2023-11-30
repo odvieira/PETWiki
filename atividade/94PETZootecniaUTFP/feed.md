@@ -2,10 +2,10 @@
 title: Publicacoes de PET Zootecnia - UTFP
 description: feed do grupo PET Zootecnia - UTFP
 published: true
-date: 2023-11-30T17:36:26.485850
+date: 2023-11-30T17:55:21.638743
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.485850
+dateCreated: 2023-11-30T17:55:21.638743
 ---
 
 # PET Zootecnia

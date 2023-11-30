@@ -2,10 +2,10 @@
 title: PET Geografia - UFRRJ
 description: grupo da Universidade Federal Rural do Rio de Janeiro
 published: true
-date: 2023-11-30T17:36:26.328746
-tags: Ciencias Humanas,Cultura e Cidadania: dialogo de saberes no ensino de geografia
+date: 2023-11-30T17:55:21.518743
+tags: Ciencias Humanas,Cultura e Cidadania- dialogo de saberes no ensino de geografia
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.328746
+dateCreated: 2023-11-30T17:55:21.518743
 ---
 
 # PET Geografia
@@ -20,12 +20,12 @@ dateCreated: 2023-11-30T17:36:26.328746
 | Email                                       | petgeoufrrjim@gmail.com             |
 | Site                                        | geo-pet.blogspot.com/              |
 | Eixo                                        | Ciencias Humanas              |
-| Tematica                                    | Cultura e Cidadania: dialogo de saberes no ensino de geografia          |
+| Tematica                                    | Cultura e Cidadania- dialogo de saberes no ensino de geografia          |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petgeoufrrj_im         |
-| Facebook                                    | https://www.facebook.com/pet.geo.im.ufrrj/          |
+| Instagram                                   | https-//instagram.com/petgeoufrrj_im         |
+| Facebook                                    | https-//www.facebook.com/pet.geo.im.ufrrj/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/user/LeoViannaPensador/featured           |
-| Contato                                     | https://linktr.ee/Petgeoufrrjim         |
+| YouTube                                     | https-//www.youtube.com/user/LeoViannaPensador/featured           |
+| Contato                                     | https-//linktr.ee/Petgeoufrrjim         |
 | Estado                                      |  RJ            |
 | Site                                        | r1.ufrrj.br/grupospetrural/pet-geografia/ |

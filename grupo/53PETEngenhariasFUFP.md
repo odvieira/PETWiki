@@ -2,10 +2,10 @@
 title: PET Engenharias - FUFP
 description: grupo da Fundacao Universidade Federal do Pampa
 published: true
-date: 2023-11-30T17:36:26.320748
+date: 2023-11-30T17:55:21.509737
 tags: Engenharias,Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.320748
+dateCreated: 2023-11-30T17:55:21.509737
 ---
 
 # PET Engenharias
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.320748
 | Eixo                                        | Engenharias              |
 | Tematica                                    | Interdisciplinar          |
 | Ano de criacao                              | 2012        |
-| Instagram                                   | https://instagram.com/petengenharias.unipampa         |
-| Facebook                                    | https://www.facebook.com/PETEngenhariasBG/          |
+| Instagram                                   | https-//instagram.com/petengenharias.unipampa         |
+| Facebook                                    | https-//www.facebook.com/PETEngenhariasBG/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UC-1WGgm8C7-X12KvOBTclXQ           |
-| Contato                                     | https://www.linkedin.com/company/pet-engenharias         |
+| YouTube                                     | https-//www.youtube.com/channel/UC-1WGgm8C7-X12KvOBTclXQ           |
+| Contato                                     | https-//www.linkedin.com/company/pet-engenharias         |
 | Estado                                      |  RS            |
 | Site                                        | nan |

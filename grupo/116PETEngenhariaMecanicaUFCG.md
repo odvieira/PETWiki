@@ -2,10 +2,10 @@
 title: PET Engenharia Mecanica - UFCG
 description: grupo da Universidade Federal de Campina Grande
 published: true
-date: 2023-11-30T17:36:26.325757
+date: 2023-11-30T17:55:21.514747
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.325757
+dateCreated: 2023-11-30T17:55:21.514747
 ---
 
 # PET Engenharia Mecanica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.325757
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2012        |
-| Instagram                                   | https://instagram.com/petmeccampina         |
-| Facebook                                    | https://www.facebook.com/PetmecCg          |
+| Instagram                                   | https-//instagram.com/petmeccampina         |
+| Facebook                                    | https-//www.facebook.com/PetmecCg          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCsbVSffIKclcuvTmdQyzCug           |
-| Contato                                     | https://linktr.ee/PETMECCG         |
+| YouTube                                     | https-//www.youtube.com/channel/UCsbVSffIKclcuvTmdQyzCug           |
+| Contato                                     | https-//linktr.ee/PETMECCG         |
 | Estado                                      |  PB            |
 | Site                                        | nan |

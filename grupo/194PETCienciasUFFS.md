@@ -2,10 +2,10 @@
 title: PET Ciencias - UFFS
 description: grupo da Universidade Federal da Fronteira Sul
 published: true
-date: 2023-11-30T17:36:26.330747
+date: 2023-11-30T17:55:21.520743
 tags: Interdisciplinar,Meio Ambiente e Formacao e Professores - Ciencias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.330747
+dateCreated: 2023-11-30T17:55:21.520743
 ---
 
 # PET Ciencias
@@ -22,8 +22,8 @@ dateCreated: 2023-11-30T17:36:26.330747
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    | Meio Ambiente e Formacao e Professores - Ciencias          |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/pet_ciencias         |
-| Facebook                                    | https://www.facebook.com/PetCiencias          |
+| Instagram                                   | https-//instagram.com/pet_ciencias         |
+| Facebook                                    | https-//www.facebook.com/PetCiencias          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
 | Contato                                     | nan         |

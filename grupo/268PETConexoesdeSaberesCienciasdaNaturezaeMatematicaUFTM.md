@@ -2,10 +2,10 @@
 title: PET Conexoes de Saberes Ciencias da Natureza e Matematica - UFTM
 description: grupo da Universidade Federal do Triangulo Mineiro
 published: true
-date: 2023-11-30T17:36:26.336739
+date: 2023-11-30T17:55:21.526743
 tags: Interdisciplinar,Educacao e Formacao de Professores
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.336739
+dateCreated: 2023-11-30T17:55:21.526743
 ---
 
 # PET Conexoes de Saberes Ciencias da Natureza e Matematica
@@ -22,8 +22,8 @@ dateCreated: 2023-11-30T17:36:26.336739
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    | Educacao e Formacao de Professores          |
 | Ano de criacao                              | 2009        |
-| Instagram                                   | https://instagram.com/pet_cnm         |
-| Facebook                                    | https://www.facebook.com/pet.cnm.ciencias.da.natureza.e.matematica.4          |
+| Instagram                                   | https-//instagram.com/pet_cnm         |
+| Facebook                                    | https-//www.facebook.com/pet.cnm.ciencias.da.natureza.e.matematica.4          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
 | Contato                                     | nan         |

@@ -2,10 +2,10 @@
 title: GET Engenharia Computacional - UFJF
 description: grupo da Universidade Federal de Juiz de Fora
 published: true
-date: 2023-11-30T17:36:26.317749
+date: 2023-11-30T17:55:21.507740
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.317749
+dateCreated: 2023-11-30T17:55:21.507740
 ---
 
 # GET Engenharia Computacional
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.317749
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/get.engcomp         |
+| Instagram                                   | https-//instagram.com/get.engcomp         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCzgvhQpo6-WMS4CMP8qlhjQ           |
+| YouTube                                     | https-//www.youtube.com/channel/UCzgvhQpo6-WMS4CMP8qlhjQ           |
 | Contato                                     | nan         |
 | Estado                                      |  MG            |
 | Site                                        | www2.ufjf.br/estudante/pet-e-get/ |

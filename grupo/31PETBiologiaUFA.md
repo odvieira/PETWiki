@@ -2,10 +2,10 @@
 title: PET Biologia - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-30T17:36:26.318714
+date: 2023-11-30T17:55:21.508738
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.318714
+dateCreated: 2023-11-30T17:55:21.508738
 ---
 
 # PET Biologia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.318714
 | Eixo                                        | Ciencias Biologicas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1992        |
-| Instagram                                   | https://instagram.com/petbiologiaufam         |
-| Facebook                                    | https://web.facebook.com/petbiologiaufam/?view_public_for=237110539786459          |
+| Instagram                                   | https-//instagram.com/petbiologiaufam         |
+| Facebook                                    | https-//web.facebook.com/petbiologiaufam/?view_public_for=237110539786459          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCP65m75m0zgtyFOyYhtKDVA           |
-| Contato                                     | https://www.tiktok.com/@petbiologiaufam?_d=db7b2i7317e880&language=pt&sec_uid=MS4wLjABAAAASdswVoHCiAYgas8IQCkYMQs0ZF2vuI_jbHJ62ElvFPKbgQPA5ZluLc5ekzWrYNoF&share_author_id=6800655467677778950&u_code=db7al1gmckjg7d&timestamp=1595275955&user_id=6800655467677778950&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_app_name=musically&share_iid=6849197674659661574&source=h5_m         |
+| YouTube                                     | https-//www.youtube.com/channel/UCP65m75m0zgtyFOyYhtKDVA           |
+| Contato                                     | https-//www.tiktok.com/@petbiologiaufam?_d=db7b2i7317e880&language=pt&sec_uid=MS4wLjABAAAASdswVoHCiAYgas8IQCkYMQs0ZF2vuI_jbHJ62ElvFPKbgQPA5ZluLc5ekzWrYNoF&share_author_id=6800655467677778950&u_code=db7al1gmckjg7d&timestamp=1595275955&user_id=6800655467677778950&utm_source=copy&utm_campaign=client_share&utm_medium=android&share_app_name=musically&share_iid=6849197674659661574&source=h5_m         |
 | Estado                                      |  AM            |
 | Site                                        | nan |

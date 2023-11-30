@@ -2,10 +2,10 @@
 title: PET Acoes das Engenharias - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-30T17:36:26.317749
+date: 2023-11-30T17:55:21.506754
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.317749
+dateCreated: 2023-11-30T17:55:21.506754
 ---
 
 # PET Acoes das Engenharias
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.317749
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/pet.engenharias         |
-| Facebook                                    | https://www.facebook.com/petengenharias          |
+| Instagram                                   | https-//instagram.com/pet.engenharias         |
+| Facebook                                    | https-//www.facebook.com/petengenharias          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/user/PETEngenhariasUFAL           |
-| Contato                                     | https://www.linkedin.com/company/petengenharias/         |
+| YouTube                                     | https-//www.youtube.com/user/PETEngenhariasUFAL           |
+| Contato                                     | https-//www.linkedin.com/company/petengenharias/         |
 | Estado                                      |  AL            |
 | Site                                        | nan |

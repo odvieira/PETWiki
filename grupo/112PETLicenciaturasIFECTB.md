@@ -2,10 +2,10 @@
 title: PET Licenciaturas - IFECTB
 description: grupo da Instituto Federal de Educacao, Ciencia e Tecnologia da Bahia
 published: true
-date: 2023-11-30T17:36:26.324714
+date: 2023-11-30T17:55:21.514747
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.324714
+dateCreated: 2023-11-30T17:55:21.514747
 ---
 
 # PET Licenciaturas
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.324714
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2013        |
-| Instagram                                   | https://instagram.com/pet_licenciaturas         |
-| Facebook                                    | https://www.facebook.com/petlicenciaturasps          |
+| Instagram                                   | https-//instagram.com/pet_licenciaturas         |
+| Facebook                                    | https-//www.facebook.com/petlicenciaturasps          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCZZS04CDhgiuDfobQUG5icg/about           |
+| YouTube                                     | https-//www.youtube.com/channel/UCZZS04CDhgiuDfobQUG5icg/about           |
 | Contato                                     | nan         |
 | Estado                                      |  BA            |
 | Site                                        | nan |

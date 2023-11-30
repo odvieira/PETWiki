@@ -2,10 +2,10 @@
 title: Publicacoes de PET Nutricao - UFSC
 description: feed do grupo PET Nutricao - UFSC
 published: true
-date: 2023-11-30T17:36:26.499850
+date: 2023-11-30T17:55:21.647731
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.499850
+dateCreated: 2023-11-30T17:55:21.647731
 ---
 
 # PET Nutricao

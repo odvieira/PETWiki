@@ -2,10 +2,10 @@
 title: PET Economia Solidaria - UFSC
 description: grupo da Universidade Federal de Sao Carlos
 published: true
-date: 2023-11-30T17:36:26.336739
+date: 2023-11-30T17:55:21.527743
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.336739
+dateCreated: 2023-11-30T17:55:21.527743
 ---
 
 # PET Economia Solidaria
@@ -22,8 +22,8 @@ dateCreated: 2023-11-30T17:36:26.336739
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/pet_ecosol         |
-| Facebook                                    | https://www.facebook.com/PETEcosol          |
+| Instagram                                   | https-//instagram.com/pet_ecosol         |
+| Facebook                                    | https-//www.facebook.com/PETEcosol          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
 | Contato                                     | nan         |

@@ -2,10 +2,10 @@
 title: PET Fisica - UFP
 description: grupo da Universidade Federal da Paraiba
 published: true
-date: 2023-11-30T17:36:26.327746
+date: 2023-11-30T17:55:21.516746
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.327746
+dateCreated: 2023-11-30T17:55:21.516746
 ---
 
 # PET Fisica
@@ -22,7 +22,7 @@ dateCreated: 2023-11-30T17:36:26.327746
 | Eixo                                        | Ciencias Exatas e da Terra              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2009        |
-| Instagram                                   | https://instagram.com/petfisicaufpb         |
+| Instagram                                   | https-//instagram.com/petfisicaufpb         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |

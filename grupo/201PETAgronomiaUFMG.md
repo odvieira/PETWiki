@@ -2,10 +2,10 @@
 title: PET Agronomia - UFMG
 description: grupo da Universidade Federal de Minas Gerais
 published: true
-date: 2023-11-30T17:36:26.331748
+date: 2023-11-30T17:55:21.521736
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.331748
+dateCreated: 2023-11-30T17:55:21.521736
 ---
 
 # PET Agronomia
@@ -22,7 +22,7 @@ dateCreated: 2023-11-30T17:36:26.331748
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2001        |
-| Instagram                                   | https://instagram.com/petagronomiaufmg         |
+| Instagram                                   | https-//instagram.com/petagronomiaufmg         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |

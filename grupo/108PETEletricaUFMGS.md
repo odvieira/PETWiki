@@ -2,10 +2,10 @@
 title: PET Eletrica - UFMGS
 description: grupo da Universidade Federal de Mato Grosso do Sul
 published: true
-date: 2023-11-30T17:36:26.324714
+date: 2023-11-30T17:55:21.514747
 tags: Engenharias,Conservacao de energia eletrica, analises, simulacoes, otimizacoes, circuitos eletricos
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.324714
+dateCreated: 2023-11-30T17:55:21.514747
 ---
 
 # PET Eletrica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.324714
 | Eixo                                        | Engenharias              |
 | Tematica                                    | Conservacao de energia eletrica, analises, simulacoes, otimizacoes, circuitos eletricos          |
 | Ano de criacao                              | 1994        |
-| Instagram                                   | https://instagram.com/petelufms         |
-| Facebook                                    | https://www.facebook.com/petelufms/          |
+| Instagram                                   | https-//instagram.com/petelufms         |
+| Facebook                                    | https-//www.facebook.com/petelufms/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://youtube.com/channel/UC9KQM4uY6Vsr1h2hQh049wg           |
+| YouTube                                     | https-//youtube.com/channel/UC9KQM4uY6Vsr1h2hQh049wg           |
 | Contato                                     | nan         |
 | Estado                                      |  MS            |
 | Site                                        | engeletrica.ufms.br/pet/ |

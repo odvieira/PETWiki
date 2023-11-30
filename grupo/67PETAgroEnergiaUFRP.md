@@ -2,10 +2,10 @@
 title: PET AgroEnergia - UFRP
 description: grupo da Universidade Federal Rural de Pernambuco
 published: true
-date: 2023-11-30T17:36:26.321772
+date: 2023-11-30T17:55:21.510738
 tags: Ciencias Agrarias,Inovacao tecnologica
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.321772
+dateCreated: 2023-11-30T17:55:21.510738
 ---
 
 # PET AgroEnergia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.321772
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    | Inovacao tecnologica          |
 | Ano de criacao                              | 2012        |
-| Instagram                                   | https://instagram.com/petagroenergia         |
-| Facebook                                    | https://www.facebook.com/petagroenergia.ufrpe          |
-| Twitter                                     | https://twitter.com/petagroenergia           |
-| YouTube                                     | https://www.youtube.com/channel/UCuMZVkHYad8jwtEztNqzKrQ           |
-| Contato                                     | https://www.linkedin.com/in/pet-agroenergia-4937b6145/         |
+| Instagram                                   | https-//instagram.com/petagroenergia         |
+| Facebook                                    | https-//www.facebook.com/petagroenergia.ufrpe          |
+| Twitter                                     | https-//twitter.com/petagroenergia           |
+| YouTube                                     | https-//www.youtube.com/channel/UCuMZVkHYad8jwtEztNqzKrQ           |
+| Contato                                     | https-//www.linkedin.com/in/pet-agroenergia-4937b6145/         |
 | Estado                                      |  PE            |
 | Site                                        | nan |

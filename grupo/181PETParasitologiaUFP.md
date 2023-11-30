@@ -2,10 +2,10 @@
 title: PET Parasitologia - UFP
 description: grupo da Universidade Federal de Pernambuco
 published: true
-date: 2023-11-30T17:36:26.330747
+date: 2023-11-30T17:55:21.519743
 tags: Ciencias da Saude,area da saude
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.330747
+dateCreated: 2023-11-30T17:55:21.519743
 ---
 
 # PET Parasitologia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.330747
 | Eixo                                        | Ciencias da Saude              |
 | Tematica                                    | area da saude          |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petparasitoufpe         |
-| Facebook                                    | https://www.facebook.com/petparasitologiaufpe          |
+| Instagram                                   | https-//instagram.com/petparasitoufpe         |
+| Facebook                                    | https-//www.facebook.com/petparasitologiaufpe          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://cenapet.org/grupos/187/Petparasitologia           |
+| YouTube                                     | https-//cenapet.org/grupos/187/Petparasitologia           |
 | Contato                                     | nan         |
 | Estado                                      |  PE            |
 | Site                                        | nan |

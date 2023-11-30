@@ -2,10 +2,10 @@
 title: PET Educacao Fisica - Biomecanica - UFVSF
 description: grupo da Universidade Federal do Vale do Sao Francisco
 published: true
-date: 2023-11-30T17:36:26.335746
+date: 2023-11-30T17:55:21.525746
 tags: Ciencias da Saude,Biomecanica e Pratica Baseada em Evidencias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.335746
+dateCreated: 2023-11-30T17:55:21.525746
 ---
 
 # PET Educacao Fisica - Biomecanica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.335746
 | Eixo                                        | Ciencias da Saude              |
 | Tematica                                    | Biomecanica e Pratica Baseada em Evidencias          |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/pbe.univasf         |
-| Facebook                                    | https://www.facebook.com/PetBiomecanica          |
+| Instagram                                   | https-//instagram.com/pbe.univasf         |
+| Facebook                                    | https-//www.facebook.com/PetBiomecanica          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCrIM15Sp2XzJ4Nw2IxiE2zw           |
+| YouTube                                     | https-//www.youtube.com/channel/UCrIM15Sp2XzJ4Nw2IxiE2zw           |
 | Contato                                     | nan         |
 | Estado                                      |  PE            |
 | Site                                        | portais.univasf.edu.br/proen/departamentos/diretoria-de-programas-especiais-de-graduacao/programa-de-educacao-tutorial-pet |

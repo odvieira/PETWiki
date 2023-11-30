@@ -2,10 +2,10 @@
 title: PET Ciencia, Tecnologia e Inovacao - FUFA
 description: grupo da Fundacao Universidade Federal do Abc
 published: true
-date: 2023-11-30T17:36:26.332747
+date: 2023-11-30T17:55:21.522743
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.332747
+dateCreated: 2023-11-30T17:55:21.522743
 ---
 
 # PET Ciencia, Tecnologia e Inovacao
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.332747
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/pet.cti.ufabc         |
-| Facebook                                    | https://www.facebook.com/pet.cti.ufabc/          |
+| Instagram                                   | https-//instagram.com/pet.cti.ufabc         |
+| Facebook                                    | https-//www.facebook.com/pet.cti.ufabc/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/c/PETCTIUFABC           |
-| Contato                                     | https://www.linkedin.com/company/pet-cti-ufabc/         |
+| YouTube                                     | https-//www.youtube.com/c/PETCTIUFABC           |
+| Contato                                     | https-//www.linkedin.com/company/pet-cti-ufabc/         |
 | Estado                                      |  SP            |
 | Site                                        | prograd.ufabc.edu.br/pet |

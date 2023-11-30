@@ -2,10 +2,10 @@
 title: PET Educacao - UFV
 description: grupo da Universidade Federal de Vicosa
 published: true
-date: 2023-11-30T17:36:26.321772
+date: 2023-11-30T17:55:21.510738
 tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.321772
+dateCreated: 2023-11-30T17:55:21.510738
 ---
 
 # PET Educacao
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.321772
 | Eixo                                        | Ciencias Humanas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/peteduufv         |
-| Facebook                                    | https://cenapet.org/grupos/66/PET%20Educa%C3%A7%C3%A3o%20UFV          |
+| Instagram                                   | https-//instagram.com/peteduufv         |
+| Facebook                                    | https-//cenapet.org/grupos/66/PET%20Educa%C3%A7%C3%A3o%20UFV          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://cenapet.org/grupos/66/PET%20EDU%20UFV:%20https://www.youtube.com/channel/UCpa0PmfTMiYEofv2b4sfYSA           |
+| YouTube                                     | https-//cenapet.org/grupos/66/PET%20EDU%20UFV-%20https-//www.youtube.com/channel/UCpa0PmfTMiYEofv2b4sfYSA           |
 | Contato                                     | nan         |
 | Estado                                      |  MG            |
 | Site                                        | nan |

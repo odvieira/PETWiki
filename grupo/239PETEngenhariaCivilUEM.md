@@ -2,10 +2,10 @@
 title: PET Engenharia Civil - UEM
 description: grupo da Universidade Estadual de Maringa
 published: true
-date: 2023-11-30T17:36:26.334749
+date: 2023-11-30T17:55:21.524746
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.334749
+dateCreated: 2023-11-30T17:55:21.524746
 ---
 
 # PET Engenharia Civil
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.334749
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2012        |
-| Instagram                                   | https://instagram.com/petciviluem         |
-| Facebook                                    | https://www.facebook.com/petciviluem          |
+| Instagram                                   | https-//instagram.com/petciviluem         |
+| Facebook                                    | https-//www.facebook.com/petciviluem          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCpM_aNC9iIWbCiYQxYrvBuA           |
-| Contato                                     | https://www.linkedin.com/company/petciviluem         |
+| YouTube                                     | https-//www.youtube.com/channel/UCpM_aNC9iIWbCiYQxYrvBuA           |
+| Contato                                     | https-//www.linkedin.com/company/petciviluem         |
 | Estado                                      |  PR            |
 | Site                                        | nan |

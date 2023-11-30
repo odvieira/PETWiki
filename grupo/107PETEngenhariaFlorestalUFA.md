@@ -2,10 +2,10 @@
 title: PET Engenharia Florestal - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-30T17:36:26.324714
+date: 2023-11-30T17:55:21.514747
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.324714
+dateCreated: 2023-11-30T17:55:21.514747
 ---
 
 # PET Engenharia Florestal
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.324714
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1993        |
-| Instagram                                   | https://instagram.com/petflorestal_ufam         |
-| Facebook                                    | https://facebook.com/petflorestal.ufam/          |
+| Instagram                                   | https-//instagram.com/petflorestal_ufam         |
+| Facebook                                    | https-//facebook.com/petflorestal.ufam/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UC8QDtg2xfrtfdjt2nlMrL7Q           |
+| YouTube                                     | https-//www.youtube.com/channel/UC8QDtg2xfrtfdjt2nlMrL7Q           |
 | Contato                                     | nan         |
 | Estado                                      |  AM            |
 | Site                                        | nan |

@@ -2,10 +2,10 @@
 title: PET Agronomia - UFP
 description: grupo da Universidade Federal de Pelotas
 published: true
-date: 2023-11-30T17:36:26.330747
+date: 2023-11-30T17:55:21.520743
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.330747
+dateCreated: 2023-11-30T17:55:21.520743
 ---
 
 # PET Agronomia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.330747
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1964        |
-| Instagram                                   | https://instagram.com/petagroufpel         |
-| Facebook                                    | https://www.facebook.com/petagronomia.ufpel          |
+| Instagram                                   | https-//instagram.com/petagroufpel         |
+| Facebook                                    | https-//www.facebook.com/petagronomia.ufpel          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UC2M_DWz-RH9x0gvnTqz6ghw           |
+| YouTube                                     | https-//www.youtube.com/channel/UC2M_DWz-RH9x0gvnTqz6ghw           |
 | Contato                                     | nan         |
 | Estado                                      |  RS            |
 | Site                                        | wp.ufpel.edu.br/cec/pet/ |

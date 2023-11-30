@@ -2,10 +2,10 @@
 title: Publicacoes de PET Zootecnia - FUFT
 description: feed do grupo PET Zootecnia - FUFT
 published: true
-date: 2023-11-30T17:36:26.544851
+date: 2023-11-30T17:55:21.679812
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.544851
+dateCreated: 2023-11-30T17:55:21.679812
 ---
 
 # PET Zootecnia

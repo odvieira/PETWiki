@@ -2,10 +2,10 @@
 title: PET Fisica - UEL
 description: grupo da Universidade Estadual de Londrina
 published: true
-date: 2023-11-30T17:36:26.333748
+date: 2023-11-30T17:55:21.523744
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.333748
+dateCreated: 2023-11-30T17:55:21.523744
 ---
 
 # PET Fisica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.333748
 | Eixo                                        | Ciencias Exatas e da Terra              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1991        |
-| Instagram                                   | https://instagram.com/petfisicauel         |
-| Facebook                                    | https://facebook.com/uel.petfisica/          |
+| Instagram                                   | https-//instagram.com/petfisicauel         |
+| Facebook                                    | https-//facebook.com/uel.petfisica/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCIYogtmqDhbBLyJhr-wThpQ           |
-| Contato                                     | https://www.instagram.com/petfisicauel/         |
+| YouTube                                     | https-//www.youtube.com/channel/UCIYogtmqDhbBLyJhr-wThpQ           |
+| Contato                                     | https-//www.instagram.com/petfisicauel/         |
 | Estado                                      |  PR            |
 | Site                                        | nan |

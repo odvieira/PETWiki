@@ -2,10 +2,10 @@
 title: Publicacoes de PET Farmacia - UEPJMF
 description: feed do grupo PET Farmacia - UEPJMF
 published: true
-date: 2023-11-30T17:36:26.529850
+date: 2023-11-30T17:55:21.669806
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.529850
+dateCreated: 2023-11-30T17:55:21.669806
 ---
 
 # PET Farmacia

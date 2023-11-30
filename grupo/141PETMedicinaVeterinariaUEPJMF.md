@@ -2,10 +2,10 @@
 title: PET Medicina Veterinaria - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-30T17:36:26.327746
+date: 2023-11-30T17:55:21.516746
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.327746
+dateCreated: 2023-11-30T17:55:21.516746
 ---
 
 # PET Medicina Veterinaria
@@ -22,8 +22,8 @@ dateCreated: 2023-11-30T17:36:26.327746
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1982        |
-| Instagram                                   | https://instagram.com/petvetfcav         |
-| Facebook                                    | https://facebook.com/petvet.fcav          |
+| Instagram                                   | https-//instagram.com/petvetfcav         |
+| Facebook                                    | https-//facebook.com/petvet.fcav          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
 | Contato                                     | nan         |

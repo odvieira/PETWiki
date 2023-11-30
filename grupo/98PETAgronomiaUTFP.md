@@ -2,10 +2,10 @@
 title: PET Agronomia - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-30T17:36:26.323747
+date: 2023-11-30T17:55:21.513747
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.323747
+dateCreated: 2023-11-30T17:55:21.513747
 ---
 
 # PET Agronomia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.323747
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2006        |
-| Instagram                                   | https://instagram.com/petagronomiautfpr         |
+| Instagram                                   | https-//instagram.com/petagronomiautfpr         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/user/PETAgroUTFPR           |
+| YouTube                                     | https-//www.youtube.com/user/PETAgroUTFPR           |
 | Contato                                     | nan         |
 | Estado                                      |  PR            |
 | Site                                        | portal.utfpr.edu.br/cursos/coordenacoes/graduacao/pato-branco/pb-agronomia/area-academica/projetos-de-graduacao |

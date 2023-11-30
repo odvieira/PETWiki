@@ -2,10 +2,10 @@
 title: Publicacoes de PET Conexoes Licenciaturas - UFES
 description: feed do grupo PET Conexoes Licenciaturas - UFES
 published: true
-date: 2023-11-30T17:36:26.459166
+date: 2023-11-30T17:55:21.625736
 tags: Interdisciplinar,Docencia
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.459166
+dateCreated: 2023-11-30T17:55:21.625736
 ---
 
 # PET Conexoes Licenciaturas

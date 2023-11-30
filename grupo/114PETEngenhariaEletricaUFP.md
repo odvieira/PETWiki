@@ -2,10 +2,10 @@
 title: PET Engenharia Eletrica - UFP
 description: grupo da Universidade Federal da Paraiba
 published: true
-date: 2023-11-30T17:36:26.325757
+date: 2023-11-30T17:55:21.514747
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.325757
+dateCreated: 2023-11-30T17:55:21.514747
 ---
 
 # PET Engenharia Eletrica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.325757
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2013        |
-| Instagram                                   | https://instagram.com/peteletrica         |
+| Instagram                                   | https-//instagram.com/peteletrica         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/c/PETEl%C3%A9tricaUFPBMinicursos           |
+| YouTube                                     | https-//www.youtube.com/c/PETEl%C3%A9tricaUFPBMinicursos           |
 | Contato                                     | nan         |
 | Estado                                      |  PB            |
 | Site                                        | nan |

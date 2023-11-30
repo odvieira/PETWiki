@@ -2,10 +2,10 @@
 title: Publicacoes de PET Conexoes de Saberes - Licenciaturas e Servico Social - UFTM
 description: feed do grupo PET Conexoes de Saberes - Licenciaturas e Servico Social - UFTM
 published: true
-date: 2023-11-30T17:36:26.479865
+date: 2023-11-30T17:55:21.634767
 tags: Interdisciplinar,Trabalho,educacao,educacao popular,meio ambiente,questao social
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.479865
+dateCreated: 2023-11-30T17:55:21.634767
 ---
 
 # PET Conexoes de Saberes - Licenciaturas e Servico Social

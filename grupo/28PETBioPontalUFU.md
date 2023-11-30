@@ -2,10 +2,10 @@
 title: PET Bio Pontal - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-30T17:36:26.318714
+date: 2023-11-30T17:55:21.507740
 tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.318714
+dateCreated: 2023-11-30T17:55:21.507740
 ---
 
 # PET Bio Pontal
@@ -22,8 +22,8 @@ dateCreated: 2023-11-30T17:36:26.318714
 | Eixo                                        | Ciencias Biologicas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2009        |
-| Instagram                                   | https://instagram.com/petbiopontal         |
-| Facebook                                    | https://www.facebook.com/petbiopontal          |
+| Instagram                                   | https-//instagram.com/petbiopontal         |
+| Facebook                                    | https-//www.facebook.com/petbiopontal          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
 | Contato                                     | nan         |

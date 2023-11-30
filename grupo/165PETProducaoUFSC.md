@@ -2,10 +2,10 @@
 title: PET Producao - UFSC
 description: grupo da Universidade Federal de Sao Carlos
 published: true
-date: 2023-11-30T17:36:26.328746
+date: 2023-11-30T17:55:21.518743
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.328746
+dateCreated: 2023-11-30T17:55:21.518743
 ---
 
 # PET Producao
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.328746
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1991        |
-| Instagram                                   | https://instagram.com/petproducao         |
-| Facebook                                    | https://www.facebook.com/petproducao/          |
+| Instagram                                   | https-//instagram.com/petproducao         |
+| Facebook                                    | https-//www.facebook.com/petproducao/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/user/petproducaoufscar           |
-| Contato                                     | https://www.linkedin.com/company/petproducaoufscar/?viewAsMember=true         |
+| YouTube                                     | https-//www.youtube.com/user/petproducaoufscar           |
+| Contato                                     | https-//www.linkedin.com/company/petproducaoufscar/?viewAsMember=true         |
 | Estado                                      |  SP            |
 | Site                                        | nan |

@@ -2,10 +2,10 @@
 title: PET Engenharia Civil - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-30T17:36:26.321772
+date: 2023-11-30T17:55:21.511737
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.321772
+dateCreated: 2023-11-30T17:55:21.511737
 ---
 
 # PET Engenharia Civil
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.321772
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1988        |
-| Instagram                                   | https://instagram.com/petcivilufal         |
-| Facebook                                    | https://www.facebook.com/petcvufal          |
+| Instagram                                   | https-//instagram.com/petcivilufal         |
+| Facebook                                    | https-//www.facebook.com/petcvufal          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/PETCivilUFAL           |
+| YouTube                                     | https-//www.youtube.com/PETCivilUFAL           |
 | Contato                                     | nan         |
 | Estado                                      |  AL            |
 | Site                                        | ufal.br/estudante/graduacao/programas/educacao-tutorial-pet/pet-engenharia-civil |

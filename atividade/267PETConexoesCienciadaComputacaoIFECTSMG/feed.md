@@ -2,10 +2,10 @@
 title: Publicacoes de PET Conexoes Ciencia da Computacao - IFECTSMG
 description: feed do grupo PET Conexoes Ciencia da Computacao - IFECTSMG
 published: true
-date: 2023-11-30T17:36:26.548850
+date: 2023-11-30T17:55:21.683806
 tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.548850
+dateCreated: 2023-11-30T17:55:21.683806
 ---
 
 # PET Conexoes Ciencia da Computacao

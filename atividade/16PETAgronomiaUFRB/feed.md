@@ -2,10 +2,10 @@
 title: Publicacoes de PET Agronomia - UFRB
 description: feed do grupo PET Agronomia - UFRB
 published: true
-date: 2023-11-30T17:36:26.457006
+date: 2023-11-30T17:55:21.619740
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.457006
+dateCreated: 2023-11-30T17:55:21.619740
 ---
 
 # PET Agronomia

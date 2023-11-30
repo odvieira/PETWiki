@@ -2,10 +2,10 @@
 title: PET Medicina UFTM - UFTM
 description: grupo da Universidade Federal do Triangulo Mineiro
 published: true
-date: 2023-11-30T17:36:26.328746
+date: 2023-11-30T17:55:21.517743
 tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.328746
+dateCreated: 2023-11-30T17:55:21.517743
 ---
 
 # PET Medicina UFTM
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.328746
 | Eixo                                        | Ciencias da Saude              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1988        |
-| Instagram                                   | https://instagram.com/petmeduftm         |
-| Facebook                                    | https://www.facebook.com/PET-Medicina-UFTM-361684677236765/          |
+| Instagram                                   | https-//instagram.com/petmeduftm         |
+| Facebook                                    | https-//www.facebook.com/PET-Medicina-UFTM-361684677236765/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCPFxKJzRLHcsvJTA9DOZP6A           |
+| YouTube                                     | https-//www.youtube.com/channel/UCPFxKJzRLHcsvJTA9DOZP6A           |
 | Contato                                     | nan         |
 | Estado                                      |  MG            |
 | Site                                        | nan |

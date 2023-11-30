@@ -2,10 +2,10 @@
 title: PET Engenharia Eletrica - UFB
 description: grupo da Universidade Federal da Bahia
 published: true
-date: 2023-11-30T17:36:26.326747
+date: 2023-11-30T17:55:21.516746
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.326747
+dateCreated: 2023-11-30T17:55:21.516746
 ---
 
 # PET Engenharia Eletrica
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.326747
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2009        |
-| Instagram                                   | https://instagram.com/peteletricaufba         |
+| Instagram                                   | https-//instagram.com/peteletricaufba         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/user/PETeletricaUFBA           |
+| YouTube                                     | https-//www.youtube.com/user/PETeletricaUFBA           |
 | Contato                                     | nan         |
 | Estado                                      |  BA            |
 | Site                                        | nan |

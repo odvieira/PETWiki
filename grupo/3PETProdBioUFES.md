@@ -2,10 +2,10 @@
 title: PET ProdBio - UFES
 description: grupo da Universidade Federal do Espirito Santo
 published: true
-date: 2023-11-30T17:36:26.316715
+date: 2023-11-30T17:55:21.505745
 tags: Interdisciplinar,Pesca
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.316715
+dateCreated: 2023-11-30T17:55:21.505745
 ---
 
 # PET ProdBio
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.316715
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    | Pesca          |
 | Ano de criacao                              | 2013        |
-| Instagram                                   | https://instagram.com/petprodbio         |
-| Facebook                                    | https://www.facebook.com/PETProdBio/          |
+| Instagram                                   | https-//instagram.com/petprodbio         |
+| Facebook                                    | https-//www.facebook.com/PETProdBio/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UC3T_Aw60h1Dp0qopqIGZG9Q           |
-| Contato                                     | https://petprodbio.wixsite.com/petinforma         |
+| YouTube                                     | https-//www.youtube.com/channel/UC3T_Aw60h1Dp0qopqIGZG9Q           |
+| Contato                                     | https-//petprodbio.wixsite.com/petinforma         |
 | Estado                                      |  ES            |
 | Site                                        | www.prograd.ufes.br/programa-de-educacao-tutorial-pet |

@@ -2,10 +2,10 @@
 title: PET Conexoes Licenciaturas - UFES
 description: grupo da Universidade Federal do Espirito Santo
 published: true
-date: 2023-11-30T17:36:26.319751
+date: 2023-11-30T17:55:21.508738
 tags: Interdisciplinar,Docencia
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.319751
+dateCreated: 2023-11-30T17:55:21.508738
 ---
 
 # PET Conexoes Licenciaturas
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.319751
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    | Docencia          |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petlicufes         |
-| Facebook                                    | https://www.facebook.com/petlicufes          |
-| Twitter                                     | https://twitter.com/petlic_ufes           |
-| YouTube                                     | https://www.youtube.com/channel/UCUnudVOLbn3KmqIj3XYNyBA           |
+| Instagram                                   | https-//instagram.com/petlicufes         |
+| Facebook                                    | https-//www.facebook.com/petlicufes          |
+| Twitter                                     | https-//twitter.com/petlic_ufes           |
+| YouTube                                     | https-//www.youtube.com/channel/UCUnudVOLbn3KmqIj3XYNyBA           |
 | Contato                                     | nan         |
 | Estado                                      |  ES            |
 | Site                                        | prograd.ufes.br/programa-de-educacao-tutorial-pet |

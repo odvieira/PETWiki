@@ -2,10 +2,10 @@
 title: PET Farmacia - UFMGS
 description: grupo da Universidade Federal de Mato Grosso do Sul
 published: true
-date: 2023-11-30T17:36:26.329750
+date: 2023-11-30T17:55:21.519743
 tags: Ciencias da Saude,Uso Racional de Medicamentos
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.329750
+dateCreated: 2023-11-30T17:55:21.519743
 ---
 
 # PET Farmacia
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.329750
 | Eixo                                        | Ciencias da Saude              |
 | Tematica                                    | Uso Racional de Medicamentos          |
 | Ano de criacao                              | 2007        |
-| Instagram                                   | https://instagram.com/petfarmaciaufms         |
-| Facebook                                    | https://www.facebook.com/petfarmaciaufms/          |
+| Instagram                                   | https-//instagram.com/petfarmaciaufms         |
+| Facebook                                    | https-//www.facebook.com/petfarmaciaufms/          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UC4F3VaLL94I_MIqr5_lXkYQ           |
-| Contato                                     | https://linktr.ee/PET_FarmaUFMS         |
+| YouTube                                     | https-//www.youtube.com/channel/UC4F3VaLL94I_MIqr5_lXkYQ           |
+| Contato                                     | https-//linktr.ee/PET_FarmaUFMS         |
 | Estado                                      |  MS            |
 | Site                                        | nan |

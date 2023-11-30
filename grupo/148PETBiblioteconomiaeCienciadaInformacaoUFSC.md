@@ -2,10 +2,10 @@
 title: PET Biblioteconomia e Ciencia da Informacao - UFSC
 description: grupo da Universidade Federal de Sao Carlos
 published: true
-date: 2023-11-30T17:36:26.327746
+date: 2023-11-30T17:55:21.517743
 tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.327746
+dateCreated: 2023-11-30T17:55:21.517743
 ---
 
 # PET Biblioteconomia e Ciencia da Informacao
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.327746
 | Eixo                                        | Ciencias Sociais Aplicadas              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petbci         |
-| Facebook                                    | https://www.facebook.com/petbci          |
-| Twitter                                     | https://twitter.com/petbciufscar           |
-| YouTube                                     | https://www.youtube.com/petbciufscar           |
-| Contato                                     | https://www.linkedin.com/company/pet-bci-ufscar/about/         |
+| Instagram                                   | https-//instagram.com/petbci         |
+| Facebook                                    | https-//www.facebook.com/petbci          |
+| Twitter                                     | https-//twitter.com/petbciufscar           |
+| YouTube                                     | https-//www.youtube.com/petbciufscar           |
+| Contato                                     | https-//www.linkedin.com/company/pet-bci-ufscar/about/         |
 | Estado                                      |  SP            |
 | Site                                        | nan |

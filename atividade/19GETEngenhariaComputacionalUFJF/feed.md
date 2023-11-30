@@ -2,10 +2,10 @@
 title: Publicacoes de GET Engenharia Computacional - UFJF
 description: feed do grupo GET Engenharia Computacional - UFJF
 published: true
-date: 2023-11-30T17:36:26.458005
+date: 2023-11-30T17:55:21.620015
 tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.458005
+dateCreated: 2023-11-30T17:55:21.620015
 ---
 
 # GET Engenharia Computacional

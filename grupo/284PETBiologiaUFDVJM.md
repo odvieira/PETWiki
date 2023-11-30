@@ -2,10 +2,10 @@
 title: PET Biologia - UFDVJM
 description: grupo da Universidade Federal Dos Vales do Jequitinhonha e Mucuri
 published: true
-date: 2023-11-30T17:36:26.337739
+date: 2023-11-30T17:55:21.527743
 tags: Ciencias Biologicas,Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.337739
+dateCreated: 2023-11-30T17:55:21.527743
 ---
 
 # PET Biologia
@@ -25,7 +25,7 @@ dateCreated: 2023-11-30T17:36:26.337739
 | Instagram                                   | nan         |
 | Facebook                                    | nan          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UClBStY4P0doIFHZPcf7VrFg           |
+| YouTube                                     | https-//www.youtube.com/channel/UClBStY4P0doIFHZPcf7VrFg           |
 | Contato                                     | nan         |
 | Estado                                      |  MG            |
 | Site                                        | ufvjm.edu.br/prograd/pet-programa-de-educacao-tutorial.html |

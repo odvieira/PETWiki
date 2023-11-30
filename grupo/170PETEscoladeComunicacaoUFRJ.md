@@ -2,10 +2,10 @@
 title: PET Escola de Comunicacao - UFRJ
 description: grupo da Universidade Federal do Rio de Janeiro
 published: true
-date: 2023-11-30T17:36:26.329750
+date: 2023-11-30T17:55:21.519743
 tags: Ciencias Sociais Aplicadas,Comunicacao social
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.329750
+dateCreated: 2023-11-30T17:55:21.519743
 ---
 
 # PET Escola de Comunicacao
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.329750
 | Eixo                                        | Ciencias Sociais Aplicadas              |
 | Tematica                                    | Comunicacao social          |
 | Ano de criacao                              | 2012        |
-| Instagram                                   | https://instagram.com/petecoufrj         |
-| Facebook                                    | https://www.facebook.com/petecoufrj          |
-| Twitter                                     | https://twitter.com/petecoufrj           |
-| YouTube                                     | https://www.youtube.com/channel/UC9A6EyDMalG_gPFLYlCaa3g           |
+| Instagram                                   | https-//instagram.com/petecoufrj         |
+| Facebook                                    | https-//www.facebook.com/petecoufrj          |
+| Twitter                                     | https-//twitter.com/petecoufrj           |
+| YouTube                                     | https-//www.youtube.com/channel/UC9A6EyDMalG_gPFLYlCaa3g           |
 | Contato                                     | nan         |
 | Estado                                      |  RJ            |
 | Site                                        | nan |

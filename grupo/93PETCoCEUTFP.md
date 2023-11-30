@@ -2,10 +2,10 @@
 title: PET CoCE - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-30T17:36:26.323747
+date: 2023-11-30T17:55:21.513747
 tags: Interdisciplinar,Computacao e Inclusao
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.323747
+dateCreated: 2023-11-30T17:55:21.513747
 ---
 
 # PET CoCE
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.323747
 | Eixo                                        | Interdisciplinar              |
 | Tematica                                    | Computacao e Inclusao          |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petcoce_utfpr         |
-| Facebook                                    | https://facebook.com/petcoce          |
+| Instagram                                   | https-//instagram.com/petcoce_utfpr         |
+| Facebook                                    | https-//facebook.com/petcoce          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCeVybTTPnKXIzhtgzP1fX2A           |
+| YouTube                                     | https-//www.youtube.com/channel/UCeVybTTPnKXIzhtgzP1fX2A           |
 | Contato                                     | nan         |
 | Estado                                      |  PR            |
 | Site                                        | www.dainf.ct.utfpr.edu.br/petcoce/ |

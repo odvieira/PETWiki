@@ -2,10 +2,10 @@
 title: PET Agronomia - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-30T17:36:26.333748
+date: 2023-11-30T17:55:21.523744
 tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.333748
+dateCreated: 2023-11-30T17:55:21.523744
 ---
 
 # PET Agronomia
@@ -22,8 +22,8 @@ dateCreated: 2023-11-30T17:36:26.333748
 | Eixo                                        | Ciencias Agrarias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 1995        |
-| Instagram                                   | https://instagram.com/petagrobotucatu         |
-| Facebook                                    | https://www.facebook.com/fcapetagronomia          |
+| Instagram                                   | https-//instagram.com/petagrobotucatu         |
+| Facebook                                    | https-//www.facebook.com/fcapetagronomia          |
 | Twitter                                     | nan           |
 | YouTube                                     | nan           |
 | Contato                                     | nan         |

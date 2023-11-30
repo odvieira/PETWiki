@@ -2,10 +2,10 @@
 title: PET Engenharias da Mobilidade - UFSC
 description: grupo da Universidade Federal de Santa Catarina
 published: true
-date: 2023-11-30T17:36:26.322716
+date: 2023-11-30T17:55:21.511737
 tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-30T17:36:26.322716
+dateCreated: 2023-11-30T17:55:21.511737
 ---
 
 # PET Engenharias da Mobilidade
@@ -22,10 +22,10 @@ dateCreated: 2023-11-30T17:36:26.322716
 | Eixo                                        | Engenharias              |
 | Tematica                                    |           |
 | Ano de criacao                              | 2010        |
-| Instagram                                   | https://instagram.com/petembufsc         |
-| Facebook                                    | https://www.facebook.com/petembufsc          |
+| Instagram                                   | https-//instagram.com/petembufsc         |
+| Facebook                                    | https-//www.facebook.com/petembufsc          |
 | Twitter                                     | nan           |
-| YouTube                                     | https://www.youtube.com/channel/UCq6kdbBkf0RAGTuSzhMk_Vg/featured           |
-| Contato                                     | https://www.linkedin.com/company/pet-emb/about/         |
+| YouTube                                     | https-//www.youtube.com/channel/UCq6kdbBkf0RAGTuSzhMk_Vg/featured           |
+| Contato                                     | https-//www.linkedin.com/company/pet-emb/about/         |
 | Estado                                      |  SC            |
 | Site                                        | petemb.ufsc.br/ |
