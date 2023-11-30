@@ -1,0 +1,12 @@
+---
+title: Publicacoes de PET-Letras - UFTM
+description: feed do grupo PET-Letras - UFTM
+published: true
+date: 2023-11-30T17:36:26.553850
+tags: Linguistica, Letras e Arte
+editor: markdown
+dateCreated: 2023-11-30T17:36:26.553850
+---
+
+# PET-Letras
+[PET-Letras - UFTM](/grupo/279PETLetrasUFTM.md)

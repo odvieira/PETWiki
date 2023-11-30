@@ -1,0 +1,12 @@
+---
+title: Publicacoes de PET Floresta - UFRRJ
+description: feed do grupo PET Floresta - UFRRJ
+published: true
+date: 2023-11-30T17:36:26.493851
+tags: Ciencias Agrarias,Praticas Sustentaveis
+editor: markdown
+dateCreated: 2023-11-30T17:36:26.493851
+---
+
+# PET Floresta
+[PET Floresta - UFRRJ](/grupo/115PETFlorestaUFRRJ.md)
