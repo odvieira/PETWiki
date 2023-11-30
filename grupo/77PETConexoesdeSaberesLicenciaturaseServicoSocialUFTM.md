@@ -2,14 +2,15 @@
 title: PET Conexoes de Saberes - Licenciaturas e Servico Social - UFTM
 description: grupo da Universidade Federal do Triangulo Mineiro
 published: true
-date: 2023-11-29T03:37:02.772468
+date: 2023-11-30T15:05:17.594781
 tags: Interdisciplinar, Trabalho/educacao/educacao popular/meio ambiente/questao social
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.772468
+dateCreated: 2023-11-30T15:05:17.594781
 ---
 
 # PET Conexoes de Saberes - Licenciaturas e Servico Social
 
+[Publicacoes de PET Conexoes de Saberes - Licenciaturas e Servico Social - UFTM](/atividade/77PETConexoesdeSaberesLicenciaturaseServicoSocialUFTM/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFTM         |
 | ------------------------------------------- | ------------------------------------------------- |

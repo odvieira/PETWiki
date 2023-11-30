@@ -2,14 +2,15 @@
 title: PET Educacao Fisica - UFMG
 description: grupo da Universidade Federal de Mato Grosso
 published: true
-date: 2023-11-29T03:37:02.787469
+date: 2023-11-30T15:05:17.607781
 tags: Ciencias da Saude, Desenvolvimento de programas de exercicios fisicos para saude
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.787469
+dateCreated: 2023-11-30T15:05:17.607781
 ---
 
 # PET Educacao Fisica
 
+[Publicacoes de PET Educacao Fisica - UFMG](/atividade/243PETEducacaoFisicaUFMG/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFMG         |
 | ------------------------------------------- | ------------------------------------------------- |

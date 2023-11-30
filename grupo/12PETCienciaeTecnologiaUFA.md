@@ -2,14 +2,15 @@
 title: PET Ciencia e Tecnologia - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-29T03:37:02.767469
+date: 2023-11-30T15:05:17.589782
 tags: Interdisciplinar, Programa de Apoio aos Estudantes das Escolas Publicas do Estado
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.767469
+dateCreated: 2023-11-30T15:05:17.589782
 ---
 
 # PET Ciencia e Tecnologia
 
+[Publicacoes de PET Ciencia e Tecnologia - UFA](/atividade/12PETCienciaeTecnologiaUFA/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,14 +2,15 @@
 title: PET Computacao UFPel - UFP
 description: grupo da Universidade Federal de Pelotas
 published: true
-date: 2023-11-29T03:37:02.782469
-tags: Ciencias Exatas e da Terra, nan
+date: 2023-11-30T15:05:17.602782
+tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.782469
+dateCreated: 2023-11-30T15:05:17.602782
 ---
 
 # PET Computacao UFPel
 
+[Publicacoes de PET Computacao UFPel - UFP](/atividade/186PETComputacaoUFPelUFP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.782469
 | Email                                       | pet@inf.ufpel.edu.br             |
 | Site                                        | wp.ufpel.edu.br/petcomp              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2009        |
 | Instagram                                   | https://instagram.com/computacao.ufpel         |
 | Facebook                                    | https://www.facebook.com/petcomputacaoufpel          |

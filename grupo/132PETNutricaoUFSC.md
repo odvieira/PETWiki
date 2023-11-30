@@ -2,14 +2,15 @@
 title: PET Nutricao - UFSC
 description: grupo da Universidade Federal de Santa Catarina
 published: true
-date: 2023-11-29T03:37:02.777470
-tags: Ciencias da Saude, nan
+date: 2023-11-30T15:05:17.598781
+tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.777470
+dateCreated: 2023-11-30T15:05:17.598781
 ---
 
 # PET Nutricao
 
+[Publicacoes de PET Nutricao - UFSC](/atividade/132PETNutricaoUFSC/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSC         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.777470
 | Email                                       | petntr@gmail.com             |
 | Site                                        | www.petnutriufsc.com/              |
 | Eixo                                        | Ciencias da Saude              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petnutriufsc         |
 | Facebook                                    | nan          |

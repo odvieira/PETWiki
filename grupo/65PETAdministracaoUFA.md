@@ -2,14 +2,15 @@
 title: PET Administracao - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-29T03:37:02.771468
-tags: Ciencias Sociais Aplicadas, nan
+date: 2023-11-30T15:05:17.593827
+tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.771468
+dateCreated: 2023-11-30T15:05:17.593827
 ---
 
 # PET Administracao
 
+[Publicacoes de PET Administracao - UFA](/atividade/65PETAdministracaoUFA/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.771468
 | Email                                       | petadmufam0@gmail.com             |
 | Site                                        | petadmufam.com.br              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1989        |
 | Instagram                                   | https://instagram.com/petadmufam         |
 | Facebook                                    | https://www.facebook.com/petadmufam/          |

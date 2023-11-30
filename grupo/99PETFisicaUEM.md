@@ -2,14 +2,15 @@
 title: PET Fisica - UEM
 description: grupo da Universidade Estadual de Maringa
 published: true
-date: 2023-11-29T03:37:02.774469
-tags: Ciencias Exatas e da Terra, nan
+date: 2023-11-30T15:05:17.596781
+tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.774469
+dateCreated: 2023-11-30T15:05:17.596781
 ---
 
 # PET Fisica
 
+[Publicacoes de PET Fisica - UEM](/atividade/99PETFisicaUEM/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEM         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.774469
 | Email                                       | petfisicauem@gmail.com             |
 | Site                                        | petfisicauem.wixsite.com/petfisicauem              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1991        |
 | Instagram                                   | https://instagram.com/petfisicauem         |
 | Facebook                                    | https://www.facebook.com/petfisicauem          |

@@ -2,14 +2,15 @@
 title: PET Geografia - UFF
 description: grupo da Universidade Federal Fluminense
 published: true
-date: 2023-11-29T03:37:02.770467
-tags: Ciencias Humanas, nan
+date: 2023-11-30T15:05:17.592813
+tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.770467
+dateCreated: 2023-11-30T15:05:17.592813
 ---
 
 # PET Geografia
 
+[Publicacoes de PET Geografia - UFF](/atividade/51PETGeografiaUFF/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFF         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.770467
 | Email                                       | petgeo.uff@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Humanas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1996        |
 | Instagram                                   | https://instagram.com/petgeografiauff         |
 | Facebook                                    | https://www.facebook.com/petgeografiauff          |

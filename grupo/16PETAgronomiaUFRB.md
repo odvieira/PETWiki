@@ -2,14 +2,15 @@
 title: PET Agronomia - UFRB
 description: grupo da Universidade Federal do Reconcavo da Bahia
 published: true
-date: 2023-11-29T03:37:02.768468
-tags: Ciencias Agrarias, nan
+date: 2023-11-30T15:05:17.589782
+tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.768468
+dateCreated: 2023-11-30T15:05:17.589782
 ---
 
 # PET Agronomia
 
+[Publicacoes de PET Agronomia - UFRB](/atividade/16PETAgronomiaUFRB/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRB         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.768468
 | Email                                       | petagronomiaufrb@gmail.com             |
 | Site                                        | www2.ufrb.edu.br/petagronomia/              |
 | Eixo                                        | Ciencias Agrarias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1988        |
 | Instagram                                   | https://instagram.com/petagronomiaufrb_oficial         |
 | Facebook                                    | nan          |

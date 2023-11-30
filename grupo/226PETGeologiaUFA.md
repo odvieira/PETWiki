@@ -2,14 +2,15 @@
 title: PET Geologia - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-29T03:37:02.786468
-tags: Ciencias Exatas e da Terra, nan
+date: 2023-11-30T15:05:17.605781
+tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.786468
+dateCreated: 2023-11-30T15:05:17.605781
 ---
 
 # PET Geologia
 
+[Publicacoes de PET Geologia - UFA](/atividade/226PETGeologiaUFA/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.786468
 | Email                                       | petgeologia@ufam.edu.br             |
 | Site                                        | petgeologiaufam.com              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2012        |
 | Instagram                                   | https://instagram.com/petgeologiaufam         |
 | Facebook                                    | https://www.facebook.com/petgeologiaufam          |

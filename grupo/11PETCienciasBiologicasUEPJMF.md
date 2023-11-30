@@ -2,14 +2,15 @@
 title: PET Ciencias Biologicas - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-29T03:37:02.767469
-tags: Ciencias Biologicas, nan
+date: 2023-11-30T15:05:17.589782
+tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.767469
+dateCreated: 2023-11-30T15:05:17.589782
 ---
 
 # PET Ciencias Biologicas
 
+[Publicacoes de PET Ciencias Biologicas - UEPJMF](/atividade/11PETCienciasBiologicasUEPJMF/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEPJMF         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.767469
 | Email                                       | petbiologiaibilce@gmail.com             |
 | Site                                        | petbiologiaibilce.wixsite.com/petbio              |
 | Eixo                                        | Ciencias Biologicas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1994        |
 | Instagram                                   | https://instagram.com/petbiologiaunesp         |
 | Facebook                                    | https://www.facebook.com/petbiologiaunespibilce          |

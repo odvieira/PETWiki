@@ -2,14 +2,15 @@
 title: PET Engenharia Agricola - FUFGD
 description: grupo da Fundacao Universidade Federal da Grande Dourados
 published: true
-date: 2023-11-29T03:37:02.778469
-tags: Ciencias Agrarias, nan
+date: 2023-11-30T15:05:17.599782
+tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.778469
+dateCreated: 2023-11-30T15:05:17.599782
 ---
 
 # PET Engenharia Agricola
 
+[Publicacoes de PET Engenharia Agricola - FUFGD](/atividade/145PETEngenhariaAgricolaFUFGD/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] FUFGD         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.778469
 | Email                                       | petengagricola@ufgd.edu.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/pet_engenharia_agricola_ufgd         |
 | Facebook                                    | https://facebook.com/petagricolaufgd/          |

@@ -2,14 +2,15 @@
 title: PET Economia - UFCG
 description: grupo da Universidade Federal de Campina Grande
 published: true
-date: 2023-11-29T03:37:02.778469
-tags: Ciencias Sociais Aplicadas, nan
+date: 2023-11-30T15:05:17.599782
+tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.778469
+dateCreated: 2023-11-30T15:05:17.599782
 ---
 
 # PET Economia
 
+[Publicacoes de PET Economia - UFCG](/atividade/138PETEconomiaUFCG/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFCG         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.778469
 | Email                                       | peteconomiaufcg@gmail.com             |
 | Site                                        | www.peteconomia.ufcg.edu.br              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1988        |
 | Instagram                                   | https://instagram.com/peteconufcg         |
 | Facebook                                    | nan          |

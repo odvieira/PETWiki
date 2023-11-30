@@ -2,14 +2,15 @@
 title: PET Praticas de Letramento - UFRP
 description: grupo da Universidade Federal Rural de Pernambuco
 published: true
-date: 2023-11-29T03:37:02.787469
-tags: Interdisciplinar, nan
+date: 2023-11-30T15:05:17.607781
+tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.787469
+dateCreated: 2023-11-30T15:05:17.607781
 ---
 
 # PET Praticas de Letramento
 
+[Publicacoes de PET Praticas de Letramento - UFRP](/atividade/246PETPraticasdeLetramentoUFRP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.787469
 | Email                                       | petletramento@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Interdisciplinar              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petletramentoufrpe         |
 | Facebook                                    | https://www.facebook.com/petletramentorural          |

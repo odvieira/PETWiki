@@ -2,14 +2,15 @@
 title: PET Agroflorestal - UFMGS
 description: grupo da Universidade Federal de Mato Grosso do Sul
 published: true
-date: 2023-11-29T03:37:02.790470
-tags: Ciencias Agrarias, nan
+date: 2023-11-30T15:05:17.608869
+tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.790470
+dateCreated: 2023-11-30T15:05:17.608869
 ---
 
 # PET Agroflorestal
 
+[Publicacoes de PET Agroflorestal - UFMGS](/atividade/283PETAgroflorestalUFMGS/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFMGS         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.790470
 | Email                                       | petagroflorestal@hotmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/pet_cpcs         |
 | Facebook                                    | nan          |

@@ -2,14 +2,15 @@
 title: PET Biologia - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-29T03:37:02.789469
-tags: Ciencias Biologicas, nan
+date: 2023-11-30T15:05:17.608869
+tags: Ciencias Biologicas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.789469
+dateCreated: 2023-11-30T15:05:17.608869
 ---
 
 # PET Biologia
 
+[Publicacoes de PET Biologia - UFSM](/atividade/264PETBiologiaUFSM/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSM         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.789469
 | Email                                       | petbioufsm@gmail.com             |
 | Site                                        | sites.google.com/site/petbioufsmrs/home              |
 | Eixo                                        | Ciencias Biologicas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petbioufsm         |
 | Facebook                                    | https://www.facebook.com/petbiologiaufsm          |

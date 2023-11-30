@@ -2,14 +2,15 @@
 title: PET Odontologia - UFP
 description: grupo da Universidade Federal de Pelotas
 published: true
-date: 2023-11-29T03:37:02.782469
-tags: Ciencias da Saude, nan
+date: 2023-11-30T15:05:17.602782
+tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.782469
+dateCreated: 2023-11-30T15:05:17.602782
 ---
 
 # PET Odontologia
 
+[Publicacoes de PET Odontologia - UFP](/atividade/187PETOdontologiaUFP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.782469
 | Email                                       | petodontologia2021@gmail.com             |
 | Site                                        | petodontoufpel.wixsite.com/petodontoufpel              |
 | Eixo                                        | Ciencias da Saude              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petodontologiaufpel         |
 | Facebook                                    | https://facebook.com/petodontologiaufpel          |

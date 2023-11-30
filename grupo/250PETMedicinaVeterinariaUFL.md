@@ -2,14 +2,15 @@
 title: PET Medicina Veterinaria - UFL
 description: grupo da Universidade Federal de Lavras
 published: true
-date: 2023-11-29T03:37:02.788469
-tags: Ciencias Agrarias, nan
+date: 2023-11-30T15:05:17.607781
+tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.788469
+dateCreated: 2023-11-30T15:05:17.607781
 ---
 
 # PET Medicina Veterinaria
 
+[Publicacoes de PET Medicina Veterinaria - UFL](/atividade/250PETMedicinaVeterinariaUFL/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFL         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.788469
 | Email                                       | petmvufla@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2013        |
 | Instagram                                   | https://instagram.com/petmvufla         |
 | Facebook                                    | https://www.facebook.com/petveterinariaufla/          |

@@ -2,14 +2,15 @@
 title: PET Administracao Publica - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-29T03:37:02.777470
-tags: Ciencias Sociais Aplicadas, nan
+date: 2023-11-30T15:05:17.597780
+tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.777470
+dateCreated: 2023-11-30T15:05:17.597780
 ---
 
 # PET Administracao Publica
 
+[Publicacoes de PET Administracao Publica - UEPJMF](/atividade/123PETAdministracaoPublicaUEPJMF/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEPJMF         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.777470
 | Email                                       | petadm@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petadmpublicaunesp         |
 | Facebook                                    | https://www.facebook.com/PETAdministracaoPublica          |

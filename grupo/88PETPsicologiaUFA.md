@@ -2,14 +2,15 @@
 title: PET Psicologia - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-29T03:37:02.773467
-tags: Ciencias Humanas, nan
+date: 2023-11-30T15:05:17.595782
+tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.773467
+dateCreated: 2023-11-30T15:05:17.595782
 ---
 
 # PET Psicologia
 
+[Publicacoes de PET Psicologia - UFA](/atividade/88PETPsicologiaUFA/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.773467
 | Email                                       | petpsico.ufal@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Humanas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2008        |
 | Instagram                                   | https://instagram.com/petpsicoufal         |
 | Facebook                                    | nan          |

@@ -2,14 +2,15 @@
 title: PET Direitos - USP
 description: grupo da Universidade de Sao Paulo
 published: true
-date: 2023-11-29T03:37:02.770467
-tags: Ciencias Sociais Aplicadas, nan
+date: 2023-11-30T15:05:17.592813
+tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.770467
+dateCreated: 2023-11-30T15:05:17.592813
 ---
 
 # PET Direitos
 
+[Publicacoes de PET Direitos - USP](/atividade/44PETDireitosUSP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] USP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.770467
 | Email                                       | pet_direitos@usp.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2012        |
 | Instagram                                   | https://instagram.com/petdireitos         |
 | Facebook                                    | https://www.facebook.com/PETDireitos          |

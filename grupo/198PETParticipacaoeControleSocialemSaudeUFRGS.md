@@ -2,14 +2,15 @@
 title: PET Participacao e Controle Social em Saude - UFRGS
 description: grupo da Universidade Federal do Rio Grande do Sul
 published: true
-date: 2023-11-29T03:37:02.783471
+date: 2023-11-30T15:05:17.603832
 tags: Ciencias da Saude, Participacao e Controle Social em Saude
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.783471
+dateCreated: 2023-11-30T15:05:17.603832
 ---
 
 # PET Participacao e Controle Social em Saude
 
+[Publicacoes de PET Participacao e Controle Social em Saude - UFRGS](/atividade/198PETParticipacaoeControleSocialemSaudeUFRGS/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRGS         |
 | ------------------------------------------- | ------------------------------------------------- |

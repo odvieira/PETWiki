@@ -2,14 +2,15 @@
 title: PET Matematica - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-29T03:37:02.783471
-tags: Ciencias Exatas e da Terra, nan
+date: 2023-11-30T15:05:17.603832
+tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.783471
+dateCreated: 2023-11-30T15:05:17.603832
 ---
 
 # PET Matematica
 
+[Publicacoes de PET Matematica - UFA](/atividade/197PETMatematicaUFA/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.783471
 | Email                                       | petmatematica2018@gmail.com             |
 | Site                                        | pet-mat-ufam.blogspot.com/              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2012        |
 | Instagram                                   | https://instagram.com/pet.mat.ufam         |
 | Facebook                                    | https://www.facebook.com/people/PET-Matem%C3%A1tica-UFAM/100063983024413/          |

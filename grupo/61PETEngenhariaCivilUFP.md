@@ -2,14 +2,15 @@
 title: PET Engenharia Civil - UFP
 description: grupo da Universidade Federal do Parana
 published: true
-date: 2023-11-29T03:37:02.771468
-tags: Engenharias, nan
+date: 2023-11-30T15:05:17.593827
+tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.771468
+dateCreated: 2023-11-30T15:05:17.593827
 ---
 
 # PET Engenharia Civil
 
+[Publicacoes de PET Engenharia Civil - UFP](/atividade/61PETEngenhariaCivilUFP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.771468
 | Email                                       | petcivilufpr@gmail.com             |
 | Site                                        | petcivil.blogspot.com/              |
 | Eixo                                        | Engenharias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1983        |
 | Instagram                                   | https://instagram.com/petcivilufpr         |
 | Facebook                                    | https://www.facebook.com/petcivil          |

@@ -2,14 +2,15 @@
 title: PET Engenharia Eletrica - UFP
 description: grupo da Universidade Federal da Paraiba
 published: true
-date: 2023-11-29T03:37:02.776471
-tags: Engenharias, nan
+date: 2023-11-30T15:05:17.597780
+tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.776471
+dateCreated: 2023-11-30T15:05:17.597780
 ---
 
 # PET Engenharia Eletrica
 
+[Publicacoes de PET Engenharia Eletrica - UFP](/atividade/114PETEngenhariaEletricaUFP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.776471
 | Email                                       | pet.eletrica@cear.ufpb.br             |
 | Site                                        | www.cear.ufpb.br/peteletrica              |
 | Eixo                                        | Engenharias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2013        |
 | Instagram                                   | https://instagram.com/peteletrica         |
 | Facebook                                    | nan          |

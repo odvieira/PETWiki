@@ -2,14 +2,15 @@
 title: PET Enfermagem - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-29T03:37:02.786468
-tags: Ciencias da Saude, nan
+date: 2023-11-30T15:05:17.606782
+tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.786468
+dateCreated: 2023-11-30T15:05:17.606782
 ---
 
 # PET Enfermagem
 
+[Publicacoes de PET Enfermagem - UFSM](/atividade/237PETEnfermagemUFSM/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSM         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.786468
 | Email                                       | petenfermagemufsm2013@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias da Saude              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2007        |
 | Instagram                                   | https://instagram.com/petenfermagemufsm         |
 | Facebook                                    | https://www.facebook.com/petenf.ufsm          |

@@ -2,14 +2,15 @@
 title: PET Administracao - UFRP
 description: grupo da Universidade Federal Rural de Pernambuco
 published: true
-date: 2023-11-29T03:37:02.778469
-tags: Ciencias Sociais Aplicadas, nan
+date: 2023-11-30T15:05:17.598781
+tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.778469
+dateCreated: 2023-11-30T15:05:17.598781
 ---
 
 # PET Administracao
 
+[Publicacoes de PET Administracao - UFRP](/atividade/133PETAdministracaoUFRP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.778469
 | Email                                       | petadmufrpe1@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petadmufrpe         |
 | Facebook                                    | https://www.facebook.com/PETADMINISTRACAOUFRPE/?show_switched_toast=0&show_switched_tooltip=0&show_podcast_settings=0          |

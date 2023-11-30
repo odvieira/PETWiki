@@ -2,14 +2,15 @@
 title: PET Educacao Fisica - UEM
 description: grupo da Universidade Estadual de Maringa
 published: true
-date: 2023-11-29T03:37:02.788469
+date: 2023-11-30T15:05:17.607781
 tags: Ciencias da Saude, Educacao Fisica
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.788469
+dateCreated: 2023-11-30T15:05:17.607781
 ---
 
 # PET Educacao Fisica
 
+[Publicacoes de PET Educacao Fisica - UEM](/atividade/252PETEducacaoFisicaUEM/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEM         |
 | ------------------------------------------- | ------------------------------------------------- |

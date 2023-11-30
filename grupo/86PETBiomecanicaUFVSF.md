@@ -2,14 +2,15 @@
 title: PET Biomecanica - UFVSF
 description: grupo da Universidade Federal do Vale do Sao Francisco
 published: true
-date: 2023-11-29T03:37:02.773467
+date: 2023-11-30T15:05:17.595782
 tags: Ciencias da Saude, Biomecanica e Pratica Baseada em Evidencias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.773467
+dateCreated: 2023-11-30T15:05:17.595782
 ---
 
 # PET Biomecanica
 
+[Publicacoes de PET Biomecanica - UFVSF](/atividade/86PETBiomecanicaUFVSF/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFVSF         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,14 +2,15 @@
 title: PET Engenharia Civil - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-29T03:37:02.789469
-tags: Engenharias, nan
+date: 2023-11-30T15:05:17.608869
+tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.789469
+dateCreated: 2023-11-30T15:05:17.608869
 ---
 
 # PET Engenharia Civil
 
+[Publicacoes de PET Engenharia Civil - UFSM](/atividade/263PETEngenhariaCivilUFSM/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSM         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.789469
 | Email                                       | petcivil@ufsm.br             |
 | Site                                        | nan              |
 | Eixo                                        | Engenharias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2013        |
 | Instagram                                   | https://instagram.com/petcivilufsm         |
 | Facebook                                    | https://www.facebook.com/petcivilufsm          |

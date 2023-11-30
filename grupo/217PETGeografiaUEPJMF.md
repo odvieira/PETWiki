@@ -2,14 +2,15 @@
 title: PET Geografia - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-29T03:37:02.785468
-tags: Ciencias Humanas, nan
+date: 2023-11-30T15:05:17.605781
+tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.785468
+dateCreated: 2023-11-30T15:05:17.605781
 ---
 
 # PET Geografia
 
+[Publicacoes de PET Geografia - UEPJMF](/atividade/217PETGeografiaUEPJMF/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEPJMF         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.785468
 | Email                                       | petgeorc@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Humanas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1994        |
 | Instagram                                   | https://instagram.com/petgeografiarc         |
 | Facebook                                    | https://www.facebook.com/petgeografia          |

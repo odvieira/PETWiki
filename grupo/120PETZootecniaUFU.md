@@ -2,14 +2,15 @@
 title: PET Zootecnia - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-29T03:37:02.776471
-tags: Ciencias Agrarias, nan
+date: 2023-11-30T15:05:17.597780
+tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.776471
+dateCreated: 2023-11-30T15:05:17.597780
 ---
 
 # PET Zootecnia
 
+[Publicacoes de PET Zootecnia - UFU](/atividade/120PETZootecniaUFU/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFU         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.776471
 | Email                                       | ufu.zoopet@gmail.com             |
 | Site                                        | www.petzoo.famev.ufu.br              |
 | Eixo                                        | Ciencias Agrarias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2011        |
 | Instagram                                   | https://instagram.com/zoopetufu         |
 | Facebook                                    | nan          |

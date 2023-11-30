@@ -2,14 +2,15 @@
 title: PET Geografia - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-29T03:37:02.789469
+date: 2023-11-30T15:05:17.608869
 tags: Ciencias Humanas, Acoes Afirmativas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.789469
+dateCreated: 2023-11-30T15:05:17.608869
 ---
 
 # PET Geografia
 
+[Publicacoes de PET Geografia - UFU](/atividade/266PETGeografiaUFU/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFU         |
 | ------------------------------------------- | ------------------------------------------------- |

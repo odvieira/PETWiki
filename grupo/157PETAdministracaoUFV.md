@@ -2,14 +2,15 @@
 title: PET Administracao - UFV
 description: grupo da Universidade Federal de Vicosa
 published: true
-date: 2023-11-29T03:37:02.780470
-tags: Ciencias Sociais Aplicadas, nan
+date: 2023-11-30T15:05:17.600780
+tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.780470
+dateCreated: 2023-11-30T15:05:17.600780
 ---
 
 # PET Administracao
 
+[Publicacoes de PET Administracao - UFV](/atividade/157PETAdministracaoUFV/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFV         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.780470
 | Email                                       | gestao.petadmufv@gmail.com             |
 | Site                                        | www.petadm.ufv.br/              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1988        |
 | Instagram                                   | https://instagram.com/pet.adm         |
 | Facebook                                    | https://www.facebook.com/pet.adm/          |

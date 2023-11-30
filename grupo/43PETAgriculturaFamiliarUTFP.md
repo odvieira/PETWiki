@@ -2,14 +2,15 @@
 title: PET Agricultura Familiar - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-29T03:37:02.770467
-tags: Ciencias Agrarias, nan
+date: 2023-11-30T15:05:17.591784
+tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.770467
+dateCreated: 2023-11-30T15:05:17.591784
 ---
 
 # PET Agricultura Familiar
 
+[Publicacoes de PET Agricultura Familiar - UTFP](/atividade/43PETAgriculturaFamiliarUTFP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UTFP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.770467
 | Email                                       | petafdv@gmail.com             |
 | Site                                        | www.petagriculturafamiliar.com              |
 | Eixo                                        | Ciencias Agrarias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petafdv         |
 | Facebook                                    | https://www.facebook.com/petagriculturafamiliar          |

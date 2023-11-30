@@ -2,14 +2,15 @@
 title: PET Agronomia - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-29T03:37:02.785468
-tags: Ciencias Agrarias, nan
+date: 2023-11-30T15:05:17.605781
+tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.785468
+dateCreated: 2023-11-30T15:05:17.605781
 ---
 
 # PET Agronomia
 
+[Publicacoes de PET Agronomia - UFA](/atividade/219PETAgronomiaUFA/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.785468
 | Email                                       | petagronomia@ufam.edu.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2012        |
 | Instagram                                   | https://instagram.com/petagronomia.ufam         |
 | Facebook                                    | nan          |

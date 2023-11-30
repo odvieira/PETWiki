@@ -2,14 +2,15 @@
 title: PET Cidade Saude e Justica - UFP
 description: grupo da Universidade Federal do Piaui
 published: true
-date: 2023-11-29T03:37:02.771468
-tags: Interdisciplinar, nan
+date: 2023-11-30T15:05:17.592813
+tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.771468
+dateCreated: 2023-11-30T15:05:17.592813
 ---
 
 # PET Cidade Saude e Justica
 
+[Publicacoes de PET Cidade Saude e Justica - UFP](/atividade/55PETCidadeSaudeeJusticaUFP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.771468
 | Email                                       | petcsj@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Interdisciplinar              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/pet.ufpipicos         |
 | Facebook                                    | nan          |

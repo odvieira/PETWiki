@@ -2,14 +2,15 @@
 title: PET Conexoes Cultura - UFES
 description: grupo da Universidade Federal do Espirito Santo
 published: true
-date: 2023-11-29T03:37:02.781470
-tags: Interdisciplinar, nan
+date: 2023-11-30T15:05:17.601780
+tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.781470
+dateCreated: 2023-11-30T15:05:17.601780
 ---
 
 # PET Conexoes Cultura
 
+[Publicacoes de PET Conexoes Cultura - UFES](/atividade/166PETConexoesCulturaUFES/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFES         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.781470
 | Email                                       | petcultura@gmail.com             |
 | Site                                        | petcultura.blogspot.com/              |
 | Eixo                                        | Interdisciplinar              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/pet_cultura         |
 | Facebook                                    | nan          |

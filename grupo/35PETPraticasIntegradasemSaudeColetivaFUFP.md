@@ -2,14 +2,15 @@
 title: PET Praticas Integradas em Saude Coletiva - FUFP
 description: grupo da Fundacao Universidade Federal do Pampa
 published: true
-date: 2023-11-29T03:37:02.769468
+date: 2023-11-30T15:05:17.591784
 tags: Ciencias da Saude, Saude Coletiva
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.769468
+dateCreated: 2023-11-30T15:05:17.591784
 ---
 
 # PET Praticas Integradas em Saude Coletiva
 
+[Publicacoes de PET Praticas Integradas em Saude Coletiva - FUFP](/atividade/35PETPraticasIntegradasemSaudeColetivaFUFP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] FUFP         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,14 +2,15 @@
 title: PET Engenharia de Pesca - UFRP
 description: grupo da Universidade Federal Rural de Pernambuco
 published: true
-date: 2023-11-29T03:37:02.786468
-tags: Ciencias Agrarias, nan
+date: 2023-11-30T15:05:17.606782
+tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.786468
+dateCreated: 2023-11-30T15:05:17.606782
 ---
 
 # PET Engenharia de Pesca
 
+[Publicacoes de PET Engenharia de Pesca - UFRP](/atividade/232PETEngenhariadePescaUFRP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.786468
 | Email                                       | petpescauast@ufrpe.br             |
 | Site                                        | petpescauast.wordpress.com/              |
 | Eixo                                        | Ciencias Agrarias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2012        |
 | Instagram                                   | https://instagram.com/petpescauast         |
 | Facebook                                    | https://www.facebook.com/PETpesca          |

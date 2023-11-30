@@ -2,14 +2,15 @@
 title: PET Politicas Publicas - UFRP
 description: grupo da Universidade Federal Rural de Pernambuco
 published: true
-date: 2023-11-29T03:37:02.781470
+date: 2023-11-30T15:05:17.602782
 tags: Interdisciplinar, Acoes afirmativas para a juventude
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.781470
+dateCreated: 2023-11-30T15:05:17.602782
 ---
 
 # PET Politicas Publicas
 
+[Publicacoes de PET Politicas Publicas - UFRP](/atividade/176PETPoliticasPublicasUFRP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRP         |
 | ------------------------------------------- | ------------------------------------------------- |

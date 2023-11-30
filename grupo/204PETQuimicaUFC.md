@@ -2,14 +2,15 @@
 title: PET Quimica - UFC
 description: grupo da Universidade Federal do Ceara
 published: true
-date: 2023-11-29T03:37:02.784469
-tags: Ciencias Exatas e da Terra, nan
+date: 2023-11-30T15:05:17.604818
+tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.784469
+dateCreated: 2023-11-30T15:05:17.604818
 ---
 
 # PET Quimica
 
+[Publicacoes de PET Quimica - UFC](/atividade/204PETQuimicaUFC/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFC         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.784469
 | Email                                       | petquim.ufc@gmail.com             |
 | Site                                        | www.petquimica.ufc.br              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1988        |
 | Instagram                                   | https://instagram.com/petquimicaufc         |
 | Facebook                                    | https://www.facebook.com/PETQuimica          |

@@ -2,14 +2,15 @@
 title: PET Conexoes de Saberes Educomunicacao - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-29T03:37:02.784469
+date: 2023-11-30T15:05:17.604818
 tags: Ciencias Humanas, EDUCOMUNICACAO
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.784469
+dateCreated: 2023-11-30T15:05:17.604818
 ---
 
 # PET Conexoes de Saberes Educomunicacao
 
+[Publicacoes de PET Conexoes de Saberes Educomunicacao - UFU](/atividade/212PETConexoesdeSaberesEducomunicacaoUFU/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFU         |
 | ------------------------------------------- | ------------------------------------------------- |

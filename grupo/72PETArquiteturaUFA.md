@@ -2,14 +2,15 @@
 title: PET Arquitetura - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-29T03:37:02.772468
-tags: Ciencias Sociais Aplicadas, nan
+date: 2023-11-30T15:05:17.594781
+tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.772468
+dateCreated: 2023-11-30T15:05:17.594781
 ---
 
 # PET Arquitetura
 
+[Publicacoes de PET Arquitetura - UFA](/atividade/72PETArquiteturaUFA/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.772468
 | Email                                       | petarqufal@gmail.com             |
 | Site                                        | petarqufal.wixsite.com/petarq              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1995        |
 | Instagram                                   | https://instagram.com/petarqufal         |
 | Facebook                                    | https://www.facebook.com/petarqufal/          |

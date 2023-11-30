@@ -2,14 +2,15 @@
 title: PET Fisica - UFA
 description: grupo da Universidade Federal do Amazonas
 published: true
-date: 2023-11-29T03:37:02.784469
+date: 2023-11-30T15:05:17.604818
 tags: Ciencias Exatas e da Terra, Fisica
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.784469
+dateCreated: 2023-11-30T15:05:17.604818
 ---
 
 # PET Fisica
 
+[Publicacoes de PET Fisica - UFA](/atividade/210PETFisicaUFA/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,14 +2,15 @@
 title: PET Floresta - UFRRJ
 description: grupo da Universidade Federal Rural do Rio de Janeiro
 published: true
-date: 2023-11-29T03:37:02.776471
+date: 2023-11-30T15:05:17.597780
 tags: Ciencias Agrarias, Praticas Sustentaveis
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.776471
+dateCreated: 2023-11-30T15:05:17.597780
 ---
 
 # PET Floresta
 
+[Publicacoes de PET Floresta - UFRRJ](/atividade/115PETFlorestaUFRRJ/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRRJ         |
 | ------------------------------------------- | ------------------------------------------------- |

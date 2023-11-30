@@ -2,14 +2,15 @@
 title: PET Zootecnia - USP
 description: grupo da Universidade de Sao Paulo
 published: true
-date: 2023-11-29T03:37:02.769468
-tags: Ciencias Agrarias, nan
+date: 2023-11-30T15:05:17.590814
+tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.769468
+dateCreated: 2023-11-30T15:05:17.590814
 ---
 
 # PET Zootecnia
 
+[Publicacoes de PET Zootecnia - USP](/atividade/29PETZootecniaUSP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] USP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.769468
 | Email                                       | petzootecnia@usp.br             |
 | Site                                        | petzoofzea.com.br/              |
 | Eixo                                        | Ciencias Agrarias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1994        |
 | Instagram                                   | https://instagram.com/@petzoousp         |
 | Facebook                                    | https://www.facebook.com/PET.ZOOTECNIA.USP/          |

@@ -2,14 +2,15 @@
 title: PET Quimica - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-29T03:37:02.778469
-tags: Ciencias Exatas e da Terra, nan
+date: 2023-11-30T15:05:17.598781
+tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.778469
+dateCreated: 2023-11-30T15:05:17.598781
 ---
 
 # PET Quimica
 
+[Publicacoes de PET Quimica - UEPJMF](/atividade/136PETQuimicaUEPJMF/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEPJMF         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.778469
 | Email                                       | petquimicaunesp@gmail.com             |
 | Site                                        | petquimicaunesp.wixsite.com/petquim              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1996        |
 | Instagram                                   | https://instagram.com/petquimicaunesp         |
 | Facebook                                    | https://facebook.com/petquimicaunesp          |

@@ -2,14 +2,15 @@
 title: PET Economia - UEFS
 description: grupo da Universidade Estadual de Feira de Santana
 published: true
-date: 2023-11-29T03:37:02.772468
-tags: Ciencias Sociais Aplicadas, nan
+date: 2023-11-30T15:05:17.594781
+tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.772468
+dateCreated: 2023-11-30T15:05:17.594781
 ---
 
 # PET Economia
 
+[Publicacoes de PET Economia - UEFS](/atividade/80PETEconomiaUEFS/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEFS         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.772468
 | Email                                       | csj@uefs.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2008        |
 | Instagram                                   | https://instagram.com/https://www.instagram.com/peteconomia/?hl=pt         |
 | Facebook                                    | https://www.facebook.com/peteconomiauefs/          |

@@ -2,14 +2,15 @@
 title: PET Tecnologia em Alimentos - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-29T03:37:02.774469
-tags: Ciencias Agrarias, nan
+date: 2023-11-30T15:05:17.595782
+tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.774469
+dateCreated: 2023-11-30T15:05:17.595782
 ---
 
 # PET Tecnologia em Alimentos
 
+[Publicacoes de PET Tecnologia em Alimentos - UTFP](/atividade/97PETTecnologiaemAlimentosUTFP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UTFP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.774469
 | Email                                       | alimentospet@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/pet_tecnologiaemalimentos         |
 | Facebook                                    | https://www.facebook.com/petalimentosutfprld          |

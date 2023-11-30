@@ -2,14 +2,15 @@
 title: PET Musica em Etnografia - UB
 description: grupo da Universidade de Brasilia
 published: true
-date: 2023-11-29T03:37:02.790470
-tags: Linguistica, Letras e Arte, nan
+date: 2023-11-30T15:05:17.608869
+tags: Linguistica, Letras e Arte
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.790470
+dateCreated: 2023-11-30T15:05:17.608869
 ---
 
 # PET Musica em Etnografia
 
+[Publicacoes de PET Musica em Etnografia - UB](/atividade/282PETMusicaemEtnografiaUB/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UB         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.790470
 | Email                                       | petmusica@unb.br             |
 | Site                                        | petmusica.unb.br/              |
 | Eixo                                        | Linguistica, Letras e Arte              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2011        |
 | Instagram                                   | https://instagram.com/petmusicaunb         |
 | Facebook                                    | nan          |

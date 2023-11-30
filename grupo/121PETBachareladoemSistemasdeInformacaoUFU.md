@@ -2,14 +2,15 @@
 title: PET Bacharelado em Sistemas de Informacao - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-29T03:37:02.777470
-tags: Interdisciplinar, nan
+date: 2023-11-30T15:05:17.597780
+tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.777470
+dateCreated: 2023-11-30T15:05:17.597780
 ---
 
 # PET Bacharelado em Sistemas de Informacao
 
+[Publicacoes de PET Bacharelado em Sistemas de Informacao - UFU](/atividade/121PETBachareladoemSistemasdeInformacaoUFU/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFU         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.777470
 | Email                                       | petsiufu@gmail.com             |
 | Site                                        | www.petsi.facom.ufu.br/              |
 | Eixo                                        | Interdisciplinar              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2012        |
 | Instagram                                   | https://instagram.com/petsi_ufu         |
 | Facebook                                    | https://cenapet.org/grupos/125/facebook.com/petsi.ufu          |

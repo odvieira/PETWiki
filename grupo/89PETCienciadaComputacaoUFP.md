@@ -2,14 +2,15 @@
 title: PET Ciencia da Computacao - UFP
 description: grupo da Universidade Federal do Parana
 published: true
-date: 2023-11-29T03:37:02.773467
-tags: Ciencias Exatas e da Terra, nan
+date: 2023-11-30T15:05:17.595782
+tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.773467
+dateCreated: 2023-11-30T15:05:17.595782
 ---
 
 # PET Ciencia da Computacao
 
+[Publicacoes de PET Ciencia da Computacao - UFP](/atividade/89PETCienciadaComputacaoUFP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.773467
 | Email                                       | pet@inf.ufpr.br             |
 | Site                                        | web.inf.ufpr.br/              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petcompufpr         |
 | Facebook                                    | https://www.facebook.com/petcompufpr          |

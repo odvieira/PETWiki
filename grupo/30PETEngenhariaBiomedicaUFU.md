@@ -2,14 +2,15 @@
 title: PET Engenharia Biomedica - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-29T03:37:02.769468
-tags: Engenharias, nan
+date: 2023-11-30T15:05:17.591784
+tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.769468
+dateCreated: 2023-11-30T15:05:17.591784
 ---
 
 # PET Engenharia Biomedica
 
+[Publicacoes de PET Engenharia Biomedica - UFU](/atividade/30PETEngenhariaBiomedicaUFU/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFU         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.769468
 | Email                                       | pet.engenhariabiomedica.ufu@gmail.com             |
 | Site                                        | petengenhariabiomedica.com/              |
 | Eixo                                        | Engenharias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petengenhariabiomedica         |
 | Facebook                                    | https://www.facebook.com/PetEngenhariaBiomedicaUfu          |

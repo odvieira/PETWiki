@@ -2,14 +2,15 @@
 title: PET Arquitetura e Urbanismo - PUCC
 description: grupo da Pontificia Universidade Catolica de Campinas
 published: true
-date: 2023-11-29T03:37:02.767469
-tags: Ciencias Sociais Aplicadas, nan
+date: 2023-11-30T15:05:17.589782
+tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.767469
+dateCreated: 2023-11-30T15:05:17.589782
 ---
 
 # PET Arquitetura e Urbanismo
 
+[Publicacoes de PET Arquitetura e Urbanismo - PUCC](/atividade/6PETArquiteturaeUrbanismoPUCC/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] PUCC         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.767469
 | Email                                       | arquiteturapet@gmail.com             |
 | Site                                        | arquiteturapet.wixsite.com/petarquiteturapucc              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petarquiteturapucc         |
 | Facebook                                    | https://www.facebook.com/petarquiteturapucc          |

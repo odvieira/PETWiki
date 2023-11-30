@@ -2,14 +2,15 @@
 title: PET Engenharia Civil - UFRGS
 description: grupo da Universidade Federal do Rio Grande do Sul
 published: true
-date: 2023-11-29T03:37:02.770467
-tags: Engenharias, nan
+date: 2023-11-30T15:05:17.592813
+tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.770467
+dateCreated: 2023-11-30T15:05:17.592813
 ---
 
 # PET Engenharia Civil
 
+[Publicacoes de PET Engenharia Civil - UFRGS](/atividade/48PETEngenhariaCivilUFRGS/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRGS         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.770467
 | Email                                       | petcivil@ufrgs.br             |
 | Site                                        | nan              |
 | Eixo                                        | Engenharias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petcivilufrgs         |
 | Facebook                                    | https://www.facebook.com/ufrgs.petcivil          |

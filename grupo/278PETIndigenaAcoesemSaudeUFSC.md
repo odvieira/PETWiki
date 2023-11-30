@@ -2,14 +2,15 @@
 title: PET Indigena - Acoes em Saude - UFSC
 description: grupo da Universidade Federal de Sao Carlos
 published: true
-date: 2023-11-29T03:37:02.790470
+date: 2023-11-30T15:05:17.608869
 tags: Ciencias da Saude, Saude Indigena
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.790470
+dateCreated: 2023-11-30T15:05:17.608869
 ---
 
 # PET Indigena - Acoes em Saude
 
+[Publicacoes de PET Indigena - Acoes em Saude - UFSC](/atividade/278PETIndigenaAcoesemSaudeUFSC/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSC         |
 | ------------------------------------------- | ------------------------------------------------- |

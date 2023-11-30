@@ -2,14 +2,15 @@
 title: PET Engenharia Quimica - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-29T03:37:02.784469
-tags: Engenharias, nan
+date: 2023-11-30T15:05:17.604818
+tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.784469
+dateCreated: 2023-11-30T15:05:17.604818
 ---
 
 # PET Engenharia Quimica
 
+[Publicacoes de PET Engenharia Quimica - UFU](/atividade/209PETEngenhariaQuimicaUFU/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFU         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.784469
 | Email                                       | ufupeteq@gmail.com             |
 | Site                                        | petequfu.com.br/              |
 | Eixo                                        | Engenharias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1991        |
 | Instagram                                   | https://instagram.com/ufupeteq         |
 | Facebook                                    | https://www.facebook.com/PetEngenhariaQuimica          |

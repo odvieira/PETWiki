@@ -2,14 +2,15 @@
 title: PET Ciencia, Tecnologia e Inovacao - FUFA
 description: grupo da Fundacao Universidade Federal do Abc
 published: true
-date: 2023-11-29T03:37:02.785468
-tags: Interdisciplinar, nan
+date: 2023-11-30T15:05:17.605781
+tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.785468
+dateCreated: 2023-11-30T15:05:17.605781
 ---
 
 # PET Ciencia, Tecnologia e Inovacao
 
+[Publicacoes de PET Ciencia, Tecnologia e Inovacao - FUFA](/atividade/216PETCienciaTecnologiaeInovacaoFUFA/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] FUFA         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.785468
 | Email                                       | contato.pet.cti.ufabc@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Interdisciplinar              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/pet.cti.ufabc         |
 | Facebook                                    | https://www.facebook.com/pet.cti.ufabc/          |

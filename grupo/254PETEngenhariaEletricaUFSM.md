@@ -2,14 +2,15 @@
 title: PET Engenharia Eletrica - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-29T03:37:02.788469
-tags: Engenharias, nan
+date: 2023-11-30T15:05:17.608782
+tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.788469
+dateCreated: 2023-11-30T15:05:17.608782
 ---
 
 # PET Engenharia Eletrica
 
+[Publicacoes de PET Engenharia Eletrica - UFSM](/atividade/254PETEngenhariaEletricaUFSM/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSM         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.788469
 | Email                                       | petee.dados@gmail.com             |
 | Site                                        | www.notion.so/petee/SITE-PET-Engenharia-El-trica-UFSM-680b3baafe9e4181875dd32179e41820              |
 | Eixo                                        | Engenharias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1995        |
 | Instagram                                   | https://instagram.com/petengenhariaeletrica         |
 | Facebook                                    | https://www.facebook.com/peteeufsm/          |

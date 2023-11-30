@@ -2,14 +2,15 @@
 title: PET Engenharia Eletrica - UFI
 description: grupo da Universidade Federal de Itajuba
 published: true
-date: 2023-11-29T03:37:02.768468
+date: 2023-11-30T15:05:17.590814
 tags: Engenharias, Engenharias Eletrica e Eletronica
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.768468
+dateCreated: 2023-11-30T15:05:17.590814
 ---
 
 # PET Engenharia Eletrica
 
+[Publicacoes de PET Engenharia Eletrica - UFI](/atividade/18PETEngenhariaEletricaUFI/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFI         |
 | ------------------------------------------- | ------------------------------------------------- |

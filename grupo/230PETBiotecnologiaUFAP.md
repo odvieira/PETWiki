@@ -2,14 +2,15 @@
 title: PET Biotecnologia - UFAP
 description: grupo da Universidade Federal do Agreste de Pernambuco
 published: true
-date: 2023-11-29T03:37:02.786468
+date: 2023-11-30T15:05:17.606782
 tags: Ciencias Agrarias, Biotecnologia
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.786468
+dateCreated: 2023-11-30T15:05:17.606782
 ---
 
 # PET Biotecnologia
 
+[Publicacoes de PET Biotecnologia - UFAP](/atividade/230PETBiotecnologiaUFAP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFAP         |
 | ------------------------------------------- | ------------------------------------------------- |

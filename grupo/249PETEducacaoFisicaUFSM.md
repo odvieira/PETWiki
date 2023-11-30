@@ -2,14 +2,15 @@
 title: PET Educacao Fisica - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-29T03:37:02.788469
-tags: Interdisciplinar, nan
+date: 2023-11-30T15:05:17.607781
+tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.788469
+dateCreated: 2023-11-30T15:05:17.607781
 ---
 
 # PET Educacao Fisica
 
+[Publicacoes de PET Educacao Fisica - UFSM](/atividade/249PETEducacaoFisicaUFSM/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSM         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.788469
 | Email                                       | petedfufsm@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Interdisciplinar              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/peteducacaofisicaufsm         |
 | Facebook                                    | nan          |

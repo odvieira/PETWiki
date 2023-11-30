@@ -2,14 +2,15 @@
 title: PET Geografia - FUESC
 description: grupo da Fundacao Universidade do Estado de Santa Catarina
 published: true
-date: 2023-11-29T03:37:02.769468
-tags: Ciencias Humanas, nan
+date: 2023-11-30T15:05:17.590814
+tags: Ciencias Humanas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.769468
+dateCreated: 2023-11-30T15:05:17.590814
 ---
 
 # PET Geografia
 
+[Publicacoes de PET Geografia - FUESC](/atividade/27PETGeografiaFUESC/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] FUESC         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.769468
 | Email                                       | petgeoudescdrive@gmail.com             |
 | Site                                        | udesc.br/faed/petgeo              |
 | Eixo                                        | Ciencias Humanas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1994        |
 | Instagram                                   | https://instagram.com/petgeoudesc         |
 | Facebook                                    | https://cenapet.org/grupos/30/facebook.com/petgeoudesc          |

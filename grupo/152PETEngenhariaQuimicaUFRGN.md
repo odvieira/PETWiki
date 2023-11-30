@@ -2,14 +2,15 @@
 title: PET Engenharia Quimica - UFRGN
 description: grupo da Universidade Federal do Rio Grande do Norte
 published: true
-date: 2023-11-29T03:37:02.779468
-tags: Engenharias, nan
+date: 2023-11-30T15:05:17.600780
+tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.779468
+dateCreated: 2023-11-30T15:05:17.600780
 ---
 
 # PET Engenharia Quimica
 
+[Publicacoes de PET Engenharia Quimica - UFRGN](/atividade/152PETEngenhariaQuimicaUFRGN/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRGN         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.779468
 | Email                                       | eqpeteq@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Engenharias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1996        |
 | Instagram                                   | https://instagram.com/petequfrn         |
 | Facebook                                    | https://cenapet.org/grupos/156/facebook.com/petequfrn          |

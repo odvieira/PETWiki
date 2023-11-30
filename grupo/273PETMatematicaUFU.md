@@ -2,14 +2,15 @@
 title: PET Matematica - UFU
 description: grupo da Universidade Federal de Uberlandia
 published: true
-date: 2023-11-29T03:37:02.790470
-tags: Ciencias Exatas e da Terra, nan
+date: 2023-11-30T15:05:17.608869
+tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.790470
+dateCreated: 2023-11-30T15:05:17.608869
 ---
 
 # PET Matematica
 
+[Publicacoes de PET Matematica - UFU](/atividade/273PETMatematicaUFU/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFU         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.790470
 | Email                                       | petmat.famat@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1992        |
 | Instagram                                   | https://instagram.com/petmatufu         |
 | Facebook                                    | https://www.facebook.com/petmatematicaufu          |

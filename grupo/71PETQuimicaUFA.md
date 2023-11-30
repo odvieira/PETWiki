@@ -2,14 +2,15 @@
 title: PET Quimica - UFA
 description: grupo da Universidade Federal de Alagoas
 published: true
-date: 2023-11-29T03:37:02.772468
-tags: Ciencias Exatas e da Terra, nan
+date: 2023-11-30T15:05:17.593827
+tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.772468
+dateCreated: 2023-11-30T15:05:17.593827
 ---
 
 # PET Quimica
 
+[Publicacoes de PET Quimica - UFA](/atividade/71PETQuimicaUFA/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFA         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.772468
 | Email                                       | ufal.pet.quimica@gmail.com             |
 | Site                                        | petquimicaufal.wixsite.com/petquimica              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petquimicaufal         |
 | Facebook                                    | https://facebook.com/petquimicaufal          |

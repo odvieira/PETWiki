@@ -2,14 +2,15 @@
 title: PET Zootecnia - UEL
 description: grupo da Universidade Estadual de Londrina
 published: true
-date: 2023-11-29T03:37:02.787469
+date: 2023-11-30T15:05:17.606782
 tags: Ciencias Agrarias, Pet Zootecnia
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.787469
+dateCreated: 2023-11-30T15:05:17.606782
 ---
 
 # PET Zootecnia
 
+[Publicacoes de PET Zootecnia - UEL](/atividade/241PETZootecniaUEL/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEL         |
 | ------------------------------------------- | ------------------------------------------------- |

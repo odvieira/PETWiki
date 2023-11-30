@@ -2,14 +2,15 @@
 title: PET Odontologia - UEFS
 description: grupo da Universidade Estadual de Feira de Santana
 published: true
-date: 2023-11-29T03:37:02.772468
-tags: Ciencias da Saude, nan
+date: 2023-11-30T15:05:17.594781
+tags: Ciencias da Saude
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.772468
+dateCreated: 2023-11-30T15:05:17.594781
 ---
 
 # PET Odontologia
 
+[Publicacoes de PET Odontologia - UEFS](/atividade/79PETOdontologiaUEFS/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEFS         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.772468
 | Email                                       | petodontologia@uefs.br             |
 | Site                                        | sites.google.com/uefs.br/pet-odontologia-uefs/in%C3%ADcio              |
 | Eixo                                        | Ciencias da Saude              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2007        |
 | Instagram                                   | https://instagram.com/petodontouefs         |
 | Facebook                                    | https://www.facebook.com/petodontouefs/          |

@@ -2,14 +2,15 @@
 title: PET Fronteira - UFMGS
 description: grupo da Universidade Federal de Mato Grosso do Sul
 published: true
-date: 2023-11-29T03:37:02.775469
-tags: Ciencias Exatas e da Terra, nan
+date: 2023-11-30T15:05:17.596781
+tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.775469
+dateCreated: 2023-11-30T15:05:17.596781
 ---
 
 # PET Fronteira
 
+[Publicacoes de PET Fronteira - UFMGS](/atividade/109PETFronteiraUFMGS/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFMGS         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.775469
 | Email                                       | anderson.lima@ufms.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petfronteira         |
 | Facebook                                    | https://www.facebook.com/pet.fronteira          |

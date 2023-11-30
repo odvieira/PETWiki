@@ -2,14 +2,15 @@
 title: PET Engenharia de Alimentos - UFG
 description: grupo da Universidade Federal de Goias
 published: true
-date: 2023-11-29T03:37:02.779468
-tags: Ciencias Agrarias, nan
+date: 2023-11-30T15:05:17.599782
+tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.779468
+dateCreated: 2023-11-30T15:05:17.599782
 ---
 
 # PET Engenharia de Alimentos
 
+[Publicacoes de PET Engenharia de Alimentos - UFG](/atividade/147PETEngenhariadeAlimentosUFG/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFG         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.779468
 | Email                                       | petengali@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2006        |
 | Instagram                                   | https://instagram.com/petengali_ufg         |
 | Facebook                                    | https://www.facebook.com/PETengAliUFG/          |

@@ -2,14 +2,15 @@
 title: PET Comunicacao Social - UFSM
 description: grupo da Universidade Federal de Santa Maria
 published: true
-date: 2023-11-29T03:37:02.789469
+date: 2023-11-30T15:05:17.608869
 tags: Ciencias Sociais Aplicadas, Ensino, Pesquisa e Extensao
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.789469
+dateCreated: 2023-11-30T15:05:17.608869
 ---
 
 # PET Comunicacao Social
 
+[Publicacoes de PET Comunicacao Social - UFSM](/atividade/265PETComunicacaoSocialUFSM/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSM         |
 | ------------------------------------------- | ------------------------------------------------- |

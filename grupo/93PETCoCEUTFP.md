@@ -2,14 +2,15 @@
 title: PET CoCE - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-29T03:37:02.774469
+date: 2023-11-30T15:05:17.595782
 tags: Interdisciplinar, Computacao e Inclusao
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.774469
+dateCreated: 2023-11-30T15:05:17.595782
 ---
 
 # PET CoCE
 
+[Publicacoes de PET CoCE - UTFP](/atividade/93PETCoCEUTFP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UTFP         |
 | ------------------------------------------- | ------------------------------------------------- |

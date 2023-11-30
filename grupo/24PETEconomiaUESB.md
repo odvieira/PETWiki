@@ -2,14 +2,15 @@
 title: PET Economia - UESB
 description: grupo da Universidade Estadual do Sudoeste da Bahia
 published: true
-date: 2023-11-29T03:37:02.768468
-tags: Ciencias Sociais Aplicadas, nan
+date: 2023-11-30T15:05:17.590814
+tags: Ciencias Sociais Aplicadas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.768468
+dateCreated: 2023-11-30T15:05:17.590814
 ---
 
 # PET Economia
 
+[Publicacoes de PET Economia - UESB](/atividade/24PETEconomiaUESB/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UESB         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.768468
 | Email                                       | peteconomia@uesb.edu.br             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Sociais Aplicadas              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/@peteconomiauesb         |
 | Facebook                                    | nan          |

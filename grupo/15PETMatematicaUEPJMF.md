@@ -2,14 +2,15 @@
 title: PET Matematica - UEPJMF
 description: grupo da Universidade Estadual Paulista Julio de Mesquita Filho
 published: true
-date: 2023-11-29T03:37:02.768468
-tags: Ciencias Exatas e da Terra, nan
+date: 2023-11-30T15:05:17.589782
+tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.768468
+dateCreated: 2023-11-30T15:05:17.589782
 ---
 
 # PET Matematica
 
+[Publicacoes de PET Matematica - UEPJMF](/atividade/15PETMatematicaUEPJMF/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UEPJMF         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.768468
 | Email                                       | petmatibilce@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1988        |
 | Instagram                                   | https://instagram.com/petmatibilce         |
 | Facebook                                    | https://www.facebook.com/petmatematicaibilce          |

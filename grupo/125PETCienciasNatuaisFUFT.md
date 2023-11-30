@@ -2,14 +2,15 @@
 title: PET Ciencias Natuais - FUFT
 description: grupo da Fundacao Universidade Federal do Tocantins
 published: true
-date: 2023-11-29T03:37:02.777470
-tags: Interdisciplinar, nan
+date: 2023-11-30T15:05:17.598781
+tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.777470
+dateCreated: 2023-11-30T15:05:17.598781
 ---
 
 # PET Ciencias Natuais
 
+[Publicacoes de PET Ciencias Natuais - FUFT](/atividade/125PETCienciasNatuaisFUFT/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] FUFT         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.777470
 | Email                                       | petcnat@gmail.com             |
 | Site                                        | petcnat.blogspot.com/              |
 | Eixo                                        | Interdisciplinar              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petcnat         |
 | Facebook                                    | nan          |

@@ -2,14 +2,15 @@
 title: PET Politica Publicas - UTFP
 description: grupo da Universidade Tecnologica Federal do Parana
 published: true
-date: 2023-11-29T03:37:02.774469
+date: 2023-11-30T15:05:17.595782
 tags: Interdisciplinar, Politicas Publicas
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.774469
+dateCreated: 2023-11-30T15:05:17.595782
 ---
 
 # PET Politica Publicas
 
+[Publicacoes de PET Politica Publicas - UTFP](/atividade/96PETPoliticaPublicasUTFP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UTFP         |
 | ------------------------------------------- | ------------------------------------------------- |

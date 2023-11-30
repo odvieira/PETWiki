@@ -2,14 +2,15 @@
 title: PET Matematica - UFSC
 description: grupo da Universidade Federal de Santa Catarina
 published: true
-date: 2023-11-29T03:37:02.773467
-tags: Ciencias Exatas e da Terra, nan
+date: 2023-11-30T15:05:17.594781
+tags: Ciencias Exatas e da Terra
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.773467
+dateCreated: 2023-11-30T15:05:17.594781
 ---
 
 # PET Matematica
 
+[Publicacoes de PET Matematica - UFSC](/atividade/81PETMatematicaUFSC/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFSC         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.773467
 | Email                                       | grupo@pet.mtm.ufsc.br             |
 | Site                                        | pet.mtm.ufsc.br/              |
 | Eixo                                        | Ciencias Exatas e da Terra              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 1991        |
 | Instagram                                   | https://instagram.com/pet.mtm.ufsc         |
 | Facebook                                    | https://www.facebook.com/pet.mtm.ufsc          |

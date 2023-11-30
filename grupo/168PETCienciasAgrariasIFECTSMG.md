@@ -2,14 +2,15 @@
 title: PET Ciencias Agrarias - IFECTSMG
 description: grupo da Instituto Federal de Educacao, Ciencia e Tecnologia do Sudeste de Minas Gerais
 published: true
-date: 2023-11-29T03:37:02.781470
-tags: Ciencias Agrarias, nan
+date: 2023-11-30T15:05:17.601780
+tags: Ciencias Agrarias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.781470
+dateCreated: 2023-11-30T15:05:17.601780
 ---
 
 # PET Ciencias Agrarias
 
+[Publicacoes de PET Ciencias Agrarias - IFECTSMG](/atividade/168PETCienciasAgrariasIFECTSMG/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] IFECTSMG         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.781470
 | Email                                       | petcienciasagrariasrp@gmail.com             |
 | Site                                        | nan              |
 | Eixo                                        | Ciencias Agrarias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/pet.cienciasagrariasrp         |
 | Facebook                                    | nan          |

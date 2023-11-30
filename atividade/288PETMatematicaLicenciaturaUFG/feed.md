@@ -1,0 +1,12 @@
+---
+title: Publicacoes de PET Matematica (Licenciatura) - UFG 
+description: feed do grupo PET Matematica (Licenciatura) - UFG
+published: true
+date: 2023-11-30T15:05:17.759246
+tags: Ciencias Exatas e da Terra
+editor: markdown
+dateCreated: 2023-11-30T15:05:17.759246
+---
+
+# PET Matematica (Licenciatura)
+[PET Matematica (Licenciatura) - UFG](/grupo/288PETMatematicaLicenciaturaUFG)

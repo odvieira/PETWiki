@@ -2,14 +2,15 @@
 title: PET Intercultural Indigena - UFP
 description: grupo da Universidade Federal de Pernambuco
 published: true
-date: 2023-11-29T03:37:02.777470
-tags: Interdisciplinar, nan
+date: 2023-11-30T15:05:17.598781
+tags: Interdisciplinar
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.777470
+dateCreated: 2023-11-30T15:05:17.598781
 ---
 
 # PET Intercultural Indigena
 
+[Publicacoes de PET Intercultural Indigena - UFP](/atividade/124PETInterculturalIndigenaUFP/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFP         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.777470
 | Email                                       | daniel.ferreirasilva@ufpe.br             |
 | Site                                        | nan              |
 | Eixo                                        | Interdisciplinar              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/petindigenaufpe         |
 | Facebook                                    | nan          |

@@ -2,14 +2,15 @@
 title: PET Quimica - UFRGN
 description: grupo da Universidade Federal do Rio Grande do Norte
 published: true
-date: 2023-11-29T03:37:02.788469
+date: 2023-11-30T15:05:17.607781
 tags: Ciencias Exatas e da Terra, Pesquisa, ensino e extensao dentro da area de Quimica.
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.788469
+dateCreated: 2023-11-30T15:05:17.607781
 ---
 
 # PET Quimica
 
+[Publicacoes de PET Quimica - UFRGN](/atividade/251PETQuimicaUFRGN/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFRGN         |
 | ------------------------------------------- | ------------------------------------------------- |

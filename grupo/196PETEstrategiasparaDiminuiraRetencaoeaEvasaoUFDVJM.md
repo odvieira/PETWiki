@@ -2,14 +2,15 @@
 title: PET Estrategias para Diminuir a Retencao e a Evasao - UFDVJM
 description: grupo da Universidade Federal Dos Vales do Jequitinhonha e Mucuri
 published: true
-date: 2023-11-29T03:37:02.783471
+date: 2023-11-30T15:05:17.603832
 tags: Interdisciplinar, Retencao e Evasao
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.783471
+dateCreated: 2023-11-30T15:05:17.603832
 ---
 
 # PET Estrategias para Diminuir a Retencao e a Evasao
 
+[Publicacoes de PET Estrategias para Diminuir a Retencao e a Evasao - UFDVJM](/atividade/196PETEstrategiasparaDiminuiraRetencaoeaEvasaoUFDVJM/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFDVJM         |
 | ------------------------------------------- | ------------------------------------------------- |

@@ -2,14 +2,15 @@
 title: PET Engenharia Eletrica - UFMG
 description: grupo da Universidade Federal de Mato Grosso
 published: true
-date: 2023-11-29T03:37:02.769468
-tags: Engenharias, nan
+date: 2023-11-30T15:05:17.591784
+tags: Engenharias
 editor: markdown
-dateCreated: 2023-11-29T03:37:02.769468
+dateCreated: 2023-11-30T15:05:17.591784
 ---
 
 # PET Engenharia Eletrica
 
+[Publicacoes de PET Engenharia Eletrica - UFMG](/atividade/33PETEngenhariaEletricaUFMG/feed)
 
 | ![placeholder.png](/placeholder.png) [logo] | [foto do grupo] UFMG         |
 | ------------------------------------------- | ------------------------------------------------- |
@@ -19,7 +20,7 @@ dateCreated: 2023-11-29T03:37:02.769468
 | Email                                       | peteneufmt@gmail.com             |
 | Site                                        | www.peteletricaufmt.com/              |
 | Eixo                                        | Engenharias              |
-| Tematica                                    | nan          |
+| Tematica                                    |           |
 | Ano de criacao                              | 2010        |
 | Instagram                                   | https://instagram.com/peteletricaufmt         |
 | Facebook                                    | nan          |
