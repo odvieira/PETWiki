@@ -75,3 +75,9 @@ docker compose up -d
 ### 5. Navegue até Wiki.js
 
 Abra seu navegador em http://localhost para concluir a instalação e usar o Wiki.js!
+
+---
+
+## Instalação definitiva em docker container
+
+[Documentação oficial](https://docs.requarks.io/install/docker)
