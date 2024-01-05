@@ -2,6 +2,10 @@
 
 ## Visão geral
 
+Wiki.js é uma estrutura genérica para a criação de sistemas de gestão de conteúdo em forma `wiki`. Através de linguagens de marcação, vários usuários podem modificar ou editar colaborativamente conteúdo do `wiki` usando um navegador web ou com a ajuda de um editor de texto.
+
+![Fluxo de funcionamento dos processos](./Fluxo_simples.png)
+
 Este é um guia rápido e simples para executar o Wiki.js em sua máquina **macOS** ou **Windows** local.
 
 ## Instalação
