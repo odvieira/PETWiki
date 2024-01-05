@@ -1,12 +1,12 @@
 # PETWiki
 
-# Overview
+## Overview
 
 This guide is a quick and simple guide to run Wiki.js on your local **macOS** or **Windows** machine.
 
-# Installation
+## Installation
 
-## 1. Install Docker Desktop
+### 1. Install Docker Desktop
 
 Install Docker Desktop which includes both Docker and Docker Compose:
 
@@ -14,7 +14,7 @@ Install Docker Desktop which includes both Docker and Docker Compose:
 - [macOS (Intel)](https://desktop.docker.com/mac/main/amd64/Docker.dmg)
 - [Windows](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe)
 
-## 2. Create the Installation Folder
+### 2. Create the Installation Folder
 
 Create a new folder named `wiki` at the location of your choice.
 
@@ -57,14 +57,14 @@ volumes:
 
 This file simply defines a PostgreSQL container *(our database)* and the Wiki.js container.
 
-## 3. Open Terminal / Command Prompt
+### 3. Open Terminal / Command Prompt
 
 On **macOS**, launch **Terminal** and navigate to the `wiki` folder you created earlier.
 
 On **Windows**, open the folder `wiki` you created earlier in **File Explorer**.  
 In the address bar, type `cmd` and press <kbd>ENTER</kbd> to launch a **Command Prompt** at that location.
 
-## 4. Launch Wiki.js
+### 4. Launch Wiki.js
 
 Type the following command in the **Terminal** / **Command Prompt** to start Wiki.js:
 
@@ -72,6 +72,6 @@ Type the following command in the **Terminal** / **Command Prompt** to start Wik
 docker compose up -d
 ```
 
-## 5. Browse to Wiki.js
+### 5. Browse to Wiki.js
 
 Open your browser and navigate to http://localhost to complete the installation and use Wiki.js!
