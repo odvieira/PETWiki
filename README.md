@@ -1,24 +1,24 @@
 # PETWiki
 
-## Overview
+## Visão geral
 
-This guide is a quick and simple guide to run Wiki.js on your local **macOS** or **Windows** machine.
+Este é um guia rápido e simples para executar o Wiki.js em sua máquina **macOS** ou **Windows** local.
 
-## Installation
+## Instalação
 
-### 1. Install Docker Desktop
+### 1. Instale o Docker Desktop
 
-Install Docker Desktop which includes both Docker and Docker Compose:
+Instale o Docker Desktop que inclui o Docker e o Docker Compose:
 
 - [macOS (Apple Silicon)](https://desktop.docker.com/mac/main/arm64/Docker.dmg)
 - [macOS (Intel)](https://desktop.docker.com/mac/main/amd64/Docker.dmg)
 - [Windows](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe)
 
-### 2. Create the Installation Folder
+### 2. Crie a pasta de instalação
 
-Create a new folder named `wiki` at the location of your choice.
+Crie uma nova pasta chamada `wiki` no local de sua escolha.
 
-Inside this folder, create a new file named `docker-compose.yaml` and paste the following contents inside:
+Dentro desta pasta, crie um novo arquivo chamado `docker-compose.yaml` e cole o seguinte conteúdo dentro:
 
 ```yaml
 version: "3"
@@ -55,23 +55,23 @@ volumes:
   db-data:
 ```
 
-This file simply defines a PostgreSQL container *(our database)* and the Wiki.js container.
+Este arquivo simplesmente define um contêiner PostgreSQL *(nosso banco de dados)* e o contêiner Wiki.js.
 
-### 3. Open Terminal / Command Prompt
+### 3. Abra o Terminal/Prompt de Comando
 
-On **macOS**, launch **Terminal** and navigate to the `wiki` folder you created earlier.
+No **macOS**, inicie o **Terminal** e navegue até a pasta `wiki` que você criou anteriormente.
 
-On **Windows**, open the folder `wiki` you created earlier in **File Explorer**.  
-In the address bar, type `cmd` and press <kbd>ENTER</kbd> to launch a **Command Prompt** at that location.
+No **Windows**, abra a pasta `wiki` que você criou anteriormente no **File Explorer**.
+Na barra de endereço, digite `cmd` e pressione <kbd>ENTER</kbd> para iniciar um **Prompt de comando** nesse local.
 
-### 4. Launch Wiki.js
+### 4. Inicie Wiki.js
 
-Type the following command in the **Terminal** / **Command Prompt** to start Wiki.js:
+Digite o seguinte comando no **Terminal** / **Prompt de comando** para iniciar o Wiki.js:
 
 ```sh
 docker compose up -d
 ```
 
-### 5. Browse to Wiki.js
+### 5. Navegue até Wiki.js
 
-Open your browser and navigate to http://localhost to complete the installation and use Wiki.js!
+Abra seu navegador em http://localhost para concluir a instalação e usar o Wiki.js!
